@@ -35,3 +35,8 @@ AIデータセンターが軌道上（SpaceXAI / Starlink等）へ進出する�
 
 ・ **自律型軌道復旧（自己修復）:**
   地球上で世界規模の通信遮断が発生した際でも、宇宙インフラが自律的に再起動し、安全を維持し続けるための自己修復プロトコルを実装します。
+  
+| No | Project / Theme | Focus Area |
+| :--- | :--- | :--- |
+| 001 | 	Deciphering Hacker Psychology | Hacker Psychology & "Heart to Protect" |
+| 002 | 	The Invisible Shield | Laser Communications & Multidimensional Decoding |
