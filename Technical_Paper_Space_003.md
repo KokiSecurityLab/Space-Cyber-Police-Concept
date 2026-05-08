@@ -5,7 +5,7 @@
 In the vast silence of space, energy is the only thing that keeps us alive. Solar panels act like the lungs of a data center, breathing in the sun's light. But out there, the sun is too close and too strong. Hardware begins to deteriorate far faster than it does on Earth. Since humans cannot easily fly up to fix a broken panel, we have to trust autonomous robots to handle the repairs.
 This trust is where a new danger hides. If a hacker takes control of these repair robots, they don't need to steal data; they can simply tell the robot to break the power line. In the vacuum of space, a physical collapse caused by a digital command is a wound that cannot be healed for years.
 To protect the energy is to protect the pulse of the future. Security must watch over the hands of the robots just as much as the data in the wires. By ensuring that no dishonest command can touch the solar veins of the station, the orbital intelligence can continue to think and grow.
-
+---
 # Koki's Technical Paper: Space Cyber Defense Series #003
 
 ## 不滅の守護者：軌道上の太陽光サプライチェーンの保護
