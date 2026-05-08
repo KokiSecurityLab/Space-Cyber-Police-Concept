@@ -40,3 +40,4 @@ AIデータセンターが軌道上（SpaceXAI / Starlink等）へ進出する�
 | :--- | :--- | :--- |
 | 001 | 	Deciphering Hacker Psychology | Hacker Psychology & "Heart to Protect" |
 | 002 | 	The Invisible Shield | Laser Communications & Multidimensional Decoding |
+| 003 | The Eternal Guardian | Solar Energy, Robotic Repairs & Physical Security |
