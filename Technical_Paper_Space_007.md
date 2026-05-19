@@ -1,6 +1,6 @@
 # Koki’s Technical Thesis: Space Cyber Defense Series #007
 
-## The Celestial Archive: Material Lifecycle Stewardship and Hardware Supply Chain Integrity in Orbital Platforms
+## The Celestial Archive : Material Lifecycle Stewardship and Hardware Supply Chain Integrity in Orbital Platforms
 
 ### Summary Digest
 In the high-stakes theater of orbital infrastructure, cybersecurity cannot remain isolated within the digital layer of bits and bytes. A true posture of sovereign resilience requires the total synchronization of logical defense with Physicalized Eco-Security. In strict coordination with the tenets of the NIST SP 800-161 Hardware Supply Chain Risk Management framework, this paper defines "The Celestial Archive"—a specialized, self-directed material classification facility governed by Colossus 1. By refusing to discard a single mechanical component into the orbital plane, we eliminate the physical liability of kinetic debris generation while re-contextualizing spent materials as premium resources for structural mitigation, achieving a state of zero-waste systemic intelligence.
