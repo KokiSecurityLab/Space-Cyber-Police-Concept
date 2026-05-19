@@ -28,7 +28,7 @@ While the autonomous robotic swarms execute sub-second path calculations, kineti
 
 ---
 
-# 宇宙サイバーディフェンス・シリーズ #005
+# Koki's Technical Paper: Space Cyber Defense Series #005
 
 ## 宇宙の掃除屋：デブリの罠から群れを守る
 
