@@ -29,7 +29,7 @@ While the closed-loop system executes sub-millisecond current routing, mechanica
 
 ---
 
-# 宇宙サイバーディフェンス・深掘りシリーズ #006
+# Koki’s Technical Thesis : Space Cyber Defense Series #006
 
 ## 生ける装甲：軌道上計算コアと電力インフラの対称的共生
 
