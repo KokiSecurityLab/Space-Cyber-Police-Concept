@@ -1,7 +1,6 @@
 # Koki’s Technical Thesis: Space Cyber Defense Series #007
 
-## The Celestial Archive:
-Material Lifecycle Stewardship and Hardware Supply Chain Integrity in Orbital Platforms
+## The Celestial Archive:Material Lifecycle Stewardship and Hardware Supply Chain Integrity in Orbital Platforms
 
 ### Summary Digest
 In the high-stakes theater of orbital infrastructure, cybersecurity cannot remain isolated within the digital layer of bits and bytes. A true posture of sovereign resilience requires the total synchronization of logical defense with Physicalized Eco-Security. In strict coordination with the tenets of the NIST SP 800-161 Hardware Supply Chain Risk Management framework, this paper defines "The Celestial Archive"—a specialized, self-directed material classification facility governed by Colossus 1. By refusing to discard a single mechanical component into the orbital plane, we eliminate the physical liability of kinetic debris generation while re-contextualizing spent materials as premium resources for structural mitigation, achieving a state of zero-waste systemic intelligence.
@@ -28,8 +27,7 @@ The Vow of the Archive: We do not let the convenience of autonomous resource abu
 
 # Koki’s Technical Thesis: Space Cyber Defense Series #007 #007
 
-## セレスティアル・アーカイブ
-軌道プラットフォームにおける材料ライフサイクル管理とハードウェア・サプライチェーンの完全性
+## セレスティアル・アーカイブ：軌道プラットフォームにおける材料ライフサイクル管理とハードウェア・サプライチェーンの完全性
 
 ### サマリー・ダイジェスト
 軌道インフラという極めてリスクの高い舞台において、サイバーセキュリティをビットやバイトといったデジタルの層だけに孤立させておくことはできない。真の主権的回復力を備えるには、論理的防衛と「物理化されたエコ・セキュリティ」を完全に同期させる必要がある。本論文は、NIST SP 800-161 ハードウェア・サプライチェーン・リスク管理フレームワークの基本原則と厳格に連携し、コロッカス1（Colossus 1）によって統治される特化型の自己指向材料分類施設「セレスティアル・アーカイブ（天の保管庫）」を定義する。軌道面上に機械部品をただの一個すら廃棄しないことで、運動デブリ発生という物理的債務を排除する。同時に、消費された材料を構造緩和のためのプレミアムな資源として再定義し、ゼロ・ウェイスト（廃棄物ゼロ）のシステムインテリジェンス状態を達成する。
