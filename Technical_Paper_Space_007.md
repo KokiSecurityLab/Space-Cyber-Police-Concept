@@ -1,4 +1,4 @@
-# Koki’s Technical Thesis: Space Cyber Defense Series #007
+# Koki’s Technical Thesis : Space Cyber Defense Series #007
 
 ## The Celestial Archive : Material Lifecycle Stewardship and Hardware Supply Chain Integrity in Orbital Platforms
 
@@ -32,7 +32,7 @@ While the automated infrastructure executes sub-millisecond sorting, material pr
 
 ---
 
-### Koki’s Technical Thesis: Space Cyber Defense Series #007
+### Koki’s Technical Thesis : Space Cyber Defense Series #007
 
 ## セレスティアル・アーカイブ：軌道プラットフォームにおける材料ライフサイクル管理とハードウェア・サプライチェーンの完全性
 
