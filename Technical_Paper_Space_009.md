@@ -9,7 +9,7 @@ As the battlefield shifts to the stars, state-sponsored military organizations p
 
 ### 1. The New Frontier of State-Led Warfare
 In the near future, orbital infrastructure will become the primary target for national military interests seeking strategic dominance.
-*   **The Silent Predator :** A hijacked satellite is not just a lost asset; it is a weapon capable of triggering collisions or blacking out global communications at will.
+*   **The Silent Predator :** A hijacked satellite is not just a lost asset ; it is a weapon capable of triggering collisions or blacking out global communications at will.
 *   **Weaponization of the Brain :** Seizing a central processing node allows a hostile state to weaponize the very intelligence designed to protect the sanctuary.
 
 
