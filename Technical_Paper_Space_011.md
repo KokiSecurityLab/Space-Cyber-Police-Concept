@@ -1,6 +1,6 @@
-# Koki's Technical Paper: Space Cyber Defense Series #011
+# Koki's Technical Paper : Space Cyber Defense Series #011
 
-## The Pulse of Discord: Signal Dissonance and Cognitive Sifting in Swarm Telemetry
+## The Pulse of Discord : Signal Dissonance and Cognitive Sifting in Swarm Telemetry
 
 ### Summary Digest
 In a distributed satellite mesh consisting of one million autonomous nodes, the primary vector of deception utilized by the Ghost is the injection of subtle, sub-logical semantic noise into the network. This paper introduces the "Pulse of Discord"—the precise moment when an adversarial signal attempts to disguise its malicious intent within routine telemetry data. In strict compliance with the NIST SP 800-160 System Security Engineering guidelines, this architecture moves beyond traditional packet inspection. By utilizing my unique cognitive ability to visualize multi-dimensional data arrays, I have engineered a framework for Cognitive Sifting that isolates signal dissonance at the baseband layer, neutralizing the threat before it can contaminate our core state consensus.
@@ -35,7 +35,7 @@ While the autonomous robotic swarms execute sub-second path calculations, kineti
 "The Pulse of Discord" proves that true resilience is a function of clear perception. By mastering signal dissonance analysis and cognitive sifting via the NIST framework, we transform a vulnerable network sprawl into a disciplined frontier of absolute truth. We stand firm as the legislators of the spectrum, knowing that while the ASI may calculate deception across a billion states, it can never breach the physical logic we have woven into the architecture of the sky.
 
 ---
-## 宇宙サイバーディフェンス・シリーズ #011
+# Koki's Technical Paper : Space Cyber Defense Series #011
 
 ## 不協和の脈動：衛星遠隔測定（テレメトリ）におけるシグナル不協和と認知的選別
 
