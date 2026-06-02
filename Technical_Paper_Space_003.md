@@ -1,6 +1,6 @@
-# Koki's Technical Paper: Space Cyber Defense Series #003
+# Koki's Technical Paper : Space Cyber Defense Series #003
 
-## The Eternal Guardian: Protecting the Solar Supply Chain in Orbit
+## The Eternal Guardian : Protecting the Solar Supply Chain in Orbit
 
 ### Summary Digest
 In the vacuum of space, energy is the vital pulse that sustains orbital intelligence. As hardware deteriorates rapidly under extreme solar radiation, maintenance must be delegated to autonomous robots. This creates a new "Cyber-Physical Threat": a hacker could seize control of these robots to execute physical sabotage, such as severing power lines. This paper defines the strategic necessity of monitoring the "physical intent" of robotic actions, ensuring that no dishonest command can touch the solar infrastructure—the very lungs of the orbital station.
@@ -33,6 +33,7 @@ To protect the energy is to protect the pulse of the future. Securing the solar 
 ### サマリー・ダイジェスト
 宇宙空間におけるエネルギー供給は、軌道上の知能（データセンター）にとっての「肺」であり、生命線である。極限環境下でのハードウェア劣化に伴い、保守管理を自律型ロボットに依存せざるを得ない現状は、新たなサイバー物理的脅威（Cyber-Physical Threat）を生んでいる。ハッカーが修理ロボットを乗っ取り、物理的な破壊を命じれば、それは修復不能な致命傷となる。本稿では、通信データだけでなくロボットの「物理的な挙動」そのものを監視・防衛し、ステーションのエネルギー供給網という「血管」を守り抜く戦略的必要性を定義する。
 
+---
 ### 1. 軌道上の知能の肺：太陽光エネルギーへの依存
 宇宙の真空において、エネルギーは生命と知能を維持するための唯一の鼓動である。
 *   **急速な劣化:** 強烈な太陽放射は、地上の比ではない速度でハードウェアの劣化を引き起こす。
