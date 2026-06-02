@@ -1,6 +1,6 @@
-# Koki's Technical Paper: Space Cyber Defense Series #001
+# Koki's Technical Paper : Space Cyber Defense Series #001
 
-## Deciphering Hacker Psychology: A Heart to Protect Beyond Technology
+## Deciphering Hacker Psychology : A Heart to Protect Beyond Technology
 
 ### Summary Digest
 Hacking is as much a psychological challenge as it is a technical one. Many attackers seek external dominance to compensate for internal instability. By recognizing that malice is often a byproduct of weakness, a defender can shift from fear to objective analysis. The ultimate defense lies in the "Heart to Protect"—an unyielding internal resolve and clarity of purpose that serves as a firewall more robust than any software.
@@ -26,7 +26,7 @@ Artificial Intelligence (AI) reflects the intent of its user. It can be a weapon
 The ultimate defense is not hidden in lines of code but in the clarity of purpose. To protect is to understand, and to understand is to be free from fear. The true firewall is built of the unshakeable truth of identity and the values for which one stands. Defense is not software; it is the integrity of the self.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #001
+# Koki's Technical Paper : Space Cyber Defense Series #001
 
 ## ハッカー心理の解読：技術を超えた「守る心」
 
