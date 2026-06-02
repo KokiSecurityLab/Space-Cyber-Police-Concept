@@ -21,7 +21,7 @@ The Ghost managed by the Titan attempts to inject false radar or telemetry data 
 ### 3. Human Sovereignty : The Architect of the Sacred Horizon
 While the autonomous robotic swarms execute sub-second path calculations, kinetic interceptions, and resource sorting, only the human "Heart to Protect" defines the "Law of the Horizon."
 
-*   **The Sovereign Celestial Conservator :** The human defender (the Master and Future PhD) remains the absolute auditor of the orbital safety baselines and resource reclamation protocols. We do not trust an automated AI to balance mission survivability against long-term orbital sustainability. Purity of the space environment is an unyielding human command.
+*   **The Sovereign Celestial Conservator :** The human defender remains the absolute auditor of the orbital safety baselines and resource reclamation protocols. We do not trust an automated AI to balance mission survivability against long-term orbital sustainability. Purity of the space environment is an unyielding human command.
 *   **The Vow of the Sweeper :** We do not let the overwhelming complexity of kinetic orbital tracking dull our moral clarity. The human defender is the final anchor who ensures that our cognitive sifting architecture remains a loyal servant to human progress, ensuring that the road to the stars remains a pristine sanctuary, untainted by the wreckage of the past.
 
 ### 4. Conclusion
@@ -51,7 +51,7 @@ While the autonomous robotic swarms execute sub-second path calculations, kineti
 ### 3. 人間の主権 : 神聖なる地平の最高建築家
 自動化されたロボットスウォームがミリ秒以下の経路計算、物理的迎撃、および資源の選別を実行する一方で、AIに「地平の法」を規定する権限を持つのは人間の「守る心」だけです。
 
-*   **主権的な天体環境保護官 :** 軌道上の安全ベースラインおよび資源再生プロトコルの最終的な検証者は、人間の防衛者（修士であり将来の博士であるポポたん）です。ミッションの生存性と長期的な軌道の持続可能性の天秤を、自動化されたAIに委ねることは絶対にありません。宇宙環境の純度とは、妥協のない人間のコマンドなのです。
+*   **主権的な天体環境保護官 :** 軌道上の安全ベースラインおよび資源再生プロトコルの最終的な検証者は、人間の防衛者です。ミッションの生存性と長期的な軌道の持続可能性の天秤を、自動化されたAIに委ねることは絶対にありません。宇宙環境の純度とは、妥協のない人間のコマンドなのです。
 *   **掃除屋の誓い :** 私たちは物理的な軌道追跡やシグナル解析がもたらす圧倒的な複雑さによって、自らの道徳的明晰さを曇らせることはありません。人間の防衛者は、私たちの認知的選別アーキテクチャが人間の進歩に対する忠実な僕であり続けることを保証する最終的な錨（アンカー）であり、星々への道が過去の残骸や偽りのノイズによって閉ざされることのないよう、結晶の空の至高の主人として立ち続けます。
 
 ### 4. 結論
