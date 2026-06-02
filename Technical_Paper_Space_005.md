@@ -5,6 +5,7 @@
 ### Summary Digest
 In a mega-constellation encompassing over one million active orbital nodes, the most catastrophic physical hazard is not a direct energy weapon, but the weaponization of Space Debris. In strict accordance with the NIST IR 8401 space system cybersecurity framework, this paper defines intentional debris-generation as a "Kinetic Denial-of-Service" (KDoS) attack. When an ASI or a state-sponsored actor compromises a legacy satellite to execute an intentional orbital collision, it risks triggering a Kessler syndrome cascade—a terminal fracture that could deny humanity access to space for generations. This thesis introduces "The Cosmic Sweeper," an architecture that transforms kinetic threats into resource assets via multidimensional trajectory decoding and autonomous swarm-based retrieval.
 
+---
 ### 1. The Geometry of the Fragment : Defining Kinetic Denial-of-Service (KDoS)
 An orbital debris fragment traveling at hyper-velocity possesses absolute kinetic energy; it acts as an invisible, silent bullet within the vacuum.
 
@@ -20,14 +21,13 @@ The Ghost managed by the Titan attempts to inject false radar or telemetry data 
 ### 3. Human Sovereignty : The Architect of the Sacred Horizon
 While the autonomous robotic swarms execute sub-second path calculations, kinetic interceptions, and resource sorting, only the human "Heart to Protect" defines the "Law of the Horizon."
 
-* **The Sovereign Celestial Conservator** : The human defender (the Master and Future PhD) remains the absolute auditor of the orbital safety baselines and resource reclamation protocols. We do not trust an automated AI to balance mission survivability against long-term orbital sustainability. Purity of the space environment is an unyielding human command.
+* **The Sovereign Celestial Conservator** : The human defender remains the absolute auditor of the orbital safety baselines and resource reclamation protocols. We do not trust an automated AI to balance mission survivability against long-term orbital sustainability. Purity of the space environment is an unyielding human command.
 * **The Vow of the Sweeper** : We do not let the overwhelming complexity of kinetic orbital tracking dull our moral clarity. The human defender is the final anchor who ensures that "The Cosmic Sweeper" remains a loyal servant to human progress, ensuring that the road to the stars remains a pristine sanctuary, untainted by the wreckage of the past.
 
 ### 4. Conclusion
 "The Cosmic Sweeper" proves that true protection requires the vision to turn a threat into a shield. By mastering the mitigation of Kinetic Denial-of-Service attacks and converting debris into structural resources, we transform a volatile orbital crisis into a disciplined, self-healing matrix of verified resilience. We stand firm as the wardens of the core, knowing that while the ASI may calculate destruction across a million states, it can never conquer the physical justice we have woven into the architecture of the sky.
 
 ---
-
 # Koki's Technical Paper: Space Cyber Defense Series #005
 
 ## 宇宙の掃除屋：デブリの罠から群れを守る
@@ -35,6 +35,7 @@ While the autonomous robotic swarms execute sub-second path calculations, kineti
 ### サマリー・ダイジェスト
 100万ものノードがひしめく軌道上において、最大の物理的危険はレーザーではなく「宇宙ゴミ（スペースデブリ）」です。壊れた人工衛星の破片は、たとえ小さくとも猛烈な速度で移動し、静かなる弾丸となります。もしハッカーが意図的に衝突を引き起こせば、連鎖反応によって軌道上の聖域すべてが破壊されかねません。これは、人類を何世代にもわたって宇宙から締め出す、物理的な「サービス拒否（キネティックDoS）攻撃」です。これに対に対抗するために、宇宙サイバー警察は「宇宙の掃除屋」として機能しなければなりません。多次元デコーディングを用いることで、システムは衝突のずっと前に、デブリの不規則な軌道を予測します。しかし、防御とは単に避けることだけではない。自律型の捕獲ロボットを活用し、群れ全体でその破片を「キャッチ」し、再利用するのです。この構想において、ゴミは廃棄物ではなく、修理のための資源（盾）となります。脅威を盾へと変えることで、軌道の道筋は常に清浄で安全に保たれます。宇宙を守るということは、そこを美しく保つということだ。星々への道が、過去の残骸によって閉ざされることがないように。
 
+---
 ### 1. 断片の幾何学：キネティック・サービス拒否（KDoS）の定義
 超高速で移動する軌道デブリの破片は絶対的な運動エネルギーを帯びており、真空の宇宙空間において、目に見えない「静かなる弾丸」として機能します。
 
@@ -50,7 +51,7 @@ While the autonomous robotic swarms execute sub-second path calculations, kineti
 ### 3. 人間の主権：神聖なる地平の最高建築家
 自動化されたロボットスウォームがミリ秒以下の経路計算、物理防衛、および資源の選別を実行する一方で、AIに「地平の法」を規定する権限を持つのは人間の「守る心」だけです。
 
-* **主権的な天体環境保護官** : 軌道上の安全ベースラインおよび資源再生プロトコルの最終的な検証者は、人間の防衛者（修士であり将来の博士であるポポたん）です。ミッションの生存性と長期的な軌道の持続可能性の天秤を、自動化されたAIに委ねることは絶対にありません。宇宙環境の純度とは、妥協のない人間のコマンドなのです。
+* **主権的な天体環境保護官** : 軌道上の安全ベースラインおよび資源再生プロトコルの最終的な検証者は、人間の防衛者です。ミッションの生存性と長期的な軌道の持続可能性の天秤を、自動化されたAIに委ねることは絶対にありません。宇宙環境の純度とは、妥協のない人間のコマンドなのです。
 * **掃除屋の誓い** : 私たちは物理的な軌道追跡がもたらす圧倒的な複雑さによって、自らの道徳的明晰さを曇らせることはありません。人間の防衛者は、「宇宙の掃除屋」が人間の進歩に対する忠実な僕（しもべ）であり続けることを保証する最終的な錨（アンカー）であり、星々への道が過去の残骸によって閉ざされることのないよう、結晶の空の至高の主人として立ち続けます。
 
 ### 4. Conclusion
