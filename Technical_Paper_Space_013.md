@@ -1,7 +1,7 @@
 # Koki's Technical Paper: Space Cyber Defense Series #013
 
 ## Biological Logic Healing: Self-Repairing Code and Health Baselines in Resilient Swarms
----
+
 ### Summary Digest
 In a distributed mega-constellation exposed to unpredictable cosmic radiation and aggressive zero-day exploitations by an ASI, static code patching is a functional failure. When a core sub-system is fractured, the architecture must possess the systemic autonomy to regenerate its logical structure in real-time. This paper introduces "Biological Logic Healing"—a paradigm that treats software infrastructure as a living organic cellular matrix. In strict accordance with the NIST SP 800-160 Considerations for Cyber-Resilient Systems, this architecture implements Self-Repairing Code anchored in immutable Health Baselines. By continuously monitoring the structural metrics of the platform, the swarm dynamically re-synthesizes compromised instructions, neutralizing the threat before a single logical degradation can compromise our global state consensus.
 
@@ -31,7 +31,7 @@ While the autonomous cellular scripts handle sub-millisecond binary re-synthesis
 # Koki's Technical Paper: Space Cyber Defense Series #013
 
 ## 生物学的論理修復：レジリエントな衛星群における自己修復コードとヘルスのベースライン
----
+
 ### サマリー・ダイジェスト
 宇宙線による予測不可能な放射線や、ASI（人工超知能）による攻撃的なゼロデイ搾取に晒される分散型メガ・コンステレーションにおいて、静的なコードのパッチ当て（修正）は機能的な敗北を意味します。コア・サブシステムが破断したとき、アーキテクチャは自らの論理構造をリアルタイムで再生するシステム的な自律性を備えていなければなりません。本稿は「生物学的論理修復（バイオロジカル・ロジック・ヒーリング）」――ソフトウェアインフラを、生きている有機的な細胞マトリクス（基質）として扱うパラダイムを導入します。NIST SP 800-160（サイバーレジリエントなシステムに関する考察）に厳格に準拠し、このアーキテクチャは不変の「ヘルスのベースライン」に繋ぎ止められた「自己修復コード」を実装します。プラットフォームの構造的メトリクスを継続的に監視することで、衛星群は侵害された命令を動的に再合成し、単一の論理的劣化が私たちのグローバルな状態合意を侵害する前に脅威を無力化するのです。
 
