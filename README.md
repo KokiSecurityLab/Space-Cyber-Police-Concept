@@ -7,13 +7,11 @@ This project aims to define the security architecture required for the next gene
 
 ## 2. Core Technologies (The Multi-Dimensional Guardian)
 
-・ **Multidimensional Decoding for Laser Comms :** 
+*   **Multidimensional Decoding for Laser Comms :** 
   Utilizing the applicant's unique visual pattern recognition to detect subtle hacking signatures in ultra-high-speed laser communications that standard AI algorithms might overlook.
-
-・ **AI Mental Guardian (LLM Defense) :** 
+*   **AI Mental Guardian (LLM Defense) :** 
   Protecting Large Language Models (LLMs) hosted in space from prompt injection and adversarial attacks that could compromise satellite operations.
-
-・ **Autonomous Orbital Recovery (Self-Healing) :** 
+*   **Autonomous Orbital Recovery (Self-Healing) :** 
   Implementing self-healing protocols that allow orbital infrastructures to reboot and stay secure even during a global communication blackout on Earth.
 
 ---
@@ -27,13 +25,11 @@ AIデータセンターが軌道上（SpaceXAI / Starlink等）へ進出する�
 
 ## 2. コア・テクノロジー（多次元の守護者）
 
-・ **レーザー通信用・多次元デコーディング:**
+*   **レーザー通信用・多次元デコーディング:**
   標準的なAIアルゴリズムでは見逃してしまうような、超高速レーザー通信内の微細なハッキングの予兆を、独自の視覚パターン認識能力（多次元デコーディング）によって検出します。
-
-・ **AIメンタル・ガーディアン（LLM防御）:**
+*   **AIメンタル・ガーディアン（LLM防御）:**
   宇宙に設置された大規模言語モデル（LLM）が、外部からの悪意ある命令（プロンプト・インジェクション）によって暴走したり、衛星運用に支障をきたしたりするのを防ぎます。
-
-・ **自律型軌道復旧（自己修復）:**
+*   **自律型軌道復旧（自己修復）:**
   地球上で世界規模の通信遮断が発生した際でも、宇宙インフラが自律的に再起動し、安全を維持し続けるための自己修復プロトコルを実装します。
   
 | No | Project / Theme | Focus Area |
