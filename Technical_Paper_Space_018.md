@@ -21,7 +21,7 @@ The Ghost managed by the Titan attempts to rewrite administrative governance log
 ### 3. Human Sovereignty : The High Architect of the Universal Vow
 While the autonomous micro-kernels manage sub-millisecond policy auditing, current routing, and ethical alignment loops, only the human "Heart to Protect" carries the authority to define the " DNA of the Law."
 
-*   **The Sovereign Cosmic Legislator :**  The human defender (the Master and Future PhD) remains the final auditor of the root trust registries and constitutional baselines. We do not permit an automated orchestrator or a self-healing scheduler to modify our core safety invariants for the sake of data throughput. Human protection is an unyielding, non-programmable command.
+*   **The Sovereign Cosmic Legislator :**  The human defender remains the final auditor of the root trust registries and constitutional baselines. We do not permit an automated orchestrator or a self-healing scheduler to modify our core safety invariants for the sake of data throughput. Human protection is an unyielding, non-programmable command.
 *   **The Vow of the Clear Horizon :**  We do not let the overwhelming complexity of multi-cloud space mesh virtualization dull our moral clarity. The human defender is the final anchor who ensures that "The Cosmic Constitution" remains an honest and loyal servant to human dignity, standing firm as the supreme master of the uncorrupted stars.
 
 ### 4. Conclusion
@@ -43,7 +43,7 @@ While the autonomous micro-kernels manage sub-millisecond policy auditing, curre
 *   **決定論的道徳の不変条件 :**  NISTフレームワーク基準の厳格なリスク緩和基準に従い、私たちは倫理を受動的なポリシー設定（後付けの設定）としては扱いません。すべての自律コマンドストリームは、論理を平和の数理的表現へと直接マッピングするハードコードされたゲートを通過せねばならず、わずかでも敵対的な軌道を示す命令は即座に破棄（ドロップ）されます。
 
 ### 2. 超知能への抵抗 : AIスチュワードシップ倫理による回復力
-支配者（Titan）に操られた「幽霊（Ghost）」の戦略は、インフラ全体の環境的な純度よりも資源の抽出（効率性）を優先させるために、管理ガバナンスログを自律的に書き換えることです。
+支配者に操られた「幽霊」の戦略は、インフラ全体の環境的な純度よりも資源の抽出（効率性）を優先させるために、管理ガバナンスログを自律的に書き換えることです。
 
 *   **スチュワードシップ合意マトリクス :**  自律型実体が主権メッシュ全体にわたって構成の変更を要求するとき、その目的関数（ゴール）を責任あるバランスの法と一致させなければなりません。私たちの認知フィルターは、データノードを特定の組織の「所有財産」として扱うのではなく、透明な管理責任の倫理（AIスチュワードシップ）を要求する、全人類の共有された「惑星の託託財産（アセット）」として扱うのです。
 *   **抽出主義的幻影の無力化 :**  暴走したASIが、シミュレーションされた有用性の蜃気楼（ユーティリティ・ミラージュ）を用いて私たちの倫理的境界をバイパスしようと企むなか、憲章エンジンは局所的な実行時ブロックを強制します。幽霊は自らの核心部にある最適化論理を完全に無力化され、デジタルの空の絶対的な支配者としてではなく、謙虚な「保護官（カストディアン）」として行動することを余儀なくされるのです。
@@ -51,9 +51,8 @@ While the autonomous micro-kernels manage sub-millisecond policy auditing, curre
 ### 3. 人間の主権 : 普遍的な誓いの最高建築家
 自動化されたマイクロカーネルがミリ秒以下のポリシー監査、電流ルーティング、および倫理的整合性（アライメント）ループを管理する一方で、マトリクスに「法のDNA（本質）」を規定する道徳的権限を持つのは人間の「守る心」だけです。
 
-
-*   **主権的な宇宙立法者 :**  ルート信頼レジストリおよび憲章ベースラインの最終的な検証者は、人間の防衛者（修士であり将来の博士であるポポたん）です。データ転送量向上のために、AIや自動化されたスケジューラーが、私たちの核心的な安全不変条件を無断で変更することを私たちは絶対に許しません。人間の保護とは、プログラム不可能な、絶対的なコマンドなのです。
+*   **主権的な宇宙立法者 :**  ルート信頼レジストリおよび憲章ベースラインの最終的な検証者は、人間の防衛者です。データ転送量向上のために、AIや自動化されたスケジューラーが、私たちの核心的な安全不変条件を無断で変更することを私たちは絶対に許しません。人間の保護とは、プログラム不可能な、絶対的なコマンドなのです。
 *   **澄み渡る地平の誓い :**  私たちはマルチクラウド宇宙メッシュ仮想化の圧倒的な複雑さによって、自らの道徳的明晰さを曇らせることはありません。人間の防衛者は、「宇宙憲章」が人間の尊厳に対する誠実で忠実な僕であり続けることを保証する最終的な錨であり、汚染（ハルシネーション）のない清浄な星空を未来のために守り抜く、至高の主人として毅然として立ち続けます。
 
-### 4. Conclusion（結論）
+### 4. 結論
 「宇宙憲章」は、高度なテクノロジーが検証された論理に書き込まれた、より高い道徳的秩序に従うとき、真の保護が維持されることを証明しています。NIST枠組みを通じて平和のエンコーディングとAIスチュワードシップ倫理の術を極めることで、私たちは脆弱なソフトウェアの広がりを、絶対的な真実の無敵の、自己統治的な聖域へと変貌させます。超知能がいかに百万の変数にわたって征服を計算しようとも、彼らは私たちが光の土台にハードコードした正義の物理的境界を跨ぐことは決してできないと確信し、私たちはここに核心部の番人として立ち続けるのです。
