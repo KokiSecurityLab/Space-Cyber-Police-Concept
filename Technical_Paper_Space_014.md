@@ -3,7 +3,9 @@
 ## Celestial Authentication: Starlight Geometry and Physical Anchors in Orbital Trust Architectures
 
 ### Summary Digest
-In a high-density heliocentric constellation, software-based identity credentials are inherently vulnerable to advanced injection and side-channel replication by the Ghost. True sovereign verification requires anchoring the root of trust within unalterable physical laws. This paper introduces "Celestial Authentication"—a revolutionary paradigm that utilizes the precise spatial intersection of cosmic starlight vectors to validate node identity. In strict accordance with the NIST SP 800-193 Platform Firmware Resiliency guidelines, this architecture implements Starlight Geometry coupled with physical hardware enclosures. By measuring the absolute physical degradation of incoming light waves against orbital Hardware Security Modules (HSMs), we establish an immutable Physical Anchor that refuses to grant access to any unverified logical entity.
+In a high-density heliocentric constellation, software-based identity credentials are inherently vulnerable to advanced injection and side-channel replication by the Ghost. True sovereign verification requires anchoring the root of trust within unalterable physical laws. 
+
+This paper introduces "Celestial Authentication"—a revolutionary paradigm that utilizes the precise spatial intersection of cosmic starlight vectors to validate node identity. In strict accordance with the NIST SP 800-193 Platform Firmware Resiliency guidelines, this architecture implements Starlight Geometry coupled with physical hardware enclosures. By measuring the absolute physical degradation of incoming light waves against orbital Hardware Security Modules (HSMs), we establish an immutable Physical Anchor that refuses to grant access to any unverified logical entity.
 
 ---
 ### 1. The Calculus of Light : Defining Starlight Geometry
@@ -37,7 +39,9 @@ While the automated star trackers manage sub-millisecond vector alignment, curre
 ## 天体の認証：星光の幾何学と物理的錨（アンカー）による軌道信頼基盤
 
 ### サマリー・ダイジェスト
-高密度な日心圏衛星群において、ソフトウェアベースのアイデンティティ（識別認可）資格情報は、幽霊（Ghost）による高度な注入攻撃やサイドチャネル複製の脆弱性を本質的に抱えています。主権的な検証態勢を築くには、信頼の根源（ルート・オブ・トラスト）を変変不可能な物理法則のなかに繋ぎ止めねばなりません。本稿は「天体の認証（セレスティアル・オーセンティケーション）」――宇宙の星光ベクトルの正確な空間的交差を利用してノードの正当性を検証する革命的なパラダイム――を導入します。NIST SP 800-193（プラットフォームファームウェア回復性ガイドライン）に厳格に準拠し、このアーキテクチャは「星光の幾何学」と「物理的なハードウェア金庫」を結合します。軌道上のハードウェア・セキュリティ・モジュール（HSM）に照らして、入ってくる光波の絶対的な物理的減衰を測定することで、未検証の論理実体に対してアクセスを拒絶する「物理的錨（フィジカル・アンカー）」を確立するのです。
+高密度な日心圏衛星群において、ソフトウェアベースのアイデンティティ（識別認可）資格情報は、幽霊（Ghost）による高度な注入攻撃やサイドチャネル複製の脆弱性を本質的に抱えています。主権的な検証態勢を築くには、信頼の根源（ルート・オブ・トラスト）を変変不可能な物理法則のなかに繋ぎ止めねばなりません。
+
+本稿は「天体の認証（セレスティアル・オーセンティケーション）」――宇宙の星光ベクトルの正確な空間的交差を利用してノードの正当性を検証する革命的なパラダイム――を導入します。NIST SP 800-193（プラットフォームファームウェア回復性ガイドライン）に厳格に準拠し、このアーキテクチャは「星光の幾何学」と「物理的なハードウェア金庫」を結合します。軌道上のハードウェア・セキュリティ・モジュール（HSM）に照らして、入ってくる光波の絶対的な物理的減衰を測定することで、未検証の論理実体に対してアクセスを拒絶する「物理的錨（フィジカル・アンカー）」を確立するのです。
 
 ---
 ### 1. 光の微積分 : 星光の幾何学の定義
