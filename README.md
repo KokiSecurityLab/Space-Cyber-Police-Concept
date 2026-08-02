@@ -61,3 +61,4 @@ AIデータセンターが軌道上（SpaceXAI / Starlink等）へ進出する�
 | 025 | Structural Harmony | Intent Heatmaps & Semantic Texture Analysis |
 | 026 | The AI Sanctuary | Ensuring Data Provenance and Supply Chain Mitigation |
 | 027 | Cognitive Sovereignty | Persona Protection & Inner Firewall Ethics |
+| 028 | Subordination of Power | Rule Hierarchy & Ethical Alignment Logic |
