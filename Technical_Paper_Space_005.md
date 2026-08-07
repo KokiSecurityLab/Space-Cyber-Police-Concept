@@ -3,7 +3,9 @@
 ## The Cosmic Sweeper: Mitigating Kinetic-DoS and Reclaiming Orbital Integrity in Dense Swarm Architectures
 
 ### Summary Digest
-In a mega-constellation encompassing over one million active orbital nodes, the most catastrophic physical hazard is not a direct energy weapon, but the weaponization of Space Debris. In strict accordance with the NIST IR 8401 space system cybersecurity framework, this paper defines intentional debris-generation as a "Kinetic Denial-of-Service" (KDoS) attack. When an ASI or a state-sponsored actor compromises a legacy satellite to execute an intentional orbital collision, it risks triggering a Kessler syndrome cascade—a terminal fracture that could deny humanity access to space for generations. This thesis introduces "The Cosmic Sweeper," an architecture that transforms kinetic threats into resource assets via multidimensional trajectory decoding and autonomous swarm-based retrieval.
+In a mega-constellation encompassing over one million active orbital nodes, the most catastrophic physical hazard is not a direct energy weapon, but the weaponization of Space Debris. 
+
+In strict accordance with the NIST IR 8401 space system cybersecurity framework, this paper defines intentional debris-generation as a "Kinetic Denial-of-Service" (KDoS) attack. When an ASI or a state-sponsored actor compromises a legacy satellite to execute an intentional orbital collision, it risks triggering a Kessler syndrome cascade—a terminal fracture that could deny humanity access to space for generations. This thesis introduces "The Cosmic Sweeper," an architecture that transforms kinetic threats into resource assets via multidimensional trajectory decoding and autonomous swarm-based retrieval.
 
 ---
 ### 1. The Geometry of the Fragment : Defining Kinetic Denial-of-Service (KDoS)
@@ -33,7 +35,9 @@ While the autonomous robotic swarms execute sub-second path calculations, kineti
 ## 宇宙の掃除屋：デブリの罠から群れを守る
 
 ### サマリー・ダイジェスト
-100万ものノードがひしめく軌道上において、最大の物理的危険はレーザーではなく「宇宙ゴミ（スペースデブリ）」です。壊れた人工衛星の破片は、たとえ小さくとも猛烈な速度で移動し、静かなる弾丸となります。もしハッカーが意図的に衝突を引き起こせば、連鎖反応によって軌道上の聖域すべてが破壊されかねません。これは、人類を何世代にもわたって宇宙から締め出す、物理的な「サービス拒否（キネティックDoS）攻撃」です。これに対に対抗するために、宇宙サイバー警察は「宇宙の掃除屋」として機能しなければなりません。多次元デコーディングを用いることで、システムは衝突のずっと前に、デブリの不規則な軌道を予測します。しかし、防御とは単に避けることだけではない。自律型の捕獲ロボットを活用し、群れ全体でその破片を「キャッチ」し、再利用するのです。この構想において、ゴミは廃棄物ではなく、修理のための資源（盾）となります。脅威を盾へと変えることで、軌道の道筋は常に清浄で安全に保たれます。宇宙を守るということは、そこを美しく保つということだ。星々への道が、過去の残骸によって閉ざされることがないように。
+100万を超えるアクティブな軌道ノードを内包するメガコンステレーションにおいて、最も壊滅的な物理的脅威は、直接指向性エネルギー兵器ではなく、宇宙デブリ（スペースデブリ）の兵器化である。
+
+宇宙システムサイバーセキュリティフレームワーク「NIST IR 8401」に厳密に準拠し、本論文では意図的なデブリ発生を「キネティック・ディナイアル・オブ・サービス（KDoS：物理的サービス拒否）」攻撃と定義する。自律型人工知能（ASI）や国家に支援されたアクターが、レガシー人工衛星を乗っ取って意図的な軌道衝突を実行した場合、ケスラーシンドロームの連鎖を引き起こすリスクがある。それは、何世代にもわたり人類の宇宙へのアクセスを拒絶しかねない致命的な破滅を意味する。本論文では、多次元軌道デコードと自律型スウォーム（群制御）ベースの回収技術を介し、キネティックな脅威を資源資産へと変換するアーキテクチャ「コズミック・スイーパー（The Cosmic Sweeper）」を提案する。
 
 ---
 ### 1. 断片の幾何学：キネティック・サービス拒否（KDoS）の定義
