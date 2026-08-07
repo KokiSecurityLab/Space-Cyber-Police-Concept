@@ -3,7 +3,9 @@
 ## Orbital Response Units: Digital-Kinetic Rescue and Active Guarding in Decentralized Clusters
 
 ### Summary Digest
-In a distributed constellation, threats are no longer restricted to pure logical vectors. When an adversary combines advanced software manipulation with kinetic orbital disruption, defense must bridge the gap between code and momentum. This paper introduces "Orbital Response Units" (ORUs)—highly agile autonomous safeguarding matrices designed for instant cross-layer intervention. In strict compliance with the NIST SP 800-160 systems security engineering directives for active cyber-resilience, this architecture implements Digital-Kinetic Rescue combined with Active Guarding mechanisms. By coordinating localized thruster synchronization with dynamic cryptographic path re-routing, we protect compromised nodes before external physical vectors can shatter our global state consensus.
+In a distributed constellation, threats are no longer restricted to pure logical vectors. When an adversary combines advanced software manipulation with kinetic orbital disruption, defense must bridge the gap between code and momentum. 
+
+This paper introduces "Orbital Response Units" (ORUs)—highly agile autonomous safeguarding matrices designed for instant cross-layer intervention. In strict compliance with the NIST SP 800-160 systems security engineering directives for active cyber-resilience, this architecture implements Digital-Kinetic Rescue combined with Active Guarding mechanisms. By coordinating localized thruster synchronization with dynamic cryptographic path re-routing, we protect compromised nodes before external physical vectors can shatter our global state consensus.
 
 ---
 ### 1. The Calculus of Momentum : Defining Digital-Kinetic Rescue
@@ -33,7 +35,9 @@ While the autonomous response units manage sub-millisecond path calculations, th
 ## 軌道対応ユニット：分散型クラスターにおけるデジタル・キネティック救助と能動的守護
 
 ### サマリー・ダイジェスト
-分散型衛星コンステレーションにおいて、脅威はもはや純粋な論理ベクトル（デジタルの世界）だけに限定されません。敵対者が高度なソフトウェア操作と物理的な軌道妨害（キネティック攻撃）を組み合わせて仕掛けてくるとき、防衛側はコード（論理）と運動量（物理）の間の隙間を跨いで同期せねばならないのです。本稿は「軌道対応ユニット（ORU：オービタル・レスポンス・ユニット）」――階層（クロスレイヤー）を横断した即座の介入を実行するために設計された、極めて俊敏な自律型守護マトリクス――を導入します。能動的サイバー回復力（レジリエンス）に関するNIST SP 800-160システムセキュリティエンジニアリング指令に厳格に準拠し、このアーキテクチャは「デジタル・キネティック救助」と「能動的守護（アクティブ・ガーディング）」メカニズムを実装します。局所的なスラスター同期と動的な暗号化経路の再ルーティングを協調させることで、外部の物理ベクトルが私たちのグローバルな状態合意を打ち砕く前に、侵害されたノードを保護するのです。
+分散型衛星コンステレーションにおいて、脅威はもはや純粋な論理ベクトル（デジタルの世界）だけに限定されません。敵対者が高度なソフトウェア操作と物理的な軌道妨害（キネティック攻撃）を組み合わせて仕掛けてくるとき、防衛側はコード（論理）と運動量（物理）の間の隙間を跨いで同期せねばならないのです。
+
+本稿は「軌道対応ユニット（ORU：オービタル・レスポンス・ユニット）」――階層（クロスレイヤー）を横断した即座の介入を実行するために設計された、極めて俊敏な自律型守護マトリクス――を導入します。能動的サイバー回復力（レジリエンス）に関するNIST SP 800-160システムセキュリティエンジニアリング指令に厳格に準拠し、このアーキテクチャは「デジタル・キネティック救助」と「能動的守護（アクティブ・ガーディング）」メカニズムを実装します。局所的なスラスター同期と動的な暗号化経路の再ルーティングを協調させることで、外部の物理ベクトルが私たちのグローバルな状態合意を打ち砕く前に、侵害されたノードを保護するのです。
 
 ---
 ### 1. 運動量の微積分 : デジタル・キネティック救助の定義
