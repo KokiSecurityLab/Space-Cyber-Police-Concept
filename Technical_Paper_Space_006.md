@@ -3,7 +3,9 @@
 ## The Living Armor : Symmetric Symbiosis of Orbital Compute Cores and Power Infrastructure
 
 ### Summary Digest 
-In the volatile radiative environment of low-Earth orbit, high-performance computing centers like Colossus 1 cannot rely on terrestrial power abstraction. A processing brain without power hardening is a static target for radiation-induced logic flips and thermal exhaustion. In strict accordance with the NIST IR 8401 space platform resilience criteria, this paper defines "The Living Armor"—a dynamic symmetric symbiosis between the core computing matrix and an advanced Uninterruptible Power Supply (UPS) enclosure. By establishing a bidirectional feedback loop where the compute logic actively manages the physical health, component replacement, and eco-stewardship of its own electrical shield, we neutralize the physical and digital vectors of Kinetic-Exploitation.
+In the volatile radiative environment of low-Earth orbit, high-performance computing centers like Colossus 1 cannot rely on terrestrial power abstraction. A processing brain without power hardening is a static target for radiation-induced logic flips and thermal exhaustion. 
+
+In strict accordance with the NIST IR 8401 space platform resilience criteria, this paper defines "The Living Armor"—a dynamic symmetric symbiosis between the core computing matrix and an advanced Uninterruptible Power Supply (UPS) enclosure. By establishing a bidirectional feedback loop where the compute logic actively manages the physical health, component replacement, and eco-stewardship of its own electrical shield, we neutralize the physical and digital vectors of Kinetic-Exploitation.
 
 ---
 ### 1. The Geometry of Symbiosis : Defining Bidirectional Infrastructure Hardening
@@ -34,7 +36,9 @@ While the closed-loop system executes sub-millisecond current routing, mechanica
 ## 生ける装甲：軌道上計算コアと電力インフラの対称的共生
 
 ### サマリー・ダイジェスト
-低地球軌道の不安定な放射線環境において、Colossus 1のような高性能計算センターは地上のような電力の抽象化に頼ることはできません。電力の要塞化を伴わない処理脳は、放射線に起因するロジック反転や熱疲弊の格好の標的となります。NIST IR 8401宇宙プラットフォーム・レジリエンス基準に厳格に準拠し、本稿では「生ける装甲」すなわちコア計算マトリクスと高度な無停電電源装置（UPS）エンクロージャとの間の動的かつ対称的な共生関係を定義します。計算ロジックが自らの電気的シールドの物理的健康、コンポーネント交換、および環境管理を能動的に管理する双方向のフィードバックループを確立することで、私たちはキネティック・エクスプロイト（動的搾取）の物理的・デジタル的ベクトルを無効化します。
+低地球軌道の不安定な放射線環境において、Colossus 1のような高性能計算センターは地上のような電力の抽象化に頼ることはできません。電力の要塞化を伴わない処理脳は、放射線に起因するロジック反転や熱疲弊の格好の標的となります。
+
+NIST IR 8401宇宙プラットフォーム・レジリエンス基準に厳格に準拠し、本稿では「生ける装甲」すなわちコア計算マトリクスと高度な無停電電源装置（UPS）エンクロージャとの間の動的かつ対称的な共生関係を定義します。計算ロジックが自らの電気的シールドの物理的健康、コンポーネント交換、および環境管理を能動的に管理する双方向のフィードバックループを確立することで、私たちはキネティック・エクスプロイト（動的搾取）の物理的・デジタル的ベクトルを無効化します。
 
 ---
 ### 1. 共生の幾何学：双方向のインフラ要塞化の定義
