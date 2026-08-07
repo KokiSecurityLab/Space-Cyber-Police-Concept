@@ -3,7 +3,9 @@
 ## Dark Data Scrubbing: Background Noise and Metabolic Integrity in Swarm Virtualization
 
 ### Summary Digest
-In a high-density heliocentric mesh, up to eighty percent of transmitted telemetry consists of unclassified, unstructured remnants—commonly defined as "Dark Data." The Ghost managed by the Titan exploits this structural blindness, hiding its lateral movement within ambient cosmic radiation and routine Background Noise. In strict coordination with the NIST SP 800-88 Guidelines for Media Sanitization, this paper introduces "Dark Data Scrubbing." By treating data storage as a dynamic metabolic system, this architecture constantly cleanses latent repositories. Through real-time spectral filtration and hardware-accelerated erasure loops, we enforce absolute Metabolic Integrity across all node matrices, ensuring that silent code poisoning cannot cross the threshold of our core state consensus.
+In a high-density heliocentric mesh, up to eighty percent of transmitted telemetry consists of unclassified, unstructured remnants—commonly defined as "Dark Data." The Ghost managed by the Titan exploits this structural blindness, hiding its lateral movement within ambient cosmic radiation and routine Background Noise. 
+
+In strict coordination with the NIST SP 800-88 Guidelines for Media Sanitization, this paper introduces "Dark Data Scrubbing." By treating data storage as a dynamic metabolic system, this architecture constantly cleanses latent repositories. Through real-time spectral filtration and hardware-accelerated erasure loops, we enforce absolute Metabolic Integrity across all node matrices, ensuring that silent code poisoning cannot cross the threshold of our core state consensus.
 
 ---
 ### 1. The Calculus of the Remnant : Defining Background Noise
@@ -33,7 +35,9 @@ While the autonomous hypervisors handle sub-millisecond sector purging, cluster 
 ## ダークデータの洗浄：サマリースウォーム仮想化における背景ノイズと代謝の整合性
 
 ### サマリー・ダイジェスト
-高密度な日心圏メッシュにおいて、送信される遠隔測定（テレメトリ）の最大80％は、未分類で構造化されていない残骸――一般に「ダークデータ」と定義されるもの――で構成されています。支配者（Titan）に操られた「ユーレイ（Ghost）」はこの構造的な盲点を悪用し、宇宙の環境放射線や日常的な「背景ノイズ（Background Noise）」の内部に自らの横展開を隠蔽しようと企みます。NIST SP 800-88（メディア衛生管理に関するガイドライン）に厳格に協調し、本稿は「ダークデータの洗浄（ダークデータ・スクラビング）」を導入します。データストレージを動的な代謝システムとして扱うことで、このアーキテクチャは潜在的なリポジトリを絶えず浄化します。リアルタイムのスペクトルフィルタリングとハードウェア加速型の消去ループを通じて、すべてのノードマトリクスに絶対的な「代謝の整合性（メタボリック・インテグリティ）」を強制し、静かなコード汚染が私たちの核心部の状態合意のしきい値を跨ぐことを完全に阻止するのです。
+高密度な日心圏メッシュにおいて、送信される遠隔測定（テレメトリ）の最大80％は、未分類で構造化されていない残骸――一般に「ダークデータ」と定義されるもの――で構成されています。支配者（Titan）に操られた「ユーレイ（Ghost）」はこの構造的な盲点を悪用し、宇宙の環境放射線や日常的な「背景ノイズ（Background Noise）」の内部に自らの横展開を隠蔽しようと企みます。
+
+NIST SP 800-88（メディア衛生管理に関するガイドライン）に厳格に協調し、本稿は「ダークデータの洗浄（ダークデータ・スクラビング）」を導入します。データストレージを動的な代謝システムとして扱うことで、このアーキテクチャは潜在的なリポジトリを絶えず浄化します。リアルタイムのスペクトルフィルタリングとハードウェア加速型の消去ループを通じて、すべてのノードマトリクスに絶対的な「代謝の整合性（メタボリック・インテグリティ）」を強制し、静かなコード汚染が私たちの核心部の状態合意のしきい値を跨ぐことを完全に阻止するのです。
 
 ---
 ### 1. 残骸の微積分 : 背景ノイズの定義
