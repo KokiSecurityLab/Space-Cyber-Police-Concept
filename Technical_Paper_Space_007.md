@@ -3,7 +3,9 @@
 ## The Celestial Archive : Material Lifecycle Stewardship and Hardware Supply Chain Integrity in Orbital Platforms
 
 ### Summary Digest
-In the high-stakes theater of orbital infrastructure, cybersecurity cannot remain isolated within the digital layer of bits and bytes. A true posture of sovereign resilience requires the total synchronization of logical defense with Physicalized Eco-Security. In strict coordination with the tenets of the NIST SP 800-161 Hardware Supply Chain Risk Management framework, this paper defines "The Celestial Archive"—a specialized, self-directed material classification facility governed by Colossus 1. By refusing to discard a single mechanical component into the orbital plane, we eliminate the physical liability of kinetic debris generation while re-contextualizing spent materials as premium resources for structural mitigation, achieving a state of zero-waste systemic intelligence.
+In the high-stakes theater of orbital infrastructure, cybersecurity cannot remain isolated within the digital layer of bits and bytes. A true posture of sovereign resilience requires the total synchronization of logical defense with Physicalized Eco-Security. 
+
+In strict coordination with the tenets of the NIST SP 800-161 Hardware Supply Chain Risk Management framework, this paper defines "The Celestial Archive"—a specialized, self-directed material classification facility governed by Colossus 1. By refusing to discard a single mechanical component into the orbital plane, we eliminate the physical liability of kinetic debris generation while re-contextualizing spent materials as premium resources for structural mitigation, achieving a state of zero-waste systemic intelligence.
 
 ---
 ### 1. The Geometry of the Remnant : Defining Structural Eco-Security
@@ -33,7 +35,9 @@ While the automated infrastructure executes sub-millisecond sorting, material pr
 ## セレスティアル・アーカイブ：軌道プラットフォームにおける材料ライフサイクル管理とハードウェア・サプライチェーンの完全性
 
 ### サマリー・ダイジェスト
-軌道インフラの高リスクな戦術的最前線において、サイバーセキュリティはビットやバイトといったデジタルの層だけに留まっていることは許されません。主権的なレジリエンス（回復力）の真の態勢を築くには、論理的防衛と 「物理化されたエコ・セキュリティ」 の完全な同期が必要です。NIST SP 800-161 ハードウェア・サプライチェーン・リスク管理枠組み の規範に厳格に協調し、本稿では 「星々のアーカイブ」 コロッサス1 によって統治される、自己指向型の特殊な物質分類・保管施設を定義します。ボルト一本すら軌道上に投棄（ポイ捨て）しない姿勢を貫くことで、物理的なデブリ発生の脆弱性を完全に排除し、同時に、役割を終えた部品を構造적修復のための超高品質な資源（アセット）として再定義し、廃棄物ゼロのシステム的知能を達成するのです。
+軌道インフラの高リスクな戦術的最前線において、サイバーセキュリティはビットやバイトといったデジタルの層だけに留まっていることは許されません。主権的なレジリエンス（回復力）の真の態勢を築くには、論理的防衛と 「物理化されたエコ・セキュリティ」 の完全な同期が必要です。
+
+NIST SP 800-161 ハードウェア・サプライチェーン・リスク管理枠組み の規範に厳格に協調し、本稿では 「星々のアーカイブ」 コロッサス1 によって統治される、自己指向型の特殊な物質分類・保管施設を定義します。ボルト一本すら軌道上に投棄（ポイ捨て）しない姿勢を貫くことで、物理的なデブリ発生の脆弱性を完全に排除し、同時に、役割を終えた部品を構造적修復のための超高品質な資源（アセット）として再定義し、廃棄物ゼロのシステム的知能を達成するのです。
 
 ---
 ### 1. 残余の幾何学：構造的エコ・セキュリティの定義
