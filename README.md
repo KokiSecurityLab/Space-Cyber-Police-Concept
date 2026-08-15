@@ -35,6 +35,7 @@ AIデータセンターが軌道上（SpaceXAI / Starlink等）へ進出する�
 | No | Project / Theme | Focus Area |
 | :--- | :--- | :--- |
 | 001 | 	Deciphering Hacker Psychology | Hacker Psychology & "Heart to Protect" |
+| 001-1 | Psychological Deconstruction | Analyzing vulnerabilities within attacker dominance |
 | 002 | 	The Invisible Shield | Laser Communications & Multidimensional Decoding |
 | 003 | The Eternal Guardian | Solar Energy, Robotic Repairs & Physical Security |
 | 004 | The Swarm Immunity | Cellular Defense (Hataraku Saibou model) & Self-Healing |
