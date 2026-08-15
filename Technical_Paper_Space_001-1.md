@@ -1,4 +1,4 @@
-### Koki's Technical Paper: Space Cyber Defense Series #001-1
+# Koki's Technical Paper: Space Cyber Defense Series #001-1
 
 ## The Weakness Behind Dominance: A Psychological Deconstruction of the Attacker
 
@@ -28,7 +28,7 @@ The defense does not operate on intimidation. We operate on the unshakeable trut
 The first step of defense is the deconstruction of the threat's power. Dominance is a shadow cast by weakness. By acknowledging this truth, we ensure that the infrastructure brain remains focused, steady, and unyielding. We do not fear the storm; we analyze the wind.
 
 ---
-## 宇宙サイバーディフェンス・深掘りシリーズ #001-1
+# 宇宙サイバーディフェンス・深掘りシリーズ #001-1
 
 ## 支配の裏側にある弱さ：攻撃者の心理的解体
 
