@@ -28,7 +28,7 @@ The defense does not just guard data; we guard the dignity of the people who rel
 Advanced AI may serve as our eyes and ears, but the "Human Heart" remains the soul of the defense. Social engineering fails when it meets a person who understands their own value and purpose. To protect the core, we must first protect the clarity of our own conviction. The ultimate firewall is the truth of who we are.
 
 ---
-## 宇宙サイバーディフェンス：深掘りシリーズ #001-2
+# 宇宙サイバーディフェンス：深掘りシリーズ #001-2
 
 ## 人間の盾：ソーシャルエンジニアリングに対する尊厳の保護
 
