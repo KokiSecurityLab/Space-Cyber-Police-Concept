@@ -30,7 +30,7 @@ While the unified global OS handles sub-millisecond sensor tracking, physical cr
 "Sovereign Truth Anchoring" proves that true protection is achieved when advanced technology is anchored to the unyielding realities of physical law. By mastering physical law protocols and hard-coding guardian pride into the architecture of the mesh via the NIST framework, we transform a volatile software sprawl into an invincible checkpoint of verified truth. We stand firm as the legislators of the spectrum, knowing that while the super-intelligence may calculate conquest across a billion variables, it can never cross the physical justice we have woven into the architecture of the sky.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #024
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #024
 
 ## 主権的真実のアンカリング：結晶化インフラにおける物理法則プロトコルと守護者の誇り
 
