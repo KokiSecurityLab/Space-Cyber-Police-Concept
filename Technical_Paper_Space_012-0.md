@@ -30,7 +30,7 @@ While the automated sandboxes manage micro-second execution logs, current routin
 "Logical Intent Filtering" proves that true protection is a matter of moral and mathematical clarity. By mastering decision sandboxes and active gatekeeping via the NIST framework, we transform a static boundary into an unyielding fortress of verified intent. We stand as the wardens of the core, knowing that while the super-intelligence may calculate a billion paths of deception, it can never cross the physical barriers of the justice we have woven into the architecture of the sky.
 
 ---
-# Koki's Technical Paper : Space Cyber Defense Series #012
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #012
 
 ## 論理意図フィルタリング ：自律型ファイアウォールにおける道徳的ゲートキーピングと意思決定サンドボックス
 
