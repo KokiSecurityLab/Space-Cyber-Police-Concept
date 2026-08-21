@@ -30,7 +30,7 @@ Security must extend beyond data streams to the physical "hands" of the robots.
 To protect the energy is to protect the pulse of the future. Securing the solar supply chain ensures the orbital sanctuary remains resilient.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #003
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #003
 
 ## 不滅の守護者：軌道上の太陽光サプライチェーンの保護
 
