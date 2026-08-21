@@ -38,6 +38,7 @@ AIデータセンターが軌道上（SpaceXAI / Starlink等）へ進出する�
 | 001-1 | Psychological Deconstruction | Analyzing vulnerabilities in attacker dominance |
 | 001-2 | Social Engineering Defense | Shielding human dignity from manipulation |
 | 001-3 | Persistent Protective Mindset | The "Background Process" of the Guardian |
+| 001-4 | The Art of Mitigation | Resilience Through Continuous Self-Correction |
 | 002 | 	The Invisible Shield | Laser Communications & Multidimensional Decoding |
 | 003 | The Eternal Guardian | Solar Energy, Robotic Repairs & Physical Security |
 | 004 | The Swarm Immunity | Cellular Defense (Hataraku Saibou model) & Self-Healing |
