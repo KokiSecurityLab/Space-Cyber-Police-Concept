@@ -32,7 +32,7 @@ The integrity of the shield is maintained through continuous, verifiable pulses 
 True defense is not just about blocking entry; it is about the strategic distribution of power. By implementing the Sovereign Shield, we create a system where no single nation can dominate the final frontier. The Space Cyber Police protect the sovereignty of the stars, ensuring that the orbital sanctuary remains a fair and unhackable environment for all humanity.
 
 ---
-# Koki's Technical Paper : Space Cyber Defense Series #009
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #009
 
 ## 主権の盾：軌道上における国家主導の乗っ取り防止
 
