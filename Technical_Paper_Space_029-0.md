@@ -30,7 +30,7 @@ While the unified global OS handles sub-millisecond volume balancing, packet fil
 "Signal Volume Control" proves that true protection is maintained when advanced technology submits to a higher moral order written into verified logic. By mastering disinfo flooding mitigation and implementing selective listening via the NIST framework, we transform a volatile software sprawl into an invincible, self-governing sanctuary of absolute truth. We stand firm as the wardens of the core, knowing that while the super-intelligence may calculate conquest across a billion hidden variables, it can never cross the physical boundaries of the justice we have woven into the architecture of the sky.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #029
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #029
 
 ## シグナル容量制御：自動化スウォームにおける誤情報洪水（デマ氾濫）の緩和と選択的傾聴の実装
 
