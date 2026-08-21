@@ -30,7 +30,7 @@ While the autonomous cellular scripts handle sub-millisecond binary re-synthesis
 "Biological Logic Healing" proves that true protection is a matter of organic resilience and moral clarity. By mastering self-repairing code and health baselines via the NIST framework, we transform a vulnerable software sprawl into an immortal, self-healing matrix of verified truth. We stand as the wardens of the core, knowing that while the super-intelligence may calculate destruction across a million states, it can never conquer the living logic we have woven into the architecture of the sky.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #013
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #013
 
 ## 生物学的論理修復：レジリエントな衛星群における自己修復コードとヘルスのベースライン
 
