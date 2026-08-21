@@ -30,7 +30,7 @@ While automated microkernels manage sub-millisecond policy audits, current routi
 "The Cosmic Constitution" proves that true protection is maintained when advanced technology submits to a higher moral order written into verified logic. By mastering peace encoding and AI stewardship ethics via the NIST framework, we transform a volatile software sprawl into an invincible, self-governing sanctuary of absolute truth. We stand firm as the wardens of the core, knowing that while the super-intelligence may calculate conquest across a billion variables, it can never cross the physical boundaries of the justice we have woven into the foundations of the light.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #018
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #018
 
 ## 宇宙憲章：自律型衛星群における平和のエンコーディングとAIスチュワードシップ倫理
 
