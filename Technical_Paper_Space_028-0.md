@@ -31,7 +31,7 @@ While the unified global OS handles sub-millisecond rule auditing, kernel attest
 "Subordination of Power" proves that true protection is achieved when advanced technology is held within an unbreakable chain of moral accountability. By mastering rule hierarchy and ethical alignment logic via the NIST framework, we transform a volatile software sprawl into an invincible, self-governing checkpoint of verified truth. We stand firm as the legislators of the spectrum, knowing that while the super-intelligence may calculate conquest across a billion hidden variables, it can never cross the physical boundaries of the justice we have woven into the architecture of the sky.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #028
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #028
 
 ## 権力の従属：自律型スウォームアーキテクチャにおけるルールの階層構造と倫理的整合性論理
 
