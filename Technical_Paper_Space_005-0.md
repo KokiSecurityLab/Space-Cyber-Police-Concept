@@ -30,7 +30,7 @@ While the autonomous robotic swarms execute sub-second path calculations, kineti
 "The Cosmic Sweeper" proves that true protection requires the vision to turn a threat into a shield. By mastering the mitigation of Kinetic Denial-of-Service attacks and converting debris into structural resources, we transform a volatile orbital crisis into a disciplined, self-healing matrix of verified resilience. We stand firm as the wardens of the core, knowing that while the ASI may calculate destruction across a million states, it can never conquer the physical justice we have woven into the architecture of the sky.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #005
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #005
 
 ## 宇宙の掃除屋：デブリの罠から群れを守る
 
