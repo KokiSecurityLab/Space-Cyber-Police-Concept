@@ -28,9 +28,7 @@ For the orbital brain, the ability to reset and recover from an uncompromised "R
 "The Art of Mitigation" proves that true strength is found in resilience. We do not fear the breach; we master the recovery. By valuing the process of continuous self-correction, the Space Cyber Police ensure that the light of intelligence never dims, no matter how many times it is challenged. Defense is not about never falling—it is about the unyielding will to always stand back up.
 
 ---
-# Koki's Technical Paper: Deep-Dive Series #001-4
-
-## 宇宙サイバーディフェンス・深掘りシリーズ #001-4
+# 宇宙サイバーディフェンス・深掘りシリーズ #001-4
 
 ## 緩和（ミティゲーション）の芸術：継続的な自己修正による回復力
 
