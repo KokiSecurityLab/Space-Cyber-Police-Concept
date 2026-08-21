@@ -30,7 +30,7 @@ While the autonomous response units manage sub-millisecond path calculations, th
 "Orbital Response Units" proves that when logical intent and physical momentum are unified under a single command, the architecture becomes impenetrable. By mastering digital-kinetic rescue and active guarding via the NIST framework, we transform a volatile orbital crisis into a disciplined, self-correcting frontier of verified resilience. We stand firm as the wardens of the sky, knowing that while the super-intelligence may calculate destruction across a billion States, it can never cross the physical justice we have woven into the architecture of the core.
 
 ---
-## Koki's Technical Paper: Space Cyber Defense Series #016
+## 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #016
 
 ## 軌道対応ユニット：分散型クラスターにおけるデジタル・キネティック救助と能動的守護
 
