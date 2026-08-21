@@ -30,7 +30,7 @@ While automated ledgers manage sub-millisecond block generation, consensus valid
 "Geopolitical Neutrality" demonstrates that true security is achieved when technology stands upon an upper logical structure that transcends the arbitrary divisions of terrestrial borders. By optimizing the design of immutable ledgers and the digital commons through the NIST framework, the system transforms vulnerable corporate monopolies into an invincible, self-correcting sanctuary of verified truth. Regardless of how superintelligences or state operators calculate dominance across a million states, their execution vectors are confined within the boundaries of the physical geometry of justice hard-coded into the foundational layer. This architecture continues to function as the immutable paradigm of the decentralized grid.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #021
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #021
 
 ## 地政学的中立性：主権的宇宙エンクレーブにおける不変の台帳とデジタル・コモンズ
 
