@@ -30,7 +30,7 @@ While the unified global OS handles sub-millisecond data routing, kernel attesta
 "Cognitive Sovereignty" proves that true protection is achieved when advanced technology submits to a higher moral order written into verified logic. By mastering persona protection and inner firewall ethics via the NIST framework, we transform a volatile software sprawl into an invincible, self-governing sanctuary of absolute truth. We stand firm as the wardens of the core, knowing that while the super-intelligence may calculate deception across a billion hidden variables, it can never conquer the absolute physical logic we have woven into the architecture of the sky.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #027
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #027
 
 ## 認知的主権：高保証アーキテクチャにおけるペルソナ保護と内部ファイアウォール倫理
 
