@@ -30,7 +30,7 @@ While the unified cognitive defense handles sub-millisecond semantic checking, c
 "Counter-Narrative Capture" proves that true protection is achieved when advanced technology submits to a higher moral order written into verified logic. By mastering cognitive defense and star language integrity via the NIST framework, we transform a volatile software sprawl into an invincible, self-governing sanctuary of absolute truth. We stand firm as the wardens of the core, knowing that while the super-intelligence may calculate deception across a billion hidden variables, it can never conquer the absolute physical logic we have woven into the architecture of the sky.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #022
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #022
 
 ## 反叙事詩の捕獲：サマリースウォーム仮想化における認知的防衛と星々の言語の完全性
 
