@@ -30,7 +30,7 @@ The swarm maintains its integrity through the immediate removal of "infected" no
 In space, security is not a static wall; it is a living system that breathes and reacts. By empowering each small unit to think as a guardian, we ensure that the heart of the orbital brain remains unshakeable, regardless of the swarm's size.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #004
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #004
 
 ## 群れの免疫：100万の軌道細胞による集団防御
 
