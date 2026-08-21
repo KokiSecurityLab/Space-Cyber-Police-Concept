@@ -28,7 +28,7 @@ Artificial Intelligence (AI) reflects the intent of its user. It can be a weapon
 The ultimate defense is not hidden in lines of code but in the clarity of purpose. To protect is to understand, and to understand is to be free from fear. The true firewall is built of the unshakeable truth of identity and the values for which one stands. Defense is not software; it is the integrity of the self.
 
 ---
-# Koki's Technical Paper : Space Cyber Defense Series #001
+# 宇宙サイバーディフェンス : テクニカルペーパーシリーズ #001
 
 ## ハッカー心理の解読：技術を超えた「守る心」
 
