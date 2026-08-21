@@ -30,7 +30,7 @@ The infrastructure designed to protect—such as advanced UPS systems—must not
 True security in space is measured by its accessibility. By advocating for a Neutral Orbit, we ensure that the progress of technology serves the liberation of humanity, not its entrapment. The Space Cyber Police stand as guardians of the open sky, protecting the right of every human being to look up and see a future without walls.
 
 ---
-# Koki's Technical Paper : Space Cyber Defense Series #008
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #008
 
 ## 中立なる軌道：企業独占を超えた公平なアクセスの保証
 
