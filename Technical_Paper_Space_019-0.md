@@ -30,7 +30,7 @@ While automated microkernels manage sub-millisecond shutdown routing, sensor iso
 The design of "The Last Resilience" demonstrates that under extreme conditions where the collapse of the entire infrastructure is imminent, an architecture that physically isolates and preserves core data represents true resilience. By optimizing the processes of dual-storm survival and core-seed preservation through the NIST framework, the system transforms vulnerable orbital networks into an eternal, self-correcting sanctuary of verified truth. Regardless of how advanced superintelligences or physical electromagnetic storms calculate destruction across a million states, the identity of the system is locked within a logical structure at the physical layer that cannot be destroyed by any mechanical or logical intervention. This framework continues to function as the absolute defensive foundation of the core in extreme environments.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #019
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #019
 
 ## 最後の回復力：主権ノードにおける二重の嵐の生存とコア・シードの保存
 
