@@ -30,7 +30,7 @@ True security means respecting the laws of nature and ensuring that human techno
 The Stellar Choreography represents the ultimate synchronization of technology and the universe. To protect the rhythm of the stars is to protect the road to the future. By maintaining this delicate balance, the Space Cyber Police ensure that the light of progress continues to shine, forever synchronized with the heartbeat of the galaxy.
 
 ---
-# Koki's Technical Paper : Space Cyber Defense Series #010
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #010
 
 ## 星々の舞踏：天体のリズムを守るということ
 
