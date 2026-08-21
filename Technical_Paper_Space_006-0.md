@@ -31,7 +31,7 @@ While the closed-loop system executes sub-millisecond current routing, mechanica
 "The Living Armor" proves that when energy and logic are unified under human intent, the platform becomes indestructible. By mastering the co-dependent defense of computing and power frameworks via the NIST standard, we transform a vulnerable hardware sprawl into a self-sustaining sanctuary of verified truth. We stand firm as the wardens of the core, knowing that while the ASI may simulate destruction, our shields are written into the very laws of physical resilience.
 
 ---
-# Koki’s Technical Thesis : Space Cyber Defense Series #006
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #006
 
 ## 生ける装甲：軌道上計算コアと電力インフラの対称的共生
 
