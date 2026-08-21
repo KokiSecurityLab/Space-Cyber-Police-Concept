@@ -34,7 +34,7 @@ While the automated star trackers manage sub-millisecond vector alignment, curre
 "Celestial Authentication" proves that in an era of infinite software manipulation, the only absolute security is anchored in the physical universe. By mastering starlight geometry and hardware-insulated trust architectures via the NIST standards, we transform a vulnerable network sprawl into an unyielding fortress of verified truth. We stand firm as the legislators of the sky, knowing that while the super-intelligence may calculate a billion paths of logical entry, our sanctuary remains locked within a physical silence that no machine can ever break.
 
 ---
-## 宇宙サイバーディフェンス・シリーズ #014
+## 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #014
 
 ## 天体の認証：星光の幾何学と物理的錨（アンカー）による軌道信頼基盤
 
