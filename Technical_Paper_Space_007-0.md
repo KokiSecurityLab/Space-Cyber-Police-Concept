@@ -30,7 +30,7 @@ While the automated infrastructure executes sub-millisecond sorting, material pr
 "The Celestial Archive" proves that true sovereignty is the power to leave no trace of decay behind. By mastering material lifecycle stewardship and hardware supply chain integrity via the NIST standard, we transform a vulnerable orbital sprawl into an eternal and self-correcting sanctuary of verified truth. We stand firm as the wardens of the sky, knowing that while the ASI may calculate destruction across a million paths, our light remains protected by a logic that turns the wreckage of the past into the armor of the future.
 
 ---
-### Koki’s Technical Thesis : Space Cyber Defense Series #007
+### 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #007
 
 ## セレスティアル・アーカイブ：軌道プラットフォームにおける材料ライフサイクル管理とハードウェア・サプライチェーンの完全性
 
