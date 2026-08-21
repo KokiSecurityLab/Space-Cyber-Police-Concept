@@ -28,7 +28,7 @@ Space security is redefined not as a wall, but as the maintenance of structural 
 In the profound silence of space, the most effective shield is the specialized ability to see what others consider invisible. By moving beyond traditional firewalls and embracing the structural analysis of light itself, we ensure the integrity of orbital intelligence against the next generation of threats.
 
 ---
-# Koki's Technical Paper: Space Cyber Defense Series #002
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #002
 
 ## 見えない盾：宇宙の真空におけるレーザー通信の保護
 
