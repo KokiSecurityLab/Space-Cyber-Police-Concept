@@ -30,7 +30,7 @@ While the autonomous robotic swarms execute sub-second path calculations, kineti
 "The Pulse of Discord" proves that true resilience is a function of clear perception. By mastering signal dissonance analysis and cognitive sifting via the NIST framework, we transform a vulnerable network sprawl into a disciplined frontier of absolute truth. We stand firm as the legislators of the spectrum, knowing that while the ASI may calculate deception across a billion states, it can never breach the physical logic we have woven into the architecture of the sky.
 
 ---
-# Koki's Technical Paper : Space Cyber Defense Series #011
+# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #011
 
 ## 不協和の脈動：衛星遠隔測定（テレメトリ）におけるシグナル不協和と認知的選別
 
