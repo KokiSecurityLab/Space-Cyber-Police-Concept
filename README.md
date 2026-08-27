@@ -8,38 +8,26 @@ As AI data centers expand into orbital infrastructure topologies (SpaceX / Starl
 The definitive objective of this architecture is to define the security specifications required for next-generation orbital processing layers, ensuring that decentralized system states remain functional and resilient against remote sabotage or adversarial penetration exploits.
 
 ### 2. Core Technologies (The Multi-Layered Protection System)
-
 * **Multi-Dimensional Decoding for Laser Communications**: Utilizing specialized visual pattern recognition metrics to detect microscopic hacking signatures and parameter drift within ultra-high-speed laser communication channels that standard AI filtering algorithms frequently miss.
 * **Large Language Model (LLM) Ingestion Ingress Security**: Enforcing strict input sanitization rules and programmatic gatekeeping playbooks to protect space-hosted LLM nodes from prompt injection and adversarial manipulation attempts that compromise satellite operations.
 * **Autonomous Orbital Recovery (Self-Healing Protocols)**: Implementing automated, decentralized failover protocols that allow multi-region aerospace infrastructures to self-stabilize and execute complete system re-imaging even during severe global communication blackout events.
 
+---
+### Foundational Theory Index
+The autonomous orbital defense systems engineered in this project are systematically derived from established enterprise security controls. To review the foundational compliance baselines, SIEM logging concepts, and identity access strategies driving this architecture, visit the core repository here:
 👉 [Space Cyber Defense Series — CySA-Study-Notes](https://github.com)
+
 ---
-# プロジェクト「アストライオス・シールド」 — 宇宙サイバー警察構想
-
-## 高度マルチリージョン・セキュリティアーキテクチャ、軌道テレメトリガバナンス、および自律的フォルト隔離
-
-### 1. ビジョン
-AIデータセンターが軌道上のインフラトポロジ（SpaceX / Starlink等）へ進出する今、従来の地上型ネットワークセキュリティ管理策では不十分です。本プロジェクトは、「宇宙サイバー警察」の概念的基準線（ベースラインミッション）を確立します。これは、地球上および宇宙空間から発せられる脅威ベクトルから、分散された衛星レジストリを保護するために設計された、自律型・多次元のセキュリティ運用フレームワークです。
-
-本アーキテクチャの明確な目的は、次世代の軌道処理レイヤーに必要なセキュリティ仕様を定義し、分散されたシステム状態が、遠隔からの破壊工作やアドバサリアルな侵入エクスプロイト（搾取攻撃）に対して高い可用性とレジリエンス（回復力）を維持できるようにすることにあります。
-
-### 2. コア・テクノロジー（多層防御システム）
-* **レーザー通信用・多次元デコーディングの強制**: 独自の視覚パターン認識メトリクスを活用し、標準的なAIフィルタリングアルゴリズムが見落としがちな、超高速レーザー通信チャネル内部の微細なハッキングシグネチャやパラメータドリフトを最前線で検出します。
-* **大規模言語モデル（LLM）入力境界セキュリティの執行**: 厳格な入力サニライズ（データ洗浄）ルールとプログラム的なゲートキーピングプレイブックを実行し、宇宙に配置されたLLMノードを、プロンプトインジェクションや衛星運用を妨害する悪意ある操作の試みからエッジで防御します。
-* **自律型軌道復旧（自己修復プロトコル）の強制**: 自動化された分散型フェイルオーバープロトコルを実装し、地球上で深刻な世界規模の通信遮断（ブラックアウト）が発生した際でも、航空宇宙インフラが自律的に自己安定化し、完全なシステム適用（リイメージ）を実行できる環境を再確立します。
-
-👉 [宇宙サイバー防衛シリーズ — CySA-Study-Notes](https://github.com)
----
+## Technical Paper Index
 | No | Project / Theme | Focus Area |
 | :--- | :--- | :--- |
-| 001 | 	Deciphering Hacker Psychology | Hacker Psychology & "Heart to Protect" |
+| 001 | Deciphering Hacker Psychology | Hacker Psychology & "Heart to Protect" |
 | 001-1 | Psychological Deconstruction | Analyzing vulnerabilities in attacker dominance |
 | 001-2 | Social Engineering Defense | Shielding human dignity from manipulation |
 | 001-3 | Persistent Protective Mindset | The "Background Process" of the Guardian |
 | 001-4 | The Art of Mitigation | Resilience Through Continuous Self-Correction |
 | 001-5 | AI as an Ethical Partner | The Architecture of Human-AI Collaboration |
-| 002 | 	The Invisible Shield | Laser Communications & Multidimensional Decoding |
+| 002 | The Invisible Shield | Laser Communications & Multidimensional Decoding |
 | 003 | The Eternal Guardian | Solar Energy, Robotic Repairs & Physical Security |
 | 004 | The Swarm Immunity | Cellular Defense (Hataraku Saibou model) & Self-Healing |
 | 005 | Cosmic Sweeper Protocol | Physical & Digital Debris Mitigation (Orbital DoS) |
@@ -68,3 +56,23 @@ AIデータセンターが軌道上のインフラトポロジ（SpaceX / Starli
 | 028 | Subordination of Power | Rule Hierarchy & Ethical Alignment Logic |
 | 029 | Signal Volume Control | Disinfo Flooding & Selective Listening |
 | 030 | Mission Integrity | Final Sovereignty: Liberty Under the Stars |
+
+================================================================================
+# プロジェクト「アストライオス・シールド」 — 宇宙サイバー警察構想
+
+## 高度マルチリージョン・セキュリティアーキテクチャ、軌道テレメトリガバナンス、および自律的フォルト隔離
+
+### 1. ビジョン
+AIデータセンターが軌道上のインフラトポロジ（SpaceX / Starlink等）へ進出する今、従来の地上型ネットワークセキュリティ管理策では不十分です。本プロジェクトは、「宇宙サイバー警察」の概念的基準線（ベースラインミッション）を確立します。これは、地球上および宇宙空間から発せられる脅威ベクトルから、分散された衛星レジストリを保護するために設計された、自律型・多次元のセキュリティ運用フレームワークです。
+
+本アーキテクチャの明確な目的は、次世代の軌道処理レイヤーに必要なセキュリティ仕様を定義し、分散されたシステム状態が、遠隔からの破壊工作やアドバサリアルな侵入エクスプロイト（搾取攻撃）に対して高い可用性とレジリエンス（回復力）を維持できるようにすることにあります。
+
+### 2. コア・テクノロジー（多層防御システム）
+* **レーザー通信用・多次元デコーディングの強制**: 独自の視覚パターン認識メトリクスを活用し、標準的なAIフィルタリングアルゴリズムが見落としがちな、超高速レーザー通信チャネル内部の微細なハッキングシグネチャやパラメータドリフトを最前線で検出します。
+* **大規模言語モデル（LLM）入力境界セキュリティの執行**: 厳格な入力サニライズ（データ洗浄）ルールとプログラム的なゲートキーピングプレイブックを実行し、宇宙に配置されたLLMノードを、プロンプトインジェクションや衛星運用を妨害する悪意ある操作 of の試みからエッジで防御します。
+* **自律型軌道復旧（自己修復プロトコル）の強制**: 自動化された分散型フェイルオーバープロトコルを実装し、地球上で深刻な世界規模の通信遮断（ブラックアウト）が発生した際でも、航空宇宙インフラが自律的に自己安定化し、完全なシステム適用（リイメージ）を実行できる環境を再確立します。
+
+---
+### 基礎理論インデックスへの接続
+本プロジェクトで構築された自律型軌道防衛システムは、確立された企業向けセキュリティ管理策および技術的アライメントから体系的に導出されています。本アーキテクチャの根底にあるSIEMログ監視概念、ファイル改ざん検知（FIM）、およびアイデンティティアクセス戦略の基盤ノートは、以下よりご覧いただけます。
+👉 [宇宙サイバー防衛シリーズ — CySA-Study-Notes](https://github.com)
