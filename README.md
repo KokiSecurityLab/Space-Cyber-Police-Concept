@@ -57,7 +57,7 @@ The autonomous orbital defense systems engineered in this project are systematic
 | 029 | Signal Volume Control | Disinfo Flooding & Selective Listening |
 | 030 | Mission Integrity | Final Sovereignty: Liberty Under the Stars |
 
-======================================================================
+=====================================================================
 # プロジェクト「アストライオス・シールド」 — 宇宙サイバー警察構想
 
 ## 高度マルチリージョン・セキュリティアーキテクチャ、軌道テレメトリガバナンス、および自律的フォルト隔離
