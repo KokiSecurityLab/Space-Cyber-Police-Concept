@@ -13,6 +13,8 @@ The definitive objective of this architecture is to define the security specific
 * **Large Language Model (LLM) Ingestion Ingress Security**: Enforcing strict input sanitization rules and programmatic gatekeeping playbooks to protect space-hosted LLM nodes from prompt injection and adversarial manipulation attempts that compromise satellite operations.
 * **Autonomous Orbital Recovery (Self-Healing Protocols)**: Implementing automated, decentralized failover protocols that allow multi-region aerospace infrastructures to self-stabilize and execute complete system re-imaging even during severe global communication blackout events.
 
+👉 [Space Cyber Defense Series — CySA-Study-Notes](https://github.com)
+
 ---
 # プロジェクト「アストライオス・シールド」 — 宇宙サイバー警察構想
 
@@ -27,6 +29,8 @@ AIデータセンターが軌道上のインフラトポロジ（SpaceX / Starli
 * **レーザー通信用・多次元デコーディングの強制**: 独自の視覚パターン認識メトリクスを活用し、標準的なAIフィルタリングアルゴリズムが見落としがちな、超高速レーザー通信チャネル内部の微細なハッキングシグネチャやパラメータドリフトを最前線で検出します。
 * **大規模言語モデル（LLM）入力境界セキュリティの執行**: 厳格な入力サニライズ（データ洗浄）ルールとプログラム的なゲートキーピングプレイブックを実行し、宇宙に配置されたLLMノードを、プロンプトインジェクションや衛星運用を妨害する悪意ある操作の試みからエッジで防御します。
 * **自律型軌道復旧（自己修復プロトコル）の強制**: 自動化された分散型フェイルオーバープロトコルを実装し、地球上で深刻な世界規模の通信遮断（ブラックアウト）が発生した際でも、航空宇宙インフラが自律的に自己安定化し、完全なシステム適用（リイメージ）を実行できる環境を再確立します。
+
+👉 [宇宙サイバー防衛シリーズ — CySA-Study-Notes](https://github.com)
   
 | No | Project / Theme | Focus Area |
 | :--- | :--- | :--- |
