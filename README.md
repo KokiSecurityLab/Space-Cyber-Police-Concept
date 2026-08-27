@@ -2,7 +2,7 @@
 ## Advanced Multi-Region Security Architecture, Orbital Telemetry Governance, and Autonomous Fault Isolation
 
 ### 1. Vision
-As AI data centers expand into orbital infrastructure topologies (SpaceXAI / Starlink), traditional ground-based network security controls are no longer sufficient. This project establishes the "Space Cyber Police" conceptual baseline—an autonomous, multi-dimensional security operations framework designed to protect distributed satellite registries from terrestrial and aerospace threat vectors. 
+As AI data centers expand into orbital infrastructure topologies (SpaceX・AI / Starlink), traditional ground-based network security controls are no longer sufficient. This project establishes the "Space Cyber Police" conceptual baseline—an autonomous, multi-dimensional security operations framework designed to protect distributed satellite registries from terrestrial and aerospace threat vectors. 
 
 The definitive objective of this architecture is to define the security specifications required for next-generation orbital processing layers, ensuring that decentralized system states remain functional and resilient against remote sabotage or adversarial penetration exploits.
 
@@ -17,7 +17,7 @@ The definitive objective of this architecture is to define the security specific
 ## 高度マルチリージョン・セキュリティアーキテクチャ、軌道テレメトリガバナンス、および自律的フォルト隔離
 
 ### 1. ビジョン
-AIデータセンターが軌道上のインフラトポロジ（SpaceXAI / Starlink等）へ進出する今、従来の地上型ネットワークセキュリティ管理策では不十分です。本プロジェクトは、「宇宙サイバー警察」の概念的基準線（ベースラインミッション）を確立します。これは、地球上および宇宙空間から発せられる脅威ベクトルから、分散された衛星レジストリを保護するために設計された、自律型・多次元のセキュリティ運用フレームワークです。
+AIデータセンターが軌道上のインフラトポロジ（SpaceX・AI / Starlink等）へ進出する今、従来の地上型ネットワークセキュリティ管理策では不十分です。本プロジェクトは、「宇宙サイバー警察」の概念的基準線（ベースラインミッション）を確立します。これは、地球上および宇宙空間から発せられる脅威ベクトルから、分散された衛星レジストリを保護するために設計された、自律型・多次元のセキュリティ運用フレームワークです。
 
 本アーキテクチャの明確な目的は、次世代の軌道処理レイヤーに必要なセキュリティ仕様を定義し、分散されたシステム状態が、遠隔からの破壊工作やアドバサリアルな侵入エクスプロイト（搾取攻撃）に対して高い可用性とレジリエンス（回復力）を維持できるようにすることにあります。
 
