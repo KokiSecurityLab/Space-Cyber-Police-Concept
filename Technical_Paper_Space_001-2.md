@@ -39,7 +39,8 @@ By hard-coding systematic telemetric logging and strict behavioral profiling dir
 
 ---
 # Koki's Technical Paper : Space Cyber Defense Series #001-2
-## Social Engineering Defense: Shielding Human Dignity from Manipulation（ソーシャルエンジニアリング防衛：操作からの人間の尊厳の保護）
+
+## ソーシャルエンジニアリング防衛：操作からの人間の尊厳の保護
 
 ### サマリー・ダイジェスト
 本論文は、標的型の欺瞞やフィッシングベクトルから要員層を保護するため、強固な検証プロトコルを定義するものです。操作された社会的相互作用を構造的なインターフェースの異常として識別することにより、防御チームはソフトウェアレベルのパラメータのみに依存することなくアクセスリスクを無効化できます。
