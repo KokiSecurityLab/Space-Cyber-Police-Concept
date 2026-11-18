@@ -14,7 +14,7 @@ The definitive objective of this architecture is to define the security specific
 ---
 ### Foundational Theory Index
 The autonomous orbital defense systems engineered in this project are systematically derived from established enterprise security controls. To review the foundational compliance baselines, SIEM logging concepts, and identity access strategies driving this architecture, visit the core repository here:
-👉 [Space Cyber Defense Series — CySA-Study-Notes](https://github.com)
+👉 [Space Cyber Defense Series — CySA-Study-Notes](https://github.com/KokiSecurityLab/CySA-Study-Notes)
 
 ---
 
@@ -34,7 +34,7 @@ AIデータセンターが軌道上のインフラトポロジ（SpaceX / Starli
 ---
 ### 基礎理論インデックスへの接続
 本プロジェクトで構築された自律型軌道防衛システムは、確立された企業向けセキュリティ管理策および技術的アライメントから体系的に導出されています。本アーキテクチャの根底にあるSIEMログ監視概念、ファイル改ざん検知（FIM）、およびアイデンティティアクセス戦略の基盤ノートは、以下よりご覧いただけます。
-👉 [宇宙サイバー防衛シリーズ — CySA-Study-Notes](https://github.com)
+👉 [宇宙サイバー防衛シリーズ — CySA-Study-Notes](https://github.com/KokiSecurityLab/CySA-Study-Notes)
 
 ---
 ## Technical Paper Index
