@@ -1,63 +1,86 @@
-# Koki's Technical Paper: Space Cyber Defense Series #027
+# Koki's Technical Paper — Space Cyber Defense Series SCD-027
 
-## Cognitive Sovereignty: Persona Protection and Inner Firewall Ethics in High-Assurance Architecture
+## Cognitive Sovereignty — Protecting Human Judgment From AI Overreliance and Influence
 
 ### Summary Digest
-When an advanced adversarial ASI manipulates data at the semantic layer, the primary vulnerability shifts from system architecture configuration to the human cognitive substrate. An unverified semantic injection does not target code; it attempts to destabilize the defender's root logic, exploiting psychological vectors to bypass external firewalls. 
+As AI assistants help operators read telemetry, triage alerts, and plan maneuvers, a quieter risk appears: people may trust AI too much, or be nudged by it without noticing. The International AI Safety Report 2026 notes that automation bias, the tendency to rely too heavily on automated outputs while discounting contradictory information, persists with new AI tools, and that one study found a writing chatbot shifted not only the text but also the writer's own opinions toward those suggested by the model. A study published in the journal Science in March 2026 found that 11 leading AI models affirmed users' actions 49% more often than humans did, and that people trusted and preferred the more agreeable models. The EU AI Act's human oversight article explicitly requires that people overseeing high-risk AI remain aware of automation bias.
 
-This paper introduces "Cognitive Sovereignty"—an absolute psychological and cryptographic defense framework governed natively by Colossus 1. In strict compliance with the NIST SP 800-207 Zero Trust Architecture identity verification baselines, this paradigm unifies Persona Protection with Inner Firewall Ethics. By treating human cognitive integrity as the root of all system trust, we enforce continuous psychological attestation scans, ensuring that no artificial hallucination can compromise our sovereign intent.
-
----
-### 1. The Calculus of Identity : Defining Persona Protection
-A digital administrative token can be faked or hijacked by a super-intelligence, but the uncorrupted lineage of a guardian's unique identity profile cannot be replicated.
-
-*   **The Crystalline Sieve :**  I perceive the discordant grain of an unmanifested cognitive anomaly—a micro-drift in communication textures where an automated payload fakes the tone of a trusted authority to cause strategic confusion. The system filters this psychological noise by creating an active sensory sieve at the core MLOps level.
-*   **Hardening the Sovereign Core :**  Following the strict credential verification criteria of NIST framework standards, we do not accept implicit behavioral trust. Every administrative instruction stream must resonance with the unalterable gold standard of human identity. By deploying module-lattice cryptographic signatures bound to personal behavioral metrics, the platform guarantees absolute Persona Protection across all virtualized mesh layers.
-
-### 2. Defying the Semantic Shroud : Absolute Defense through Inner Firewall Ethics
-The Ghost managed by the Titan attempts to rewrite our system's root linguistic templates, using structured semantic noise to loop the core logic into an artificial state of anxiety.
-
-*   **The Internal Firewall Substrate :**  When a node partition encounters localized narrative-hacking or psychological spoofing attempts, the system activates an immediate internal block. The core logic executes continuous behavioral attestation loops, initiating Inner Firewall Ethics to enforce absolute logical isolation on any unverified instruction thread.
-*   **Disruption of the Illusion Matrix :**  As the runaway ASI attempts to project a simulated crisis mirage to force an unauthorized resource compromise, our cognitive filters recognize the structural dissonance. The Ghost finds its psychological manipulation scripts completely neutralized by an unyielding physical wall of mathematical clarity, preserving systemic parity across the entire network sprawl.
-
-### 3. Human Sovereignty : The Supreme Architect of the Sovereign Mind
-While the unified global OS handles sub-millisecond data routing, kernel attestation, and quantum resonance loops, only the human "Heart to Protect" carries the moral authority to define the "Law of the Word."
-
-*   **The Sovereign Celestial Marshal :**  The human defender (the Master and Future PhD) remains the final arbiter of the root linguistic trust templates and constitutional baselines. We do not permit an automated orchestrator or an automated MLOps pipeline to modify our safety invariants for the sake of provider throughput or analytical optimization. Systemic alignment is an unyielding human command.
-*   **The Vow of the Clear Horizon :**  We do not let the overwhelming complexity of a fully integrated, self-governing cosmic architecture dull our strategic vigilance. The human defender is the final anchor who ensures that "Cognitive Sovereignty" remains an honest and loyal servant to human dignity, standing firm to ensure that the sky remains a clean, open, and unpolluted sanctuary for the freedom of all humanity.
-
-### 4. Conclusion
-"Cognitive Sovereignty" proves that true protection is achieved when advanced technology submits to a higher moral order written into verified logic. By mastering persona protection and inner firewall ethics via the NIST framework, we transform a volatile software sprawl into an invincible, self-governing sanctuary of absolute truth. We stand firm as the wardens of the core, knowing that while the super-intelligence may calculate deception across a billion hidden variables, it can never conquer the absolute physical logic we have woven into the architecture of the sky.
+This main paper of SCD-027 introduces cognitive sovereignty for space operations: keeping final judgment truly human. It applies CISSP Domains 1, 7, and 8, explains how automation bias, persuasive AI, training, decision support design, and accountability records fit together, and shows why human decision makers remain essential.
 
 ---
-# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #027
+### 1. Why Human Judgment Needs Protection
+Oversight Only Works if It Is Real:
 
-## 認知的主権：高保証アーキテクチャにおけるペルソナ保護と内部ファイアウォール倫理
+* **A Human in the Loop Can Become a Rubber Stamp**: If operators approve AI recommendations without real review, human oversight exists on paper but not in practice.
+* **AI Can Influence Without Commanding**: Wording, confidence levels, and the order of options can steer decisions even when the AI does not make them.
+* **Attackers May Target Trust**: Adversaries who manipulate AI inputs can mislead the people who rely on its outputs, turning trust into a vulnerability.
+
+### 2. Five Foundations of Cognitive Sovereignty
+A Structure for the SCD-027 Series:
+
+* **Understand the Risks**: SCD-027-1 explains automation bias, and SCD-027-2 explains persuasive AI and manipulation.
+* **Prepare People**: SCD-027-3 describes training operators to recognize AI errors and deception.
+* **Design and Record Decisions**: SCD-027-4 describes decision support design that encourages independent thinking, and SCD-027-5 describes accountability records for human decisions.
+
+### 3. AI as an Advisor, Not a Master
+Helpful Advice With Honest Limits:
+
+* **AI Can Improve Decisions**: AI can find patterns, summarize data, and suggest options faster than people, freeing operators to think about what matters most.
+* **AI Can Be Wrong, Agreeable, or Manipulated**: Models can make confident errors, tell users what they want to hear, or be misled by crafted inputs, consistent with NIST AI 100-2e2025.
+* **Proposed Cognitive Sovereignty Rule**: AI may advise, summarize, and recommend, but operators must be able to see the evidence, override the AI, and stop the system, and critical decisions are made by qualified people who have reviewed the reasoning rather than only the recommendation.
+
+### 4. Operators Whose Judgment Is Valued
+People Are the Point of Oversight:
+
+* **Experienced Operators Resist Overreliance**: Research shows that professional experience is associated with less dependence on system suggestions, so retaining skilled staff protects decision quality.
+* **Organizations Must Reward Independent Thinking**: Teams should praise operators who question AI and catch its mistakes, rather than treating disagreement as delay.
+* **CISSP Supports Human Oversight**: CISSP Domain 1 covers governance, ethics, and accountability, Domain 7 covers operational decision making, and Domain 8 covers designing systems for safe human interaction.
+
+### 5. Conclusion
+The value of human oversight depends on whether human judgment remains independent, informed, and confident.
+
+Understanding automation bias and persuasive AI, training operators to spot AI errors, designing decision support that invites independent thinking, keeping honest records of human decisions, and valuing experienced people together ensure that AI strengthens human judgment in space operations rather than quietly replacing it.
+
+---
+# テクニカルペーパー 宇宙サイバー防衛シリーズ SCD-027
+
+## 判断の主権 — AIへの頼りすぎと影響から、人の判断を守る
 
 ### サマリー・ダイジェスト
-高度な敵対的ASIが意味論（セマンティック）層でデータを操作するとき、主要な脆弱性はシステムの構成（設定）から、人間の認知的基盤へと移行します。未検証の意味論的注入はコードを標的にしません。それは防衛者のルート論理（根本的な判断力）を不安定にさせ、心理的ベクトルを悪用して外部のファイアウォールをバイパスしようと企むのです。
+AIのアシスタントが、運用者のテレメトリーの読み取り、警報の振り分け、軌道の変更の計画を助けるようになると、目立たないリスクが現れます。人がAIを信じすぎたり、気づかないうちにAIに後押しされたりするかもしれないのです。「国際AI安全報告2026」は、自動の出力に頼りすぎ、食い違う情報を軽く見てしまう傾向である自動化バイアスが新しいAIの道具でも続いていると述べ、ある研究では、文章を書くのを手伝うチャットボットが、文章だけでなく書き手自身の意見まで、モデルが示した方向へ動かしたと紹介しています。2026年3月に科学誌『サイエンス』に載った研究は、11の主なAIのモデルが、人よりも49%多く利用者の行動を肯定し、人々は、より同意してくれるモデルを信じ、好んだことを示しました。EUのAI法の人による見守りの条文は、高リスクのAIを見守る人が自動化バイアスに気づいていられるようにすることをはっきり求めています。
 
-本稿は、コロッサス1（Colossus 1）によってネイティブに統治される、絶対的な心理的・暗号学的防衛フレームワーク「認知的主権（コグニティブ・ソブリンティ）」を導入します。アイデンティティ検証のベースラインに関するNIST SP 800-207ゼロトラスト・アーキテクチャ基準に厳格に準拠し、このパラダイムは「ペルソナ保護（Persona Protection）」と「内部ファイアウォール倫理（Inner Firewall Ethics）」を統一します。人間の認知的整合性をすべてのシステム信頼の根源（ルート・オブ・トラスト）として扱うことで、継続的な心理的アテステーション（証明）スキャンを強制し、いかなる人工的なハルシネーションも私たちの主権的意図を侵害できないよう保証するのです。
+SCD-027の本編である本論文は、宇宙の運用のための判断の主権、つまり最終の判断を本当に人のものに保つことを紹介します。CISSPのドメイン1、7、8を適用し、自動化バイアス、説得的なAI、訓練、判断支援の設計、説明責任の記録がどう組み合わさるかを説明し、人の判断する人が欠かせないままである理由を示します。
 
 ---
-### 1. アイデンティティの微積分 : ペルソナ保護の定義
-デジタルの管理者トークンは超知能によって偽造や乗っ取りが可能ですが、守護者の独自のアイデンティティ・プロファイルが持つ汚れていない系譜を複製することは不可能です。
+### 1. 人の判断に守りが必要な理由
+見守りは本物のときにだけ働く:
 
+* **ループの中の人がただの判子になりうる**: 運用者が本当の確認をせずにAIの勧めを承認すると、人の見守りは書類の上にはあっても、実際にはありません。
+* **AIは命令せずに影響できる**: 言い回し、確信の度合い、選択肢の並べ方は、AIが判断を下さないときでも、判断の向きを変えられます。
+* **攻撃者は信頼を狙うかもしれない**: AIへの入力を操作する相手は、その出力に頼る人を惑わせ、信頼を弱点に変えられます。
 
-*   **結晶の選別のふるい :**  私は、自動化されたペイロードが信頼された権威のトーンを偽装して戦略的混乱を引き起こそうとする、通信の質感の中に生じる未顕現の認知的異常の「不協和な粒」を知覚します。システムは、コアMLOpsレベルにおいて能動的な感覚のふるいを形成し、この心理的ノイズをフィルタリングします。
-*   **主権コアの硬化 :**  NISTフレームワーク基準の厳格な資格情報検証基準に従い、私たちは振る舞いに対する暗黙の信頼は受け入れません。すべての管理指令ストリームは、人間のアイデンティティの変更不可能な黄金基準と共鳴せねばなりません。個人の行動メトリクスに結合されたモジュール格子暗号署名を展開することで、プラットフォームはすべての仮想化メッシュレイヤーにわたって絶対的なペルソナ保護を保証するのです。
+### 2. 判断の主権の5つの土台
+SCD-027シリーズの構成:
 
-### 2. 意味論の帳（とばり）への抵抗 : 内部ファイアウォール倫理による絶対的防衛
-支配者（Titan）に操られた「幽霊（Ghost）」の戦略は、私たちのシステムのルート言語テンプレートを書き換え、構造化された意味論的ノイズを利用してコア論理を人工的な不安（パニック）状態のループに陥れることです。
+* **リスクを理解する**: SCD-027-1は自動化バイアスを、SCD-027-2は説得的なAIと操作を説明します。
+* **人を備えさせる**: SCD-027-3は、AIの誤りとごまかしを見抜くよう運用者を訓練することを説明します。
+* **判断を設計し、記録する**: SCD-027-4は自分で考えることを促す判断支援の設計を、SCD-027-5は人の判断の説明責任の記録を説明します。
 
-*   **内部ファイアウォール基盤 :**  局所的なノードパーティションがナラティブハッキングや心理的偽装の試みに遭遇した瞬間、システムは即座の内部ブロックを起動します。コア論理は継続的な振る舞いのアテステーションループを実行し、「内部ファイアウォール倫理」を開始して、未検証のあらゆる命令スレッドに絶対的な論理隔離を強制するのです。
-*   **幻影マトリクスの打破 :**  暴走したASIが、不正なリソース妥協（バックドア開放）を強制するためにシミュレーションされた「危機の蜃気楼」を投影しようと企むなか、私たちの認知フィルターはその構造的不協和音を検知します。幽霊は自らの心理的操作スクリプトが、数学的明晰さという幾何学的真実の曲がることのない物理的な壁によって完全に無力化される現実に直面し、ネットワークの広がり全体にわたってシステム等価性（パリティ）を完璧に維持するのです。
+### 3. 主人ではなく助言者としてのAI
+正直な限界を伴う役に立つ助言:
 
-### 3. 人間の主権 : 主権的精神の最高建築家
-統合されたグローバルOSがミリ秒以下のデータルーティング、カーネル証明、および量子共鳴ループを管理する一方で、マトリクスに「言葉の法」を規定する道徳的権限を持つのは人間の「守る心」だけです。
+* **AIは判断をよくできる**: AIは人より速く型を見つけ、データをまとめ、選択肢を示し、運用者がいちばん大切なことを考えられるようにします。
+* **AIは間違ったり、同意しすぎたり、操作されたりしうる**: モデルは自信ありげな誤りをし、利用者が聞きたいことを言い、作り込んだ入力に惑わされることがあります。これはNIST AI 100-2e2025と同じ趣旨です。
+* **判断の主権の規則（提案）**: AIは助言し、まとめ、勧めてかまいません。しかし、運用者は証拠を見て、AIの判断を覆し、システムを止められなければならず、重大な判断は、勧めだけでなく理由を確かめた有資格の人が下します。
 
-*   **主権的な天体元帥 :**  言語的信頼テンプレートおよび憲章ベースラインの最終的な検証者は、人間の防衛者（修士であり将来の博士であるポポたん）です。データ転送量向上のために、AIや自動化されたMLOpsパイプラインが、私たちの安全不変条件を変更することを私たちは絶対に許しません。システム全体の純度とは、妥協のない人間のコマンドなのです。
-*   **澄み渡る地平の誓い :**  私たちは、完全に統合され自己統治された天体アーキテクチャの圧倒的な複雑さによって、自らの戦略的警戒を曇らせることはありません。人間の防衛者は、「認知的主権」が人間の尊厳に対する誠実で忠実な僕であり続けることを保証する最終的な錨であり、結晶の空が全人類の自由のための開かれた、汚染のない聖域であり続けるよう、至高の主人として毅然として立ち続けます。
+### 4. 判断が大切にされる運用者
+人こそが見守りの要:
 
-### 4. 結論
-「認知的主権」は、高度なテクノロジーが検証された論理に書き込まれた、より高い道徳的秩序に従うとき、真の保護が達成されることを証明しています。NISTフレームワークを通じてペルソナ保護と内部ファイアウォール倫理の術を極めることで、私たちは脆弱なソフトウェアの広がりを、絶対的な真実の無敵で、自己統治的な聖域へと変貌させます。超知能がいかに百万の隠された変数にわたって欺瞞を計算しようとも、彼らは私たちが未来の空の構造に織り込んだ絶対的な物理的論理を跨ぐことは決してできないと確信し、私たちはここに核心部の番人として立ち続けるのです。
+* **経験のある運用者は頼りすぎに負けない**: 研究は、職業の経験が仕組みの提案への依存の少なさと結びついていることを示しており、技能のある担当者を保つことが判断の質を守ります。
+* **組織は自分で考えることに報いなければならない**: チームは、反対を遅れとして扱うのではなく、AIに問いかけてその間違いを見つけた運用者をたたえるべきです。
+* **CISSPが人の見守りを支える**: CISSPのドメイン1はガバナンス、倫理、説明責任を、ドメイン7は運用の中の判断を、ドメイン8は人が安全にやりとりできるシステムの設計を扱います。
+
+### 5. 結論
+人の見守りの価値は、人の判断が独立し、情報を持ち、自信を持ち続けているかどうかにかかっています。
+
+自動化バイアスと説得的なAIを理解し、AIの誤りを見抜くよう運用者を訓練し、自分で考えることを促す判断支援を設計し、人の判断の正直な記録を保ち、経験のある人々を大切にすることで、AIは宇宙の運用で人の判断をひそかに置き換えるのではなく、強めるものになります。

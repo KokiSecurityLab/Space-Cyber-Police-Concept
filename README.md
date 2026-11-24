@@ -206,7 +206,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-026-3 | Model Signing and Integrity | Proving That the Model on the Spacecraft Is the One That Was Approved |
 | SCD-026-4 | Third-Party AI Service Risk | When Mission Intelligence Depends on Someone Else's System |
 | SCD-026-5 | Updating Models in Orbit Safely | Changing a Spacecraft's AI Without Losing Control |
-| SCD-027 | Cognitive Sovereignty | Persona Protection & Inner Firewall Ethics |
+| SCD-027 | Cognitive Sovereignty | Protecting Human Judgment From AI Overreliance and Influence |
+| SCD-027-1 | Automation Bias | When People Trust the Machine Over Their Own Eyes |
+| SCD-027-2 | Persuasive AI and Manipulation | When an Assistant Tells People What They Want to Hear |
+| SCD-027-3 | Training Operators Against AI Deception | Practicing the Skill of Catching AI Mistakes |
+| SCD-027-4 | Designing Decision Support | Screens and Workflows That Keep People Thinking |
+| SCD-027-5 | Accountability Records for Human Decisions | Showing How People Decided, Not Only What the AI Said |
 | SCD-028 | Subordination of Power | Rule Hierarchy & Ethical Alignment Logic |
 | SCD-029 | Signal Volume Control | Disinfo Flooding & Selective Listening |
 | SCD-030 | Mission Integrity | Final Sovereignty: Liberty Under the Stars |
