@@ -158,7 +158,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-018-3 | Transparency of Intention | Advance Notification and Confidence Building in Orbit |
 | SCD-018-4 | The Duty to Help Others | Warning, Assisting, and Sharing in a Common Domain |
 | SCD-018-5 | AI and Humans as Partners | International AI Principles and the Role of People |
-| SCD-019 | The Last Resilience | Dual Storm Survival & Core Seed Preservation |
+| SCD-019 | The Last Resilience | Preparing for Solar Storms and Cyberattacks at the Same Time |
+| SCD-019-1 | Surviving the Dual Storm | When Space Weather and Cyber Incidents Happen Together |
+| SCD-019-2 | Radical Simplification of Logic | Minimal Safe Modes That Can Be Trusted in the Worst Case |
+| SCD-019-3 | Preserving the Seed of Intelligence | Offline Reference Images and Protected Backups |
+| SCD-019-4 | Deep Hibernation Protocol | Sleeping Safely Through the Storm |
+| SCD-019-5 | Verified Restart | Bringing Systems Back in a Trustworthy Order |
 | SCD-020 | Astraeus Shield Completion | Seamless Resonance & Global OS Integration |
 | SCD-021 | Geopolitical Neutrality | Immutable Ledgers & Digital Commons |
 | SCD-022 | Counter-Narrative Capture | Cognitive Defense & Star Language Integrity |
