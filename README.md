@@ -56,7 +56,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-001-3 | Sustained Vigilance | Continuous Monitoring and Human-AI Teaming |
 | SCD-001-4 | Mitigation Over Perfect Prevention | Assume-Breach Design and Root-of-Trust Recovery |
 | SCD-001-5 | AI as an Accountable Partner | Human Final Authority and Delegation Boundaries |
-| SCD-002 | The Invisible Shield | Laser Communications & Multidimensional Decoding |
+| SCD-002 | The Invisible Shield | Layered Authentication, Physical-Layer Monitoring, and Human-Governed Response for Laser Links |
+| SCD-002-1 | Laser as the New Pulse | Radio Versus Optical Threat Models and Hybrid Link Resilience |
+| SCD-002-2 | Detecting the Digital Fingerprint | Physical-Layer Authentication and Human Review Before Rejection |
+| SCD-002-3 | Beyond Signature Detection | Behavioral Baselines and Defending the Detector |
+| SCD-002-4 | Cross-Layer Correlation | Fusing Optical, Network, and Ground Evidence With Team Judgment |
+| SCD-002-5 | Sensing the Cosmic Discord | Quantum Key Distribution and Human Governance of Quantum-Safe Keys |
 | SCD-003 | The Eternal Guardian | Solar Energy, Robotic Repairs & Physical Security |
 | SCD-004 | The Swarm Immunity | Immune-Inspired Swarm Defense & Self-Healing |
 | SCD-005 | Cosmic Sweeper Protocol | Physical & Digital Debris Mitigation (Orbital DoS) |
