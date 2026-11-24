@@ -1,78 +1,87 @@
-# Project "Astraeus Shield" — Space Cyber Police Concept
-## Advanced Multi-Region Security Architecture, Orbital Telemetry Governance, and Autonomous Fault Isolation
+# Space Cyber Defense Series (SCD) — Project "Astraeus Shield"
+
+## Securing Orbital AI Infrastructure Through Human Accountability, CISSP Governance, and Human-AI Partnership
 
 ### 1. Vision
-As AI data centers expand into orbital infrastructure topologies (SpaceX / Starlink), traditional ground-based network security controls are no longer sufficient. This project establishes the "Space Cyber Police" conceptual baseline—an autonomous, multi-dimensional security operations framework designed to protect distributed satellite registries from terrestrial and aerospace threat vectors. 
+AI computing is leaving the ground: in October 2026 Google launched the first TPU-equipped test satellite of Project Suncatcher and later reported running its Gemma 4 model in orbit, and in November 2026 it signed with Blue Origin to launch multiple computing satellites in 2029, while other companies are already operating AI chips in space.
 
-The definitive objective of this architecture is to define the security specifications required for next-generation orbital processing layers, ensuring that decentralized system states remain functional and resilient against remote sabotage or adversarial penetration exploits.
+This series asks how such orbital AI infrastructure can be defended, grounding each idea in real incidents, published standards, and CISSP practice, and clearly marking which designs are proposals for the future rather than technology that exists today.
 
-### 2. Core Technologies (The Multi-Layered Protection System)
-* **Multi-Dimensional Decoding for Laser Communications**: Utilizing specialized visual pattern recognition metrics to detect microscopic hacking signatures and parameter drift within ultra-high-speed laser communication channels that standard AI filtering algorithms frequently miss.
-* **Large Language Model (LLM) Ingestion Ingress Security**: Enforcing strict input sanitization rules and programmatic gatekeeping playbooks to protect space-hosted LLM nodes from prompt injection and adversarial manipulation attempts that compromise satellite operations.
-* **Autonomous Orbital Recovery (Self-Healing Protocols)**: Implementing automated, decentralized failover protocols that allow multi-region aerospace infrastructures to self-stabilize and execute complete system re-imaging even during severe global communication blackout events.
+### 2. Guiding Principles
+* **Human Final Authority**: AI detects, correlates, and proposes at machine speed, while accountable people approve every action that affects safety, missions, rights, or livelihoods.
+* **CISSP-Grounded Governance**: Each paper maps its controls to the CISSP domains, so orbital defense rests on the same discipline that protects systems on Earth.
+* **People as the Strategic Perimeter**: Defending AI in orbit requires a broad workforce of skilled professionals, not automation or a small elite alone, and the gains of AI should strengthen careers rather than replace capable people.
+
+### 3. How the Series Is Numbered
+* **SCD-001, SCD-002, …**: Main papers of the Space Cyber Defense Series.
+* **SCD-001-1 to SCD-001-5**: Deep-dive papers that expand each main paper.
+* Papers in the companion repository use plain numbers such as #001, so the SCD prefix always identifies a paper from this series.
+
+### 4. Companion Repository
+The enterprise security foundations behind this series, from SIEM and incident response to the eight CISSP domains, are documented in the companion repository:
+👉 [Koki's Technical Paper Series — CySA-Study-Notes](https://github.com/KokiSecurityLab/CySA-Study-Notes)
 
 ---
-### Foundational Theory Index
-The autonomous orbital defense systems engineered in this project are systematically derived from established enterprise security controls. To review the foundational compliance baselines, SIEM logging concepts, and identity access strategies driving this architecture, visit the core repository here:
-👉 [Space Cyber Defense Series — CySA-Study-Notes](https://github.com/KokiSecurityLab/CySA-Study-Notes)
+# 宇宙サイバー防衛シリーズ（SCD） — プロジェクト「アストライオス・シールド」
 
----
-
-# プロジェクト「アストライオス・シールド」 — 宇宙サイバー警察構想
-## 高度マルチリージョン・セキュリティアーキテクチャ、軌道テレメトリガバナンス、および自律的フォルト隔離
+## 人の説明責任、CISSPに基づく統治、および人とAIの協働による軌道上のAI基盤の防御
 
 ### 1. ビジョン
-AIデータセンターが軌道上のインフラトポロジ（SpaceX / Starlink等）へ進出する今、従来の地上型ネットワークセキュリティ管理策では不十分です。本プロジェクトは、「宇宙サイバー警察」の概念的基準線（ベースラインミッション）を確立します。これは、地球上および宇宙空間から発せられる脅威ベクトルから、分散された衛星レジストリを保護するために設計された、自律型・多次元のセキュリティ運用フレームワークです。
+AIの計算基盤は地上を離れつつあります。2026年10月、GoogleはProject SuncatcherのTPUを搭載した最初の試験衛星を打ち上げ、その後、軌道上でGemma 4モデルを動かしたと報告しました。さらに2026年11月には、2029年に複数の計算衛星を打ち上げる契約をBlue Originと結び、ほかの企業もすでに宇宙でAIチップを運用しています。
 
-本アーキテクチャの明確な目的は、次世代の軌道処理レイヤーに必要なセキュリティ仕様を定義し、分散されたシステム状態が、遠隔からの破壊工作やアドバサリアルな侵入エクスプロイト（搾取攻撃）に対して高い可用性とレジリエンス（回復力）を維持できるようにすることにあります。
+本シリーズは、こうした軌道上のAI基盤をどう守るかを問い、それぞれの考えを実際の事件、公開された標準、CISSPの実践に基づかせるとともに、どの設計が今ある技術ではなく将来に向けた提案なのかを明確に示します。
 
-### 2. コア・テクノロジー（多層防御システム）
-* **レーザー通信用・多次元デコーディングの強制**: 独自の視覚パターン認識メトリクスを活用し、標準的なAIフィルタリングアルゴリズムが見落としがちな、超高速レーザー通信チャネル内部の微細なハッキングシグネチャやパラメータドリフトを最前線で検出します。
-* **大規模言語モデル（LLM）入力境界セキュリティの執行**: 厳格な入力サニライズ（データ洗浄）ルールとプログラム的なゲートキーピングプレイブックを実行し、宇宙に配置されたLLMノードを、プロンプトインジェクションや衛星運用を妨害する悪意ある操作の試みからエッジで防御します。
-* **自律型軌道復旧（自己修復プロトコル）の強制**: 自動化された分散型フェイルオーバープロトコルを実装し、地球上で深刻な世界規模の通信遮断（ブラックアウト）が発生した際でも、航空宇宙インフラが自律的に自己安定化し、完全なシステム適用（リイメージ）を実行できる環境を再確立します。
+### 2. 基本方針
+* **人間の最終権限**: AIは機械の速度で検知し、相関させ、提案し、安全、ミッション、権利、生活に影響するすべての行動は、説明責任を負う人が承認します。
+* **CISSPに基づく統治**: 各論文は統制をCISSPのドメインに対応付け、軌道上の防御を、地上のシステムを守るのと同じ規律の上に築きます。
+* **戦略的な境界としての人材**: 軌道上のAIを守るには、自動化や一握りの精鋭だけでなく、熟練した専門家の幅広い人材が必要であり、AIの恩恵は有能な人を置き換えるのではなく、そのキャリアを強くするために使うべきです。
 
----
-### 基礎理論インデックスへの接続
-本プロジェクトで構築された自律型軌道防衛システムは、確立された企業向けセキュリティ管理策および技術的アライメントから体系的に導出されています。本アーキテクチャの根底にあるSIEMログ監視概念、ファイル改ざん検知（FIM）、およびアイデンティティアクセス戦略の基盤ノートは、以下よりご覧いただけます。
-👉 [宇宙サイバー防衛シリーズ — CySA-Study-Notes](https://github.com/KokiSecurityLab/CySA-Study-Notes)
+### 3. シリーズの番号の付け方
+* **SCD-001、SCD-002 …**: 宇宙サイバー防衛シリーズの本編です。
+* **SCD-001-1〜SCD-001-5**: 各本編を掘り下げる深掘りの論文です。
+* 姉妹リポジトリの論文は #001 のような番号だけを使うため、SCDが付いていれば必ずこのシリーズの論文です。
+
+### 4. 姉妹リポジトリ
+本シリーズの土台となる、SIEMやインシデント対応からCISSPの8つのドメインまでの企業向けセキュリティの基礎は、姉妹リポジトリにまとめています。
+👉 [Koki's Technical Paper Series — CySA-Study-Notes](https://github.com/KokiSecurityLab/CySA-Study-Notes)
 
 ---
 ## Technical Paper Index
 
 | No | Project / Theme | Focus Area |
 | :--- | :--- | :--- |
-| 001 | Deciphering Hacker Psychology | Hacker Psychology & "Heart to Protect" |
-| 001-1 | Psychological Deconstruction | Analyzing vulnerabilities in attacker dominance |
-| 001-2 | Social Engineering Defense | Shielding human dignity from manipulation |
-| 001-3 | Persistent Protective Mindset | The "Background Process" of the Guardian |
-| 001-4 | The Art of Mitigation | Resilience Through Continuous Self-Correction |
-| 001-5 | AI as an Ethical Partner | The Architecture of Human-AI Collaboration |
-| 002 | The Invisible Shield | Laser Communications & Multidimensional Decoding |
-| 003 | The Eternal Guardian | Solar Energy, Robotic Repairs & Physical Security |
-| 004 | The Swarm Immunity | Cellular Defense (Hataraku Saibou model) & Self-Healing |
-| 005 | Cosmic Sweeper Protocol | Physical & Digital Debris Mitigation (Orbital DoS) |
-| 006 | Post-Analysis | Failure-based defensive optimization |
-| 007 | Symbiotic Learning | Human-AI Tutoring & Safe Feedback Loops |
-| 008 | Sovereign Open Standards | Shared Code & Monopoly Neutralization |
-| 009 | Fall of the Bad King | Preventing Centralized Authority Hijacking |
-| 010 | Thermodynamic Fingerprint | Heat Pattern & Hardware Pulse Anomaly |
-| 011 | The Pulse of Discord | Signal Dissonance & Cognitive Sifting |
-| 012 | Logical Intent Filtering | Moral Gatekeeping & Decision Sandboxes |
-| 013 | Biological Logic Healing | Self-Repairing Code & Health Baselines |
-| 014 | Celestial Authentication | Starlight Geometry & Physical Anchors |
-| 015 | Dark Data Scrubbing | Background Noise & Metabolic Integrity |
-| 016 | Orbital Response Units | Digital-Kinetic Rescue & Active Guarding |
-| 017 | Entanglement Firewall | Zero Latency & Swarm Awareness Unity |
-| 018 | The Cosmic Constitution | Peace Encoding & AI Stewardship Ethics |
-| 019 | The Last Resilience | Dual Storm Survival & Core Seed Preservation |
-| 020 | Astraeus Shield Completion | Seamless Resonance & Global OS Integration |
-| 021 | Geopolitical Neutrality | Immutable Ledgers & Digital Commons |
-| 022 | Counter-Narrative Capture | Cognitive Defense & Star Language Integrity |
-| 023 | Techno-Liberty Protocol | Algorithmic Bias & AI for Human Liberty |
-| 024 | Sovereign Truth Anchoring | Physical Law Protocols & Guardian Pride |
-| 025 | Structural Harmony | Intent Heatmaps & Semantic Texture Analysis |
-| 026 | The AI Sanctuary | Ensuring Data Provenance and Supply Chain Mitigation |
-| 027 | Cognitive Sovereignty | Persona Protection & Inner Firewall Ethics |
-| 028 | Subordination of Power | Rule Hierarchy & Ethical Alignment Logic |
-| 029 | Signal Volume Control | Disinfo Flooding & Selective Listening |
-| 030 | Mission Integrity | Final Sovereignty: Liberty Under the Stars |
+| SCD-001 | Threat Actor Behavior Analysis | Motivation-Based Profiling and Human-Centric Governance |
+| SCD-001-1 | Adversary Capability Assessment | Separating Visible Aggression From Real Capability |
+| SCD-001-2 | Social Engineering Defense | Out-of-Band Verification and Deepfake-Resistant Approval |
+| SCD-001-3 | Sustained Vigilance | Continuous Monitoring and Human-AI Teaming |
+| SCD-001-4 | Mitigation Over Perfect Prevention | Assume-Breach Design and Root-of-Trust Recovery |
+| SCD-001-5 | AI as an Accountable Partner | Human Final Authority and Delegation Boundaries |
+| SCD-002 | The Invisible Shield | Laser Communications & Multidimensional Decoding |
+| SCD-003 | The Eternal Guardian | Solar Energy, Robotic Repairs & Physical Security |
+| SCD-004 | The Swarm Immunity | Immune-Inspired Swarm Defense & Self-Healing |
+| SCD-005 | Cosmic Sweeper Protocol | Physical & Digital Debris Mitigation (Orbital DoS) |
+| SCD-006 | The Living Armor | Symbiosis of Orbital Compute Cores and Power Infrastructure |
+| SCD-007 | The Celestial Archive | Material Lifecycle and Hardware Supply Chain Integrity |
+| SCD-008 | The Neutral Orbit | Fair Access Beyond Corporate Monopoly |
+| SCD-009 | The Sovereign Shield | Preventing State-Sponsored Hijacking in Orbit |
+| SCD-010 | The Stellar Choreography | Protecting the Rhythm of the Stars |
+| SCD-011 | The Pulse of Discord | Signal Dissonance & Cognitive Sifting |
+| SCD-012 | Logical Intent Filtering | Moral Gatekeeping & Decision Sandboxes |
+| SCD-013 | Biological Logic Healing | Self-Repairing Code & Health Baselines |
+| SCD-014 | Celestial Authentication | Starlight Geometry & Physical Anchors |
+| SCD-015 | Dark Data Scrubbing | Background Noise & Metabolic Integrity |
+| SCD-016 | Orbital Response Units | Digital-Kinetic Rescue & Active Guarding |
+| SCD-017 | Entanglement Firewall | Zero Latency & Swarm Awareness Unity |
+| SCD-018 | The Cosmic Constitution | Peace Encoding & AI Stewardship Ethics |
+| SCD-019 | The Last Resilience | Dual Storm Survival & Core Seed Preservation |
+| SCD-020 | Astraeus Shield Completion | Seamless Resonance & Global OS Integration |
+| SCD-021 | Geopolitical Neutrality | Immutable Ledgers & Digital Commons |
+| SCD-022 | Counter-Narrative Capture | Cognitive Defense & Star Language Integrity |
+| SCD-023 | Techno-Liberty Protocol | Algorithmic Bias & AI for Human Liberty |
+| SCD-024 | Sovereign Truth Anchoring | Physical Law Protocols & Guardian Pride |
+| SCD-025 | Structural Harmony | Intent Heatmaps & Semantic Texture Analysis |
+| SCD-026 | The AI Sanctuary | Ensuring Data Provenance and Supply Chain Mitigation |
+| SCD-027 | Cognitive Sovereignty | Persona Protection & Inner Firewall Ethics |
+| SCD-028 | Subordination of Power | Rule Hierarchy & Ethical Alignment Logic |
+| SCD-029 | Signal Volume Control | Disinfo Flooding & Selective Listening |
+| SCD-030 | Mission Integrity | Final Sovereignty: Liberty Under the Stars |
