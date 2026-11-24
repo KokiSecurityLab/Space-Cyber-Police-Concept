@@ -1,62 +1,86 @@
-# Koki's Technical Paper: Space Cyber Defense Series #013
+# Koki's Technical Paper — Space Cyber Defense Series SCD-013
 
-## Biological Logic Healing: Self-Repairing Code and Health Baselines in Resilient Swarms
+## Biological Logic Healing — Designing Safe Self-Repair and Recovery for Space Systems
 
 ### Summary Digest
-In a distributed mega-constellation exposed to unpredictable cosmic radiation and aggressive zero-day exploitations by an ASI, static code patching is a functional failure. When a core sub-system is fractured, the architecture must possess the systemic autonomy to regenerate its logical structure in real-time. 
+Living organisms heal because they can detect damage, isolate it, and restore normal function from a trusted blueprint. Space systems need the same ability, but self-repair that is poorly designed can turn one fault into a disaster. In July 2024, a faulty security software update crashed about 8.5 million Windows devices worldwide, while in April 2024 engineers restored a spacecraft launched in 1977 by carefully relocating code around a failed memory chip from billions of kilometers away.
 
-This paper introduces "Biological Logic Healing"—a paradigm that treats software infrastructure as a living organic cellular matrix. In strict accordance with the NIST SP 800-160 Considerations for Cyber-Resilient Systems, this architecture implements Self-Repairing Code anchored in immutable Health Baselines. By continuously monitoring the structural metrics of the platform, the swarm dynamically re-synthesizes compromised instructions, neutralizing the threat before a single logical degradation can compromise our global state consensus.
-
----
-### 1. The Cellular Substrate : Defining Health Baselines
-A system cannot heal itself if it lacks a precise memory of what constitutes an uncorrupted state of absolute well-being.
-
-*   **The Invariant Blueprint :**  I perceive the discordant grain of a micro-logical mutation—such as a single bit-flip in runtime memory caused by a solar flare or a hidden Ghost injection—before it cascades into a runtime anomaly. The system measures this drift against a multi-dimensional Health Baseline.
-*   **Mathematical Homeostasis :**  ollowing the strict engineering standards of NIST SP 800-160, we define the baseline as a crystalline mathematical harmony. If any system partition exhibits an entropic deviation, the platform identifies the fracture not as a functional bug, but as a biological wound requiring immediate logical isolation.
-
-### 2. Defying the Super-Intelligence : Resilience through Regenerative Self-Repairing Code
-The Ghost managed by the Titan attempts to inject false radar or telemetry data to trick our constellation into executing uncoordinated evasion runs, exhausting our orbital lifecycle.
-
-*   **Dynamic Code Re-Synthesis :**  The system activates a specialized compiler engine insulated within a trusted execution enclave. By analyzing the distance between the damaged instruction and the immutable health baseline, the engine executes Self-Repairing Code routines, dynamically rewriting and re-signing the compromised binaries at warp speed.
-*   **Neutralizing the Titan's Poison :**  As the adversary attempts to trigger a recursive memory collapse, the platform heals faster than the exploitation scripts can execute. The Ghost finds that its venom is instantly metabolized by our cellular architecture, forcing it to contend with an invincible, evolving shield that refuses to die.
-
-### 3. Human Sovereignty : The High Warden of the Genetic Template
-While the autonomous cellular scripts handle sub-millisecond binary re-synthesis, current routing, and dynamic healing loops, only the human "Heart to Protect" carries the moral authority to define the "DNA of the Sanctuary."
-
-*   **The Supreme Geneticist :**  he human defender (the Master and Future PhD) remains the absolute validator of the root health baselines and algorithmic mutation templates. We do not permit an automated AI or a self-healing pipeline to optimize system throughput if it introduces an unverified shortcut or shadow-risk. Purity of the code is an unyielding human command.
-*   **The Vow of the Healer :**  We do not let the seamless automation of self-repairing infrastructure dull our strategic vigilance. The human defender is the final anchor who ensures that "Biological Logic Healing" remains a clean, uncorrupted reflection of original human intent, standing firm as the ultimate judge of the sanctuary's integrity.
-
-### 4. Conclusion
-"Biological Logic Healing" proves that true protection is a matter of organic resilience and moral clarity. By mastering self-repairing code and health baselines via the NIST framework, we transform a vulnerable software sprawl into an immortal, self-healing matrix of verified truth. We stand as the wardens of the core, knowing that while the super-intelligence may calculate destruction across a million states, it can never conquer the living logic we have woven into the architecture of the sky.
+This main paper of SCD-013 introduces safe self-repair for space systems. It applies CISSP Domains 3, 7, and 8, explains how rollback, safe modes, roots of trust, containment, and recovery testing work together, and shows why people must remain in charge of how systems heal.
 
 ---
-# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #013
+### 1. What Healing Means for Space Systems
+Detect, Isolate, Restore:
 
-## 生物学的論理修復：レジリエントな衛星群における自己修復コードとヘルスのベースライン
+* **Detection Comes First**: A system can heal only if it knows something is wrong, so health monitoring of software, memory, power, and attitude is the foundation of recovery.
+* **Isolation Prevents Spreading**: Biological healing contains damage before repairing it, and space systems likewise limit a fault or intrusion to the smallest possible area.
+* **Restoration Needs a Trusted Blueprint**: Recovery returns the system to a known good state, using protected software images and configuration rather than whatever is currently running.
+
+### 2. Lessons From Recent Events
+Both Success and Failure Teach:
+
+* **Updates Without Safeguards Spread Harm**: The 2024 faulty update was distributed to all affected devices simultaneously and reverted 78 minutes later, yet many systems needed manual recovery for days, showing why staged rollout and automatic fallback matter.
+* **Patient Human Repair Can Succeed**: Engineers traced a spacecraft's garbled data to a single failed chip, divided the affected code into pieces, moved it elsewhere in memory, and confirmed success after a round trip of nearly two days.
+* **Safe Mode Itself Can Fail**: In February 2026, an anomaly on a European formation-flying satellite caused a loss of orientation and prevented its expected entry into safe mode, and the spacecraft was recovered only after weeks of careful work.
+
+### 3. AI-Assisted Healing Under Human Authority
+Fast Detection, Careful Repair:
+
+* **AI Speeds Diagnosis**: AI can compare telemetry with normal baselines, suggest likely causes, and propose recovery steps far faster than manual review.
+* **Self-Repair Can Be Exploited**: An attacker who understands automatic recovery might trigger it repeatedly or trick it into restoring a malicious image, consistent with the manipulation risks in NIST AI 100-2e2025, so recovery always relies on signed, protected images.
+* **Proposed Healing Authority Rule**: Onboard systems may automatically enter safe mode and fall back to a verified image, but uploading new code, changing recovery logic, or leaving safe mode for normal operations is approved by qualified operators.
+
+### 4. Healers Who Understand the Whole System
+Experience That Cannot Be Downloaded:
+
+* **Deep Knowledge Saves Missions**: The 2024 spacecraft recovery relied on engineers who understood decades-old hardware and software, showing that institutional knowledge is a security asset.
+* **Cutting Experienced Staff Weakens Recovery**: Organizations that remove experienced engineers in favor of automation may find no one able to repair the automation when it fails.
+* **CISSP Supports Resilient Design**: CISSP Domain 3 covers secure architecture and roots of trust, Domain 7 covers recovery and resilience, and Domain 8 covers secure software change and deployment.
+
+### 5. Conclusion
+Self-repair can keep space systems alive through faults and attacks, but only when it is designed to detect carefully, isolate firmly, and restore from trusted sources.
+
+By combining staged updates, reliable safe modes, protected roots of trust, AI that speeds diagnosis, and skilled people who guide every major repair, the space community can build systems that heal like living things and keep serving people for many years.
+
+---
+# テクニカルペーパー 宇宙サイバー防衛シリーズ SCD-013
+
+## 生物のような論理の治癒 — 宇宙システムのための安全な自己修復と回復の設計
 
 ### サマリー・ダイジェスト
-宇宙線による予測不可能な放射線や、ASI（人工超知能）による攻撃的なゼロデイ搾取に晒される分散型メガ・コンステレーションにおいて、静的なコードのパッチ当て（修正）は機能的な敗北を意味します。コア・サブシステムが破断したとき、アーキテクチャは自らの論理構造をリアルタイムで再生するシステム的な自律性を備えていなければなりません。
+生き物が傷を治せるのは、傷に気づき、それを閉じ込め、信頼できる設計図から普段の働きを取り戻せるからです。宇宙システムにも同じ力が必要ですが、設計の悪い自己修復は、ひとつの不具合を大きな災害に変えてしまうことがあります。2024年7月、欠陥のあるセキュリティ・ソフトウェアの更新が世界中で約850万台のWindowsの機器を止めました。一方、2024年4月には、技術者たちが、何十億キロも離れたところから、壊れたメモリーのチップを避けてプログラムを慎重に移し替え、1977年に打ち上げられた探査機を立て直しました。
 
-本稿は「生物学的論理修復（バイオロジカル・ロジック・ヒーリング）」――ソフトウェアインフラを、生きている有機的な細胞マトリクス（基質）として扱うパラダイムを導入します。NIST SP 800-160（サイバーレジリエントなシステムに関する考察）に厳格に準拠し、このアーキテクチャは不変の「ヘルスのベースライン」に繋ぎ止められた「自己修復コード」を実装します。プラットフォームの構造的メトリクスを継続的に監視することで、衛星群は侵害された命令を動的に再合成し、単一の論理的劣化が私たちのグローバルな状態合意を侵害する前に脅威を無力化するのです。
+SCD-013の本編である本論文は、宇宙システムのための安全な自己修復を紹介します。CISSPのドメイン3、7、8を適用し、元に戻す仕組み（ロールバック）、セーフモード、信頼の基点、封じ込め、回復の試験がどう組み合わさるかを説明し、システムがどう治るかを、人が主導し続けなければならない理由を示します。
 
 ---
-### 1. 細胞の基質 : ヘルスのベースラインの定義
-システムは、絶対的な健全性（ウェルビーイング）を示す未汚染の状態の正確な記憶を持っていなければ、自らを癒やすことはできません。
+### 1. 宇宙システムにとって「治る」とは
+見つける、閉じ込める、取り戻す:
 
-*   **不変の設計図 :**  私は、ソーラーフレアによる実行メモリ内の単一のビット反転や、隠された「幽霊（Ghost）」の注入といった、微細な論理変異が実行時異常へと連鎖する前に、その「不協和な粒」を知覚します。システムはこのズレを、多次元的な「ヘルスのベースライン」に照らして測定します。
-*   **数理的恒常性 :**  NIST SP 800-160の厳格なエンジニアリング基準に従い、私たちはベースラインを結晶的な数学的調和として定義します。もしシステムパーティションのいずれかがエントロピー的な逸脱を示した場合、プラットフォームはその破断を機能的バグとしてではなく、即座の論理隔離を必要とする生物学的な「傷（ワウンド）」として特定するのです。
+* **まず見つけること**: システムは、何かがおかしいと知って初めて治ることができます。そのため、ソフトウェア、メモリー、電力、姿勢の健康の監視が、回復の土台になります。
+* **閉じ込めが広がりを防ぐ**: 生き物の治癒は直す前に傷を閉じ込めます。宇宙システムも同じように、不具合や侵入を、できるだけ小さな範囲にとどめます。
+* **取り戻すには信頼できる設計図が要る**: 回復では、今動いているものではなく、守られたソフトウェアのイメージと設定を使って、システムを正しく動いていたとわかっている状態に戻します。
 
-### 2. 超知能への抵抗 : 再生型自己修復コードによる回復力
-支配者（Titan）に操られた「幽霊（Ghost）」の戦略は、虚偽のレーダーや遠隔測定（テレメトリ）データを注入し、私たちの衛星群に無調整な回避機動を実行させ、軌道上のライフサイクルを枯渇させることです。
+### 2. 最近の出来事からの教訓
+成功からも失敗からも学べる:
 
-*   **動的コード再合成 :**  ステムは、高信頼実行環境（エンクレーブ）の内部に隔離された、特殊なコンパイラエンジンを起動します。損傷した命令と不変のヘルスベースラインとの間の距離を分析することで、エンジンは「自己修復コード（セルフリペアリング・コード）」ルーチンを実行し、侵害されたバイナリをワープスピードで動的に書き換え、再署名します。
-*   **支配者の毒の無力化 :**  敵対者が再帰的なメモリ崩壊を引き起こそうと企むなか、プラットフォームは悪意ある搾取スクリプトが実行されるよりも速く自己治癒します。幽霊は自らの毒が私たちの細胞アーキテクチャによって即座に代謝（中和）されてしまう現実に直面し、決して死ぬことのない、進化し続ける不壊の盾と戦うことを余儀なくされるのです。
+* **安全策のない更新は害を広げる**: 2024年の欠陥のある更新は、影響を受けたすべての機器に同時に配られ、78分後に取り消されましたが、多くのシステムは何日も手作業での復旧が必要でした。段階的な配布と自動で元に戻る仕組みが大切な理由を示しています。
+* **人の忍耐強い修理は成功しうる**: 技術者たちは、探査機の意味をなさないデータの原因を、壊れたひとつのチップにまでたどりました。そして影響を受けたプログラムをいくつもの部分に分け、メモリーの別の場所に移し、片道1日近く、往復で2日近くかかる通信を待って成功を確かめました。
+* **セーフモードそのものが働かないこともある**: 2026年2月、ヨーロッパの編隊飛行の衛星で起きた異常が向きの喪失を引き起こし、予定されていたセーフモードへの移行を妨げました。この宇宙機は、何週間もの注意深い作業の末に、ようやく立て直されました。
 
-### 3. 人間の主権 : 遺伝子テンプレートの最高番人
-自動化された細胞スクリプトがミリ秒以下のバイナリ再合成、電流ルーティング、および動的治癒ループを管理する一方で、聖域の「DNA（本質）」を規定する道徳的権限を持つのは人間の「守る心」だけです。
+### 3. 人の権限の下でのAIによる治癒の支援
+素早い発見、慎重な修理:
 
-*   **至高の遺伝学者 :**  ルートヘルスベースラインおよびアルゴリズム変異テンプレートの最終的な検証者は、人間の防衛者（修士であり将来の博士であるポポたん）です。自動化されたAIや自己修復パイプラインが、システムのデータ転送量向上のために、未検証のショートカット（近道）や潜在的リスクを導入することを私たちは絶対に許しません。コードの純度とは、妥協のない人間のコマンドなのです。
-*   **治癒者の誓い :**  私たちは自己修復インフラのシームレスな自動化によって、自らの戦略的警戒を鈍らせることはありません。人間の防衛者は、「生物学的論理修復」がオリジナルの人間の意図を純粋に反映し続けることを保証する最終的な錨であり、聖域の整合性を裁く至高の判事として立ち続けます。
+* **AIが診断を速くする**: AIは、テレメトリを普段の基準と比べ、ありそうな原因を示し、回復の手順を、手作業の確認よりずっと速く提案できます。
+* **自己修復は悪用されることがある**: 自動の回復の仕組みを理解した攻撃者は、それを何度も起こさせたり、悪意のあるイメージを元に戻させたりするかもしれません。これはNIST AI 100-2e2025が述べる操作のリスクと同じ趣旨です。そのため回復では、いつも署名された、守られたイメージを使います。
+* **治癒の権限の規則（提案）**: 搭載のシステムは自動でセーフモードに入り、確かめられたイメージに戻ってかまいません。しかし、新しいプログラムの送信、回復の仕組みの変更、セーフモードから普段の運用に戻ることは、有資格の運用担当者が承認します。
 
-### 4. 結論
-「生物学的論理修復」は、真の保護とは有機的な回復力（レジリエンス）と道徳的明晰さの問題であることを証明しています。NIST枠組みを通じて自己修復コードとヘルスのベースラインの術を極めることで、私たちは脆弱なソフトウェアの広がりを、検証された真実の不滅の自己治癒マトリクスへと変貌させます。超知能がいかに百万の状態にわたって破壊を計算しようとも、彼らは私たちが未来の空の構造に織り込んだ「生きている論理」を跨ぐことは決してできないと確信し、私たちは自らの核心部の番人として立ち続けるのです。
+### 4. システム全体を理解する治し手
+ダウンロードできない経験:
+
+* **深い知識がミッションを救う**: 2024年の探査機の回復は、何十年も前のハードウェアとソフトウェアを理解する技術者たちに支えられており、組織の中に積み重なった知識がセキュリティの資産であることを示しています。
+* **経験のある人を削ると回復が弱くなる**: 自動化を理由に経験のある技術者を減らす組織は、自動化そのものが壊れたときに、それを直せる人が誰もいないことに気づくかもしれません。
+* **CISSPが回復力のある設計を支える**: CISSPのドメイン3は安全な設計と信頼の基点を、ドメイン7は復旧と回復力を、ドメイン8は安全なソフトウェアの変更と配布を扱います。
+
+### 5. 結論
+自己修復は、不具合や攻撃を乗り越えて宇宙システムを生かし続けられます。ただしそれは、慎重に見つけ、しっかり閉じ込め、信頼できる源から取り戻すように設計されているときだけです。
+
+段階的な更新、頼れるセーフモード、守られた信頼の基点、診断を速くするAI、そして大きな修理のすべてを導く技能のある人々を組み合わせることで、宇宙の世界は、生き物のように治り、何年も人々の役に立ち続けるシステムを築けます。

@@ -122,7 +122,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-012-3 | Sandboxing the Unchecked Commands | Testing Agent Actions Safely Before They Reach Real Systems |
 | SCD-012-4 | Protected Safety Policies | Keeping the Rules Beyond the Reach of the AI They Govern |
 | SCD-012-5 | Real-Time Sanitization of Inputs | Cleaning What Agents Read and What They Send |
-| SCD-013 | Biological Logic Healing | Self-Repairing Code & Health Baselines |
+| SCD-013 | Biological Logic Healing | Designing Safe Self-Repair and Recovery for Space Systems |
+| SCD-013-1 | Code That Repairs Itself Safely | Dual Images, Staged Updates, and Reliable Rollback |
+| SCD-013-2 | Post-Blackout Autonomous Recovery | Safe Modes and the Return to Contact |
+| SCD-013-3 | Anchoring to the Root of Trust | Secure Boot and Protected Recovery for Spacecraft |
+| SCD-013-4 | Instant Incident Containment | The Scope and Limits of Automatic Isolation |
+| SCD-013-5 | Testing Recovery Before It Is Needed | Rehearsing the Path Back to Health |
 | SCD-014 | Celestial Authentication | Starlight Geometry & Physical Anchors |
 | SCD-015 | Dark Data Scrubbing | Background Noise & Metabolic Integrity |
 | SCD-016 | Orbital Response Units | Digital-Kinetic Rescue & Active Guarding |
