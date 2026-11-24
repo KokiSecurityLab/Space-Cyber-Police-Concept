@@ -110,7 +110,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-010-3 | Countering Navigation Spoofing | Lessons From Aviation and Maritime Interference for Space Systems |
 | SCD-010-4 | Ephemeris Data Integrity | Signing and Verifying the Orbital Data Behind Every Position |
 | SCD-010-5 | Security Based on Physical Laws | Using Orbital Mechanics and Independent Sensors to Detect False Data |
-| SCD-011 | The Pulse of Discord | Signal Dissonance & Cognitive Sifting |
+| SCD-011 | The Early Warning Line | Detecting Reconnaissance Before an Attack on Space Systems |
+| SCD-011-1 | Mapping the Exposed Surface | Finding Internet-Visible Ground Systems Before Attackers Do |
+| SCD-011-2 | Scanning and Probing Patterns | Recognizing When Background Noise Becomes a Targeted Search |
+| SCD-011-3 | Open-Source Intelligence About Satellites | What Public Information and Unprotected Signals Reveal |
+| SCD-011-4 | Deception Systems for Ground Networks | Using Decoys to Detect Intruders Early |
+| SCD-011-5 | Detecting Pre-Attack Reconnaissance | Sharing Early Warnings Across the Space Community |
 | SCD-012 | Logical Intent Filtering | Moral Gatekeeping & Decision Sandboxes |
 | SCD-013 | Biological Logic Healing | Self-Repairing Code & Health Baselines |
 | SCD-014 | Celestial Authentication | Starlight Geometry & Physical Anchors |
