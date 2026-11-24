@@ -74,7 +74,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-004-3 | Identifying the Malicious Node | Trust Scoring and Fair Review Before Declaring Compromise |
 | SCD-004-4 | The Quarantine Protocol | Graded Isolation, Evidence Preservation, and Safe Release |
 | SCD-004-5 | Collective Learning Across the Swarm | Securing Federated Learning Against Poisoned Updates |
-| SCD-005 | Cosmic Sweeper Protocol | Physical & Digital Debris Mitigation (Orbital DoS) |
+| SCD-005 | The Cosmic Sweeper | Space Debris, Orbital Denial of Service, and Trustworthy Collision Avoidance |
+| SCD-005-1 | The Silent Bullet of Debris | Fragmentation Events and Breakup Investigation |
+| SCD-005-2 | Stopping Physical DoS Attacks | Counterspace Threats and Norms Against Debris-Creating Actions |
+| SCD-005-3 | Trajectory Prediction Integrity | Protecting Conjunction Data and Shared Tracking Services |
+| SCD-005-4 | Transforming Waste into Wealth | Securing Active Debris Removal and Dual-Use Capture Technology |
+| SCD-005-5 | Protecting the Road to the Stars | Secure End-of-Life Disposal and Zero Debris Commitments |
 | SCD-006 | The Living Armor | Symbiosis of Orbital Compute Cores and Power Infrastructure |
 | SCD-007 | The Celestial Archive | Material Lifecycle and Hardware Supply Chain Integrity |
 | SCD-008 | The Neutral Orbit | Fair Access Beyond Corporate Monopoly |

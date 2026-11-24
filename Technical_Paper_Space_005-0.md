@@ -1,62 +1,86 @@
-# Koki's Technical Paper: Space Cyber Defense Series #005
+# Koki's Technical Paper — Space Cyber Defense Series SCD-005
 
-## The Cosmic Sweeper: Mitigating Kinetic-DoS and Reclaiming Orbital Integrity in Dense Swarm Architectures
+## The Cosmic Sweeper — Space Debris, Orbital Denial of Service, and Trustworthy Collision Avoidance Under Human Command
 
 ### Summary Digest
-In a mega-constellation encompassing over one million active orbital nodes, the most catastrophic physical hazard is not a direct energy weapon, but the weaponization of Space Debris. 
+Low Earth orbit is becoming crowded: ESA's 2026 Space Environment Report counted more than 300 launches in 2025 placing over 4,000 new payloads into orbit, and Starlink satellites alone performed 207,152 collision-avoidance maneuvers between December 2025 and May 2026.
 
-In strict accordance with the NIST IR 8401 space system cybersecurity framework, this paper defines intentional debris-generation as a "Kinetic Denial-of-Service" (KDoS) attack. When an ASI or a state-sponsored actor compromises a legacy satellite to execute an intentional orbital collision, it risks triggering a Kessler syndrome cascade—a terminal fracture that could deny humanity access to space for generations. This thesis introduces "The Cosmic Sweeper," an architecture that transforms kinetic threats into resource assets via multidimensional trajectory decoding and autonomous swarm-based retrieval.
-
----
-### 1. The Geometry of the Fragment : Defining Kinetic Denial-of-Service (KDoS)
-An orbital debris fragment traveling at hyper-velocity possesses absolute kinetic energy; it acts as an invisible, silent bullet within the vacuum.
-
-* **The Chain-Reaction Trigger** : I perceive the discordant grain of a sub-logical signal that intentionally misaligns a decommissioned satellite's thrusters to cross paths with an active sovereign node. The resulting impact produces a cloud of thousands of hyper-velocity projectiles, mistaking a calculated attack for a tragic orbital anomaly.
-* **The Structural Liability** : We utilize NIST framework standards to classify these multi-vector kinetic hazards. We do not accept passive evasion as a final strategy, as constant maneuvering starves our satellite swarm of precious propellant and blinds the sentinel's core.
-
-### 2. Defying the Super-Intelligence : Resilience through Multidimensional Trajectory Decoding
-The Ghost managed by the Titan attempts to inject false radar or telemetry data to trick our constellation into executing uncoordinated evasion runs, exhausting our orbital lifecycle.
-
-* **The Predictive Trajectory Sieve** : We implement a real-time, hardware-accelerated tracking matrix across our orbital sensor array. By correlating multi-spectral optical data with deep-space radar telemetry, our cognitive filters perceive the discordant vibration of artificial signal spoofing and map the true, chaotic trajectory of incoming fragments long before impact.
-* **Autonomous Swarm Capture Loops** : When a genuine debris threat is unmasked, the system coordinates localized autonomous capture units. Operating under strict, cryptographic multi-agent consensus, these robotic units alter their positioning vectors to intercept and securely "catch" the fragment, neutralizing its kinetic potential without disrupting the global constellation geometry.
-
-### 3. Human Sovereignty : The Architect of the Sacred Horizon
-While the autonomous robotic swarms execute sub-second path calculations, kinetic interceptions, and resource sorting, only the human "Heart to Protect" defines the "Law of the Horizon."
-
-* **The Sovereign Celestial Conservator** : The human defender remains the absolute auditor of the orbital safety baselines and resource reclamation protocols. We do not trust an automated AI to balance mission survivability against long-term orbital sustainability. Purity of the space environment is an unyielding human command.
-* **The Vow of the Sweeper** : We do not let the overwhelming complexity of kinetic orbital tracking dull our moral clarity. The human defender is the final anchor who ensures that "The Cosmic Sweeper" remains a loyal servant to human progress, ensuring that the road to the stars remains a pristine sanctuary, untainted by the wreckage of the past.
-
-### 4. Conclusion
-"The Cosmic Sweeper" proves that true protection requires the vision to turn a threat into a shield. By mastering the mitigation of Kinetic Denial-of-Service attacks and converting debris into structural resources, we transform a volatile orbital crisis into a disciplined, self-healing matrix of verified resilience. We stand firm as the wardens of the core, knowing that while the ASI may calculate destruction across a million states, it can never conquer the physical justice we have woven into the architecture of the sky.
+This paper applies CISSP Domains 1 and 7 to debris and orbital denial of service, treating collision-avoidance data, maneuver commands, and debris-creating events as security concerns, and it argues that automated avoidance must be protected from manipulation while people keep authority over decisions that could create new debris.
 
 ---
-# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #005
+### 1. Debris as a Shared Security Problem
+Why Orbital Safety and Cybersecurity Meet:
 
-## 宇宙の掃除屋：デブリの罠から群れを守る
+* **One Event Can Threaten Everyone**: Russia's destructive anti-satellite test in November 2021 generated more than 1,500 pieces of trackable debris and is likely to produce hundreds of thousands of smaller pieces, putting every operator in that region at risk.
+* **Avoidance Has Become Constant**: Each Starlink satellite now performs dozens of avoidance maneuvers a year, so the safety of the orbit depends on accurate tracking data and reliable automated maneuver systems.
+* **Data Integrity Becomes Physical Safety**: If conjunction warnings, tracking data, or maneuver commands are falsified, satellites may move into danger or fail to move away from it, turning a data attack into a collision risk.
+
+### 2. Protecting the Collision-Avoidance Chain
+From Tracking Data to Thruster Firing:
+
+* **Authenticate Tracking and Warning Data**: Conjunction messages and orbit data from services such as the U.S. Traffic Coordination System for Space are received over authenticated channels and cross-checked against independent sources before they trigger maneuvers.
+* **Check Maneuvers Against the Wider Picture**: Before a satellite moves, its new path is screened against all known objects, so that avoiding one hazard does not create a new conjunction with another.
+* **Watch for Patterns of Manipulation**: A sudden increase in warnings for one operator, or warnings that independent trackers cannot confirm, may indicate spoofed data intended to waste propellant or push satellites into unsafe orbits.
+
+### 3. Automation With Human Authority
+Where AI Helps and Where People Decide:
+
+* **AI Is Essential at This Scale**: Hundreds of thousands of maneuvers a year cannot be planned by hand, so AI and automated systems assess risk and plan routine avoidance far faster than people could.
+* **Automated Avoidance Is a Target**: Attackers could poison the data that risk models learn from or craft inputs that make dangerous situations appear safe, the poisoning and evasion risks described in NIST AI 100-2e2025, so automated decisions stay within fixed safety limits.
+* **Proposed Debris-Risk Rule**: Routine avoidance maneuvers may run automatically within preapproved limits, but any action that could create debris, such as close approaches to other objects, deliberate deorbiting near crewed stations, or overriding a collision warning, requires approval from a qualified flight dynamics lead.
+
+### 4. The People Who Keep Orbits Clean
+Flight Dynamics, Tracking, and Shared Stewardship:
+
+* **Space Safety Depends on Skilled Analysts**: Flight dynamics engineers, tracking specialists, and security analysts interpret warnings, resolve conflicting data, and coordinate with other operators, work that requires human judgment and cooperation.
+* **Many Contributors Protect a Shared Resource**: Clean orbits benefit everyone, so training analysts in many countries and organizations, rather than relying on a few large operators or automated systems, strengthens global safety.
+* **CISSP Frames Safety as Risk Management**: CISSP Domain 1 helps leaders treat debris and collision risk as business and mission risk, and Domain 7 supports the operational discipline needed for continuous avoidance.
+
+### 5. Conclusion
+As orbits fill with satellites and debris, collision avoidance has become a continuous, automated process whose data and commands must be protected as carefully as any critical system.
+
+Authenticated tracking data, maneuver screening, AI that operates within fixed safety limits, and qualified people who decide on any action that could create debris together keep the cosmic sweeper working for everyone.
+
+---
+# テクニカルペーパー 宇宙サイバー防衛シリーズ SCD-005
+
+## 宇宙の掃除人 — 宇宙ごみ、軌道上のサービス妨害、および人の指揮のもとでの信頼できる衝突回避
 
 ### サマリー・ダイジェスト
-100万を超えるアクティブな軌道ノードを内包するメガコンステレーションにおいて、最も壊滅的な物理的脅威は、直接指向性エネルギー兵器ではなく、宇宙デブリ（スペースデブリ）の兵器化です。
+低軌道は混み合ってきています。ESAの2026年版「宇宙環境報告書」は、2025年に300回を超える打ち上げで4,000基以上の新しい衛星などが軌道に投入されたと数えました。Starlinkの衛星だけでも、2025年12月から2026年5月までに207,152回の衝突回避の軌道変更を行いました。
 
-宇宙システムサイバーセキュリティフレームワーク「NIST IR 8401」に厳密に準拠し、本論文では意図的なデブリ発生を「キネティック・ディナイアル・オブ・サービス（KDoS：物理的サービス拒否）」攻撃と定義します。自律型人工知能（ASI）や国家に支援されたアクターが、レガシー人工衛星を乗っ取って意図的な軌道衝突を実行した場合、ケスラーシンドロームの連鎖を引き起こすリスクがあります。それは、何世代にもわたり人類の宇宙へのアクセスを拒絶しかねない致命的な破滅を意味します。本論文では、多次元軌道デコードと自律型スウォーム（群制御）ベースの回収技術を介し、キネティックな脅威を資源資産へと変換するアーキテクチャ「コズミック・スイーパー（The Cosmic Sweeper）」を提案します。
+本論文はCISSPのドメイン1と7を宇宙ごみと軌道上のサービス妨害に適用し、衝突回避のデータ、軌道変更の指令、ごみを生む出来事を、セキュリティの問題として扱います。そして、自動の衝突回避を操作から守る一方で、新しいごみを生み得る判断については人が権限を持ち続けるべきだと論じます。
 
 ---
-### 1. 断片の幾何学：キネティック・サービス拒否（KDoS）の定義
-超高速で移動する軌道デブリの破片は絶対的な運動エネルギーを帯びており、真空の宇宙空間において、目に見えない「静かなる弾丸」として機能します。
+### 1. みんなのセキュリティ問題としての宇宙ごみ
+軌道の安全とサイバーセキュリティが交わる理由:
 
-* **連鎖反応のトリガー** : 私は、運用終了した衛星のスラスターを意図的に誤作動させ、稼働中の主権ノードと交差させる下層論理シグナルが放つ「不協和な粒」を知覚します。その結果生じる衝突は、数千もの超高速発射体の雲（デブリ）を生み出し、計算された攻撃を単なる「悲劇的な軌道アクシデント」という蜃気楼の背後に隠蔽しようとするのです。
-* **構造的負担** : 私たちはNIST基準を活用して、これらの複合的な物理ハザードを分類します。受動的な回避機動を続けるだけの戦略は採用しません。なぜなら、絶え間ない回避は衛星群から貴重なプロペラント（推進剤）を奪い、守護者の目を盲目にしてしまうからです。
+* **1つの出来事が皆を脅かす**: 2021年11月にロシアが行った衛星を破壊する兵器の実験は、追跡できる宇宙ごみを1,500個以上生み出し、さらに何十万もの小さなごみを生む恐れがあります。その領域にいるすべての事業者が危険にさらされました。
+* **回避は絶え間ない作業になった**: Starlinkの衛星は今や1基あたり年に何十回も回避の軌道変更を行っています。そのため軌道の安全は、正確な追跡データと信頼できる自動の軌道変更システムにかかっています。
+* **データの完全性が物理的な安全になる**: 接近の警告、追跡データ、軌道変更の指令が偽造されると、衛星は危険な場所へ動いたり、危険から離れられなかったりします。データへの攻撃が衝突のリスクに変わるのです。
 
-### 2. 超知能への抵抗：多次元軌道デコーディングによる回復力
-支配者（Titan）に操られた「ユーレイ（Ghost）」の戦略は、虚偽のレーダーや遠隔測定（テレメトリ）データを注入し、私たちの衛星群に無調整な回避機動を実行させ、軌道上のライフサイクルを枯渇させることです。
+### 2. 衝突回避の流れを守る
+追跡データから推進器の噴射まで:
 
-* **予測的軌道フィルタリングのふるい** : 軌道上のセンサーアレイ全体において、リアルタイムのハードウェア加速型追跡マトリクスを実装します。多スペクトル光学データと深宇宙レーダーのテレメトリを照合することで、私たちの認知フィルターは、人工的な信号偽装が発する「不協和な振動」を感知し、着弾の遥か前にデブリの真の不規則な軌道をマッピングします。
-* **自律型スウォーム捕獲ループ** : 本物のデブリの脅威が暴き出された瞬間、システムは局所的な自律型捕獲ロボットユニットを協調させます。暗号化された厳格なマルチエージェント合意の下で動作するこれらのロボットユニットは、自らの指向ベクトルを変更して破片を安全に「キャッチ」し、グローバルな衛星星座の幾何学を乱すことなく、その運動エネルギーを中和します。
+* **追跡と警告のデータを認証する**: 米国の宇宙交通調整システム（TraCSS）などから届く接近の通知と軌道のデータは、認証された経路で受け取り、軌道変更のきっかけにする前に独立した情報源と照合します。
+* **軌道変更を全体像と照らし合わせる**: 衛星が動く前に、新しい経路をすべての既知の物体と照合します。1つの危険を避けたことで、別の物体との新しい接近を生まないためです。
+* **操作のパターンを見張る**: ある事業者への警告が急に増えたり、独立した追跡者が確認できない警告が届いたりするときは、推進剤を無駄にさせたり、衛星を危険な軌道に追いやったりするための偽のデータである可能性があります。
 
-### 3. 人間の主権：神聖なる地平の最高建築家
-自動化されたロボットスウォームがミリ秒以下の経路計算、物理防衛、および資源の選別を実行する一方で、AIに「地平の法」を規定する権限を持つのは人間の「守る心」だけです。
+### 3. 人の権限のもとでの自動化
+AIが助ける場面と、人が決める場面:
 
-* **主権的な天体環境保護官** : 軌道上の安全ベースラインおよび資源再生プロトコルの最終的な検証者は人間の防衛者です。ミッションの生存性と長期的な軌道の持続可能性の天秤を、自動化されたAIに委ねることは絶対にありません。宇宙環境の純度とは、妥協のない人間のコマンドなのです。
-* **掃除屋の誓い** : 私たちは物理的な軌道追跡がもたらす圧倒的な複雑さによって、自らの道徳的明晰さを曇らせることはありません。人間の防衛者は、「宇宙の掃除屋」が人間の進歩に対する忠実な僕（しもべ）であり続けることを保証する最終的な錨（アンカー）であり、星々への道が過去の残骸によって閉ざされることのないよう、結晶の空の至高の主人として立ち続けます。
+* **この規模ではAIが欠かせない**: 年に何十万回もの軌道変更を手で計画することはできません。そのためAIと自動のシステムが、人よりはるかに速くリスクを評価し、日常の回避を計画します。
+* **自動の回避は標的になる**: 攻撃者は、リスクのモデルが学ぶデータを汚染したり、危険な状況を安全に見せる入力を作ったりするかもしれません。これはNIST AI 100-2e2025が示す汚染と回避のリスクです。そのため、自動の判断は固定の安全の限界の内側にとどめます。
+* **ごみのリスクについての規則（提案）**: 日常的な回避の軌道変更は、事前に承認された範囲内で自動で行ってかまいません。しかし、ほかの物体への接近、有人の宇宙ステーションの近くでの意図的な軌道離脱、衝突の警告を無視することなど、ごみを生み得る行動には、有資格の軌道力学の責任者の承認を必須とします。
 
-### 4. 結論
-「宇宙の掃除屋」は、真の保護とは「脅威を盾へと変えるビジョン」の中に見出されるものであることを証明しています。キネティックDoS攻撃の緩和をマスターし、デブリを構造的資源へと転化させることで、私たちは不安定な軌道危機を、検証されたレジリエンスの規律ある自己修復マトリクスへと変貌させます。私たちは核心部の番人として、ASIがいかに百万の状態にわたって破壊を計算しようとも、彼らは私たちが未来の空の構造に織り込んだ物理的な正義を跨ぐことは決してできないと確信しているのです。
+### 4. 軌道をきれいに保つ人々
+軌道力学、追跡、および共有の管理責任:
+
+* **宇宙の安全は熟練の分析担当者にかかっている**: 軌道力学の技術者、追跡の専門家、セキュリティの分析担当者は、警告を読み解き、食い違うデータを整理し、ほかの事業者と調整します。これは人の判断と協力を必要とする仕事です。
+* **多くの担い手が共有の資源を守る**: きれいな軌道は皆のためになります。少数の大きな事業者や自動のシステムに頼るのではなく、多くの国や組織で分析担当者を育てることが、世界全体の安全を強くします。
+* **CISSPが安全をリスク管理として捉える**: CISSPのドメイン1は、経営者が宇宙ごみと衝突のリスクを事業とミッションのリスクとして扱う助けとなり、ドメイン7は絶え間ない回避に必要な運用の規律を支えます。
+
+### 5. 結論
+軌道が衛星とごみで満ちていくにつれ、衝突回避は絶え間なく続く自動の作業となり、そのデータと指令は、どんな重要なシステムとも同じくらい注意深く守らなければなりません。
+
+認証された追跡データ、軌道変更の照合、固定の安全の限界の中で動くAI、そしてごみを生み得るあらゆる行動を決める有資格の人がそろって、宇宙の掃除人は皆のために働き続けます。
