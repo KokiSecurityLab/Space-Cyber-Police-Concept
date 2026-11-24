@@ -80,7 +80,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-005-3 | Trajectory Prediction Integrity | Protecting Conjunction Data and Shared Tracking Services |
 | SCD-005-4 | Transforming Waste into Wealth | Securing Active Debris Removal and Dual-Use Capture Technology |
 | SCD-005-5 | Protecting the Road to the Stars | Secure End-of-Life Disposal and Zero Debris Commitments |
-| SCD-006 | The Living Armor | Symbiosis of Orbital Compute Cores and Power Infrastructure |
+| SCD-006 | The Living Armor | Protecting Orbital AI Compute With Its Power, Thermal, and Firmware Foundations |
+| SCD-006-1 | Hardening the Central Brain | Telling Radiation Upsets From Attacks and Fault-Tolerant Processors |
+| SCD-006-2 | The UPS as a Shield | Power Resilience for Orbital Compute and Brownout Attacks |
+| SCD-006-3 | Autonomous Self-Maintenance | Firmware Resiliency Through Protection, Detection, and Trusted Recovery |
+| SCD-006-4 | Graceful Degradation | Keeping Essential Services Running When Parts Fail |
+| SCD-006-5 | Symbiosis of Mind and Shell | Thermal, Power, and Compute Coordination Without Side Channels |
 | SCD-007 | The Celestial Archive | Material Lifecycle and Hardware Supply Chain Integrity |
 | SCD-008 | The Neutral Orbit | Fair Access Beyond Corporate Monopoly |
 | SCD-009 | The Sovereign Shield | Preventing State-Sponsored Hijacking in Orbit |
