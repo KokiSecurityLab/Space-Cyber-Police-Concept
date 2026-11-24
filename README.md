@@ -200,7 +200,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-025-3 | Metadata and Source Verification | Checking Where an Image Claims to Come From |
 | SCD-025-4 | Frequency-Domain Analysis | Finding Hidden Patterns That Generators Leave Behind |
 | SCD-025-5 | Generator Artifacts and Human Review | The Final Check Belongs to People |
-| SCD-026 | The AI Sanctuary | Ensuring Data Provenance and Supply Chain Mitigation |
+| SCD-026 | The Clean Training Ground | Securing the Supply Chain of AI Models Used in Space |
+| SCD-026-1 | The AI Bill of Materials | An Ingredients List for Every Onboard Model |
+| SCD-026-2 | Training Data Poisoning | When a Small Amount of Bad Data Teaches a Model the Wrong Lesson |
+| SCD-026-3 | Model Signing and Integrity | Proving That the Model on the Spacecraft Is the One That Was Approved |
+| SCD-026-4 | Third-Party AI Service Risk | When Mission Intelligence Depends on Someone Else's System |
+| SCD-026-5 | Updating Models in Orbit Safely | Changing a Spacecraft's AI Without Losing Control |
 | SCD-027 | Cognitive Sovereignty | Persona Protection & Inner Firewall Ethics |
 | SCD-028 | Subordination of Power | Rule Hierarchy & Ethical Alignment Logic |
 | SCD-029 | Signal Volume Control | Disinfo Flooding & Selective Listening |
