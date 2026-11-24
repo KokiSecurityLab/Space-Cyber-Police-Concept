@@ -62,8 +62,18 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-002-3 | Beyond Signature Detection | Behavioral Baselines and Defending the Detector |
 | SCD-002-4 | Cross-Layer Correlation | Fusing Optical, Network, and Ground Evidence With Team Judgment |
 | SCD-002-5 | Sensing the Cosmic Discord | Quantum Key Distribution and Human Governance of Quantum-Safe Keys |
-| SCD-003 | The Eternal Guardian | Solar Energy, Robotic Repairs & Physical Security |
-| SCD-004 | The Swarm Immunity | Immune-Inspired Swarm Defense & Self-Healing |
+| SCD-003 | The Eternal Guardian | Securing Orbital Power Systems and Servicing Robots |
+| SCD-003-1 | Energy as the Breath of Life | Power Subsystems, Battery Management, and Energy-Aware AI |
+| SCD-003-2 | The Bridge to the Physical World | Rendezvous, Proximity Operations, and Robotic Servicing |
+| SCD-003-3 | Guarding Against Command Injection | Command Content Validation and Input Sanitization |
+| SCD-003-4 | Monitoring the Robotic Pulse | Behavioral Monitoring of Actuators |
+| SCD-003-5 | The Pride of Availability | Redundancy, Safe Modes, and Change Management |
+| SCD-004 | The Swarm Immunity | Immune-Inspired Collective Defense for Mega-Constellations |
+| SCD-004-1 | Strength in Decentralization | Dividing Detection Between Satellites, Regional Hubs, and the Center |
+| SCD-004-2 | The Satellite as a White Blood Cell | Lightweight Onboard Intrusion Detection |
+| SCD-004-3 | Identifying the Malicious Node | Trust Scoring and Fair Review Before Declaring Compromise |
+| SCD-004-4 | The Quarantine Protocol | Graded Isolation, Evidence Preservation, and Safe Release |
+| SCD-004-5 | Collective Learning Across the Swarm | Securing Federated Learning Against Poisoned Updates |
 | SCD-005 | Cosmic Sweeper Protocol | Physical & Digital Debris Mitigation (Orbital DoS) |
 | SCD-006 | The Living Armor | Symbiosis of Orbital Compute Cores and Power Infrastructure |
 | SCD-007 | The Celestial Archive | Material Lifecycle and Hardware Supply Chain Integrity |
