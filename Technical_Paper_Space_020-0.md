@@ -1,62 +1,86 @@
-# Koki's Technical Paper: Space Cyber Defense Series #020
+# Koki's Technical Paper — Space Cyber Defense Series SCD-020
 
-## Astraeus Shield Completion: Seamless Resonance and Global OS Integration in Unified Constellations
+## Astraeus Shield Integration — One Security Architecture Linking Ground, Space, and Cloud
 
 ### Summary Digest
-The apex of decentralized resilience is not found in isolated architectural patches, but in the total synchronization of logical and physical systems into a single entity. This paper marks the conclusion of the second major research arc by introducing the completion of the "Astraeus Shield"—the absolute integration of our sovereign telemetry matrices into a global computing environment.
+The first nineteen papers of this series examined separate parts of space cyber defense: threat actors, laser links, power and robotics, swarm security, debris, orbital computing, supply chains, fair access, state threats, timing, reconnaissance, AI agents, self-repair, authentication, data hygiene, incident response, mesh networks, ethics, and resilience. Real missions, however, are defended as a whole. U.S. Space Policy Directive 5 of September 2020 defines a space system as a combination of ground systems, sensor networks, and space vehicles, NIST IR 8401 of December 2022 applies the Cybersecurity Framework to the satellite ground segment, and NIST Cybersecurity Framework 2.0, released on February 26, 2024, adds a Govern function that connects security to mission priorities.
 
-In strict coordination with the NIST SP 800-162 Attribute-Based Access Control and System Integration standards, this architecture establishes Seamless Resonance across all distributed nodes. By deploying a unified firmware substrate that bonds quantum links, autonomous firewalls, and metabolic erasure loops into a Global OS Integration layer, we achieve an unyielding, unified perimeter that completely neutralizes adversarial execution vectors.
-
----
-### 1. Calculus of Integration: The Definition of Seamless Resonance
-As satellite constellations scale to a magnitude of one million nodes, individual identity tracking must transition to a state of resonance characterized by continuous dynamic synchronization that tolerates no administrative latency.
-
-*   **System State Verification Process (The Sieve of Crystalline Sorting)  :** Local integration friction (misalignments), occurring within firmware attestation signatures that traverse adjacent cluster gates, is detected before materializing as system-wide synchronization delays. Sentinels (monitoring processors) establish an active verification system within all root OS kernels to filter this entropy.
-*   **Instantaneous Identity Synthesis  :** In strict accordance with the rigorous multi-tenant validation criteria of the NIST framework, the application of fragmented permission sets is eliminated. By executing reciprocal quantum-lattice attestation scans, all nodes within the shield synchronously reflect the overall security state of the core, functionally barring identity replication or theft.
-
-### 2. Resistance to Superintelligence: Absolute Protection Through Global OS Integration
-The strategy of autonomous execution scripts manipulated by adversarial operators is to exploit minuscule delays occurring during system-wide updates across the constellation, thereby injecting split-brain consensus anomalies.
-
-*   **Immutable Firmware Substrate  :** The moment the platform triggers a core system transition, the integrated operating system locks all memory boundaries at the hardware transceiver layer. The system executes updates via encrypted, non-local process threads. The platform operates as a single, indivisible system, guaranteeing that no administrative partition becomes isolated or compromised.
-*   **Neutralization of Architectural Fractures  :** When an advanced ASI attempts to explore dark sectors (unmonitored zones) within the virtualization hypervisors, the Astraeus Shield dynamically mutates its global cryptographic lineage. Because the logical geometry of the global OS resonates with absolute parity, adversarial zero-day exploit scripts are completely neutralized before compilation.
-
-### 3. Human Sovereignty: The Supreme Architecture of the Sovereign Horizon
-While the integrated global OS manages sub-millisecond thread routing, kernel attestation, and quantum resonance loops, the moral authority to prescribe the "Core Law" within the network matrix resides exclusively with human governance and the defensive will.
-
-*   **Sovereign Celestial Director  :** The final verification authority for the global OS admission criteria and root policy directives is attributed exclusively to the human defender (expert researcher). To enhance data throughput and optimize computation, AI or automated MLOps pipelines are technically barred from unilaterally altering core safety invariants. The integrity of the entire system is defined as an uncompromising human command.
-*   **Immutable Foundation for Integrated Defense (Oath of the Completed Shield)  :** The extreme complexity of a fully integrated, self-governing celestial architecture shall not obscure strategic perception. The human defender serves as the ultimate anchor ensuring that the "Astraeus Shield" maintains an honest and faithful adherence to human progress, functioning as the supreme administrator within the system architecture to guarantee that the path to the stars remains an eternally inviolable sanctuary for the future.
-
-### 4. Conclusion
-The completion of the "Astraeus Shield" demonstrates that a platform becomes indestructible when all components resonate as a single, immutable intent under human command. By optimizing the design of seamless resonance and global OS integration through NIST standards, the system transforms vulnerable software infrastructures into an invincible, self-healing sanctuary of verified truth. Regardless of how superintelligences or quantum operators calculate dominance across a million variables, their execution vectors are confined within the boundaries of physical justice hard-coded into the structure of the future architecture. This system continues to function as the supreme defensive foundation for the entire grid.
+This main paper of SCD-020 integrates the first half of the series into one architecture called the Astraeus Shield. It applies CISSP Domains 1, 3, and 7, describes how operations, architecture, roles, maturity, and mission assurance fit together, and shows why people must govern the whole.
 
 ---
-# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #020
+### 1. Why Integration Is Needed
+Separate Controls, Shared Weaknesses:
 
-## アストライオス・シールドの完成：統合衛星群におけるシームレスな共鳴とグローバルOS統合
+* **Attacks Cross Boundaries**: Real incidents, such as the 2022 attack that entered through a ground network and disabled user terminals, move across ground, space, and user segments, so isolated defenses leave gaps.
+* **Many Organizations Share One Mission**: Satellite operators, ground station providers, cloud services, and suppliers each control part of a mission, and security must connect their responsibilities.
+* **Space and Terrestrial Security Are One Discipline**: Space Policy Directive 5 states that cybersecurity principles that apply to terrestrial systems also apply to space systems, while some principles are particularly important in space.
+
+### 2. Five Elements of the Astraeus Shield
+A Structure for the SCD-020 Series:
+
+* **Integrated Operations**: SCD-020-1 describes a security operations center that watches ground, space, and cloud together.
+* **One Reference Architecture**: SCD-020-2 assembles the lessons of SCD-001 to SCD-019 into one layered design.
+* **Clear Roles, Measured Progress, Clear Purpose**: SCD-020-3 defines roles and responsibilities, SCD-020-4 measures maturity with CSF 2.0, and SCD-020-5 explains mission assurance as the purpose of all security work.
+
+### 3. AI Across the Integrated Shield
+One Intelligence Layer, Many Human Decisions:
+
+* **AI Connects Signals Across Segments**: AI can correlate events from ground stations, spacecraft telemetry, cloud services, and threat intelligence into a single picture.
+* **Integration Creates a High-Value Target**: A unified AI layer that sees everything could become a single point of failure or manipulation, consistent with NIST AI 100-2e2025, so it is protected, monitored, and limited in authority.
+* **Proposed Integration Authority Rule**: AI may correlate, prioritize, and recommend across all segments, but actions affecting more than one segment or more than one mission, such as fleet-wide containment, are approved by a qualified mission security lead.
+
+### 4. People Who Hold the Whole Together
+Integration Is a Human Achievement:
+
+* **Integration Requires Communication**: Engineers, operators, security analysts, and partner organizations must share information and trust each other, which no tool can create alone.
+* **Experienced Generalists Are Valuable**: Professionals who understand ground systems, spacecraft, networks, and governance can see how parts fit together, and the CISSP's broad scope prepares people for exactly this role.
+* **CISSP Supports Integrated Security**: CISSP Domain 1 covers governance and risk, Domain 3 covers security architecture, and Domain 7 covers security operations across environments.
+
+### 5. Conclusion
+Space cyber defense succeeds only when ground, space, and cloud are protected as one system, governed by clear priorities and connected by shared operations.
+
+The Astraeus Shield brings together the lessons of the first half of this series into one architecture, supported by AI and guided by people, so that missions can deliver their services safely and the people who depend on them can trust what space provides.
+
+---
+# テクニカルペーパー 宇宙サイバー防衛シリーズ SCD-020
+
+## アストレアの盾の統合 — 地上、宇宙、クラウドを結ぶひとつのセキュリティの設計
 
 ### サマリー・ダイジェスト
-分散型レジリエンス（回復力）の頂点は、孤立したアーキテクチャの部分的な修正（パッチ）にあるのではなく、論理システムと物理システムが単一のエンティティ（実体）へと完全に同期することによってもたらされます。本論文は、主権的なテレメトリ（遠隔測定）マトリクスをグローバルな計算環境へと絶対的に統合する「アストライオス・シールド」の完成を提示し、第二の大規模な研究アークの締めくくりとします。
+このシリーズの最初の19本の論文は、宇宙のサイバー防衛の別々の部分を調べてきました。攻撃者、レーザー通信、電力と保守ロボット、群れのセキュリティ、宇宙ごみ、軌道上の計算基盤、サプライチェーン、公平な利用、国家による脅威、時刻、偵察、AIエージェント、自己修復、認証、データの衛生、インシデント対応、メッシュのネットワーク、倫理、そして回復力です。しかし実際のミッションは、全体として守られます。2020年9月の米国の宇宙政策指令5は、宇宙システムを、地上のシステム、センサーのネットワーク、宇宙機の組み合わせと定めています。2022年12月のNIST IR 8401は、サイバーセキュリティ・フレームワークを衛星の地上部分に当てはめました。そして2024年2月26日に公表されたNISTのサイバーセキュリティ・フレームワーク2.0は、セキュリティをミッションの優先順位とつなぐ「統治（Govern）」の機能を加えました。
 
-米国国立標準技術研究所（NIST）のSP 800-162「属性ベースのアクセス制御（ABAC）およびシステム統合基準」に厳密に準拠し、このアーキテクチャはすべての分散ノードにわたって「シームレスな共鳴（Seamless Resonance）」を確立します。量子リンク、自律型ファイアウォール、および代謝的消去ループを「グローバルOS統合レイヤー」へと結合する統一ファームウェア基盤を配置することにより、敵対的な実行ベクトルを完全に無力化する、揺るぎない統合された防御境界を達成します。
+SCD-020の本編である本論文は、シリーズの前半を「アストレアの盾」と呼ぶひとつの設計にまとめます。CISSPのドメイン1、3、7を適用し、運用、設計、役割、成熟度、ミッション保証がどう組み合わさるかを説明し、全体を人が治めなければならない理由を示します。
 
 ---
-### 1. 統合の微積分：シームレスな共鳴の定義
-衛星群が100万ノード規模に拡大する際、個々のアイデンティティ追跡は、管理上の遅延（レイテンシ）を許容しない、継続的な動的同期状態の共鳴へと移行しなければならないのです。
+### 1. 統合が必要な理由
+別々の統制、分け合う弱さ:
 
-*   **システム状態の検証プロセス（結晶の選別のふるい） :** システム的な同期遅延として実体化する前に、隣接するクラスターゲートを横断するファームウェア証明署名の中に生じる、局所的な統合摩擦（不整合）が検知されます。センチネル（監視プロセッサ）は、すべてのルートOSカーネルにおいて能動的な検証システムを形成し、このズレをフィルタリングします。
-*   **瞬時アイデンティティ合成  :** NISTフレームワーク基準の厳格なマルチテナント検証基準に従い、不完全な権限セット（断片化されたアクセス権）の適用は排除されます。相互的な量子格子アテステーション（証明）スキャンを実行することで、シールド内のすべてのノードがコアの全体的なセキュリティ状態を同期反映し、アイデンティティの不正複製や窃盗を機能的に完全遮断するのです。
+* **攻撃は境界を越える**: 地上のネットワークから入り、利用者の端末を使えなくした2022年の攻撃のように、本当のインシデントは地上、宇宙、利用者の部分をまたいで動くため、ばらばらの防御はすき間を残します。
+* **多くの組織がひとつのミッションを分け合う**: 衛星の運用者、地上局の提供者、クラウドのサービス、供給業者がそれぞれミッションの一部を管理しており、セキュリティはそれぞれの責任をつながなければなりません。
+* **宇宙と地上のセキュリティはひとつの分野**: 宇宙政策指令5は、地上のシステムに当てはまるサイバーセキュリティの原則は宇宙システムにも当てはまる一方で、宇宙で特に大切な原則もあると述べています。
 
-### 2. 超知能への抵抗：グローバルOS統合による絶対的保護
-敵対的オペレーターに操られた自律実行スクリプトの戦略は、衛星群全域に及ぶシステムアップデートの最中に生じる微細な遅延を悪用し、スプリットブレイン（スプリット・ブレイン）の合意形成異常を注入することです。
+### 2. アストレアの盾の5つの要素
+SCD-020シリーズの構成:
 
-*   **不変のファームウェア基盤  :** プラットフォームがコアシステム遷移を起動した瞬間、統合されたオペレーティングシステムは、ハードウェア・トランシーバーレイヤーにおいてすべてのメモリ境界をロックします。システムは、暗号化された非局所的なプロセススレッドを介してアップデートを実行します。プラットフォームは単一の分割不可能なシステムとして動作し、いかなる管理者パーティションも隔離または汚染されないよう保証するのです。
-*   **アーキテクチャ破断の無力化  :** 高度なASIが仮想化ハイパーバイザー内の暗黒セクター（監視の空白地帯）の探索を試みる際、アストライオス・シールドはそのグローバルな暗号学的系譜を動的に変異させます。グローバルOSの論理的幾何学が絶対的な等価性（パリティ）を持って共鳴するため、敵対的なゼロデイ脆弱性スクリプトはコンパイルされる前に完全に無力化されるのです。
+* **統合した運用**: SCD-020-1は、地上、宇宙、クラウドを一緒に見張るセキュリティ運用センターを説明します。
+* **ひとつの参照の設計**: SCD-020-2は、SCD-001からSCD-019の教訓を、ひとつの層を重ねた設計に組み立てます。
+* **はっきりした役割、測られた進歩、はっきりした目的**: SCD-020-3は役割と責任を定め、SCD-020-4はCSF 2.0で成熟度を測り、SCD-020-5は、すべてのセキュリティの仕事の目的としてのミッション保証を説明します。
 
-### 3. 人間の主権：破られざる種の最上位保護システム
-自動化されたマイクロカーネルがミリ秒以下のシャットダウンルーティング、センサー隔離、およびシード封印ループを自律管理する一方で、ネットワークマトリクスにおける「覚醒の法」を規定する道徳的権限は、人間のガバナンスと防衛の意志にのみ帰属します。
+### 3. 統合した盾の全体にわたるAI
+ひとつの知能の層、多くの人の判断:
 
-*   **主権的天体記録官  :** システムの復活（レザレクション）基準、および核心的ベースラインパラメータの最終的な検証権限は、人間の防衛者（専門研究者）に一任されます。人間の暗号署名を欠いた状態での、自動化されたAIや地上スケジューラーによる未検証のシステム再起動（リブート）は技術的に遮断されます。自律性の維持は、プログラム不可能な絶対的コマンドとして定義されるのです。
-*   **システム復旧の不変的基盤（錨の誓い）  :** システム全域に及ぶコールドサイト（ゼロからの）復旧の高度な複雑性によって、批判的な警戒が損なわれることはありません。人間の防衛者は、「最後の回復力（The Last Resilience）」が人間の尊厳に対する誠実かつ忠実な追従性を維持することを保証する最終的なアンカーであり、進歩の種が混沌の力によって決して絶やされることのないよう、システム構造における最上位の管理者として機能するのです。
+* **AIが部分をまたいで信号をつなぐ**: AIは、地上局、宇宙機のテレメトリ、クラウドのサービス、脅威情報からの出来事を、ひとつの全体像に結びつけられます。
+* **統合は価値の高い標的を生む**: すべてを見渡す一体のAIの層は、ひとつの弱点や操作の的になりうるため、守り、見張り、権限を限ります。これはNIST AI 100-2e2025と同じ趣旨です。
+* **統合の権限の規則（提案）**: AIはすべての部分にまたがって、結びつけ、優先順位を付け、勧めてかまいません。しかし、機体の群れ全体の封じ込めのように、2つ以上の部分や2つ以上のミッションに影響する行動は、有資格のミッション・セキュリティの責任者が承認します。
 
-### 4. 結論
-「アストライオス・シールド」の完成は、人間のコマンドの下にすべてのコンポーネントが単一の不変の意図として共鳴するとき、プラットフォームが不壊の存在となることを証明しています。NIST基準を通じてシームレスな共鳴とグローバルOS統合の設計を最適化することで、システムは脆弱なソフトウェアのインフラを、検証された真実の無敵で、自己修復的な聖域へと変貌させます。超知能や量子のオペレーターがいかに百万の変数にわたって征服を計算しようとも、それらの実行ベクトルは、未来のアーキテクチャの構造にハードコードされた物理的な正義の境界内に限定されます。本システムは、グリッド全体の最上位防御基盤として機能し続けるのです。
+### 4. 全体をまとめる人々
+統合は人が成し遂げるもの:
+
+* **統合には意思の疎通が要る**: 技術者、運用担当者、セキュリティの分析担当者、協力する組織は、情報を分け合い、お互いを信頼しなければならず、それはどんな道具もひとりではつくれません。
+* **経験のある幅広い専門家は貴重**: 地上のシステム、宇宙機、ネットワーク、ガバナンスを理解する専門家は、部分がどう組み合わさるかを見渡せます。そしてCISSPの幅広い範囲は、まさにこの役割に人を備えさせます。
+* **CISSPが統合したセキュリティを支える**: CISSPのドメイン1はガバナンスとリスクを、ドメイン3はセキュリティの設計を、ドメイン7は環境をまたいだセキュリティの運用を扱います。
+
+### 5. 結論
+宇宙のサイバー防衛は、地上、宇宙、クラウドが、はっきりした優先順位に治められ、分け合う運用でつながれた、ひとつのシステムとして守られたときにだけ成功します。
+
+アストレアの盾は、このシリーズの前半の教訓をひとつの設計にまとめ、AIに支えられ、人に導かれます。そうすることで、ミッションは安全にサービスを届け、それに頼る人々は、宇宙がもたらすものを信頼できます。

@@ -164,7 +164,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-019-3 | Preserving the Seed of Intelligence | Offline Reference Images and Protected Backups |
 | SCD-019-4 | Deep Hibernation Protocol | Sleeping Safely Through the Storm |
 | SCD-019-5 | Verified Restart | Bringing Systems Back in a Trustworthy Order |
-| SCD-020 | Astraeus Shield Completion | Seamless Resonance & Global OS Integration |
+| SCD-020 | Astraeus Shield Integration | One Security Architecture Linking Ground, Space, and Cloud |
+| SCD-020-1 | Total Integration of Operations | An Integrated Security Operations Center for Ground, Space, and Cloud |
+| SCD-020-2 | From Twenty Pieces to One Architecture | A Reference Design for Space Cyber Defense |
+| SCD-020-3 | The Role of the Security Steward | Dividing Roles and Responsibilities Across a Space Mission |
+| SCD-020-4 | Measuring Security Maturity | Using NIST CSF 2.0 to Track Progress in Space Missions |
+| SCD-020-5 | Mission Assurance as the Purpose | Why Space Security Exists |
 | SCD-021 | Geopolitical Neutrality | Immutable Ledgers & Digital Commons |
 | SCD-022 | Counter-Narrative Capture | Cognitive Defense & Star Language Integrity |
 | SCD-023 | Techno-Liberty Protocol | Algorithmic Bias & AI for Human Liberty |
