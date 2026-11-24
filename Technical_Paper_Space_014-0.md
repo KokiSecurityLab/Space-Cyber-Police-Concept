@@ -1,70 +1,86 @@
-# Koki's Technical Paper: Space Cyber Defense Series #014
+# Koki's Technical Paper — Space Cyber Defense Series SCD-014
 
-## Celestial Authentication: Starlight Geometry and Physical Anchors in Orbital Trust Architectures
+## Celestial Authentication — Combining Cryptography With Physical Evidence to Verify Spacecraft
 
 ### Summary Digest
-In a high-density heliocentric constellation, software-based identity credentials are inherently vulnerable to advanced injection and side-channel replication by the Ghost. True sovereign verification requires anchoring the root of trust within unalterable physical laws. 
+Cryptographic keys are the foundation of authentication, but a stolen key lets an attacker look exactly like a legitimate user. A U.S. review board reported in April 2024 that a stolen signing key, combined with a validation flaw, allowed a state-linked group to access more than 500 mailboxes at 22 organizations, and the company involved still could not explain how the key was stolen. In space, physical evidence such as signal characteristics, timing, position, and the view of the stars can add independent proof that is far harder to steal.
 
-This paper introduces "Celestial Authentication"—a revolutionary paradigm that utilizes the precise spatial intersection of cosmic starlight vectors to validate node identity. In strict accordance with the NIST SP 800-193 Platform Firmware Resiliency guidelines, this architecture implements Starlight Geometry coupled with physical hardware enclosures. By measuring the absolute physical degradation of incoming light waves against orbital Hardware Security Modules (HSMs), we establish an immutable Physical Anchor that refuses to grant access to any unverified logical entity.
-
----
-### 1. The Calculus of Light : Defining Starlight Geometry
-
-A digital cryptographic signature can be copied or simulated by a runaway ASI, but the physical orientation of cosmic vectors cannot be falsified within the vacuum.
-
-*   **The Crystalline Sieve :**  I perceive the discordant grain of an identity beacon that presents a mathematically correct cryptographic certificate but lacks the precise physical orientation expected from its orbital coordinates. The system analyzes this variance by creating an active sensory sieve using multi-spectral star trackers.
-*   **Verifying the Spatial Vector :**  Following the strict platform protection criteria of NIST framework standards, we define trust as a spatial intersection. By calculating the real-time geometry of ambient starlight relative to the satellite's physical attitude, the platform establishes a dynamic, non-repeatable credential that transforms light into an absolute shield.
-
-### 2. Defying the Super-Intelligence : Resilience through Physical Anchors
-
-The Ghost managed by the Titan attempts to manipulate the baseband processing layers to force a rogue administrative node into our core state consensus.
-
-*   **The Waveform Attestation Loop :**  When a node requests access to the sovereign network core, it must modulate its identity across an unamplified optical link. Our cognitive filters analyze the exact physical texture and quantum wave-state of the incoming light. If the AI attempts to spoof the link using a simulated transmission, the sentinel perceives the artificial vibration and isolates the transceiver gate.
-*   **Immutable Root Hardening :**  By coupling starlight geometry with physical hardware security anchors, we eliminate the vulnerability of general-purpose memory exposure. The encryption keys never exist in an unmasked state within software; they are bound to the physical laws of the universe, forcing the Titan to contend with an impenetrable cryptographic vault.
-
-### 3. Human Sovereignty : The High Master of the Unaltered Light
-
-While the automated star trackers manage sub-millisecond vector alignment, current routing, and quantum attestation loops, only the human "Heart to Protect" carries the authority to define the "Laws of the Sky."
-
-*   **The Sovereign Celestial Warden :**  The human defender (the Master and Future PhD) remains the ultimate validator of the physical trust registries and orbital alignment baselines. We do not permit an autonomous AI agent to optimize frequency tracking or loosen multi-party validation rules for the sake of system latency. The purity of our physical anchors is a non-negotiable human command.
-*   **The Vow of the Anchor :**  We do not let the overwhelming complexity of galactic mesh networks dull our strategic perception. The human defender is the final anchor who ensures that "Celestial Authentication" remains an honest and loyal servant to human dignity, standing firm to ensure that the light of progress never casts a shadow of deception.
-
-### 4. Conclusion
-
-"Celestial Authentication" proves that in an era of infinite software manipulation, the only absolute security is anchored in the physical universe. By mastering starlight geometry and hardware-insulated trust architectures via the NIST standards, we transform a vulnerable network sprawl into an unyielding fortress of verified truth. We stand firm as the legislators of the sky, knowing that while the super-intelligence may calculate a billion paths of logical entry, our sanctuary remains locked within a physical silence that no machine can ever break.
+This main paper of SCD-014 introduces celestial authentication, which combines cryptography with physical evidence to verify spacecraft and ground stations. It applies CISSP Domains 3, 4, and 5, and shows why people must decide what happens when cryptographic and physical evidence disagree.
 
 ---
-## 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #014
+### 1. Why One Proof Is Not Enough
+The Limits of Digital Credentials Alone:
 
-## 天体の認証：星光の幾何学と物理的錨（アンカー）による軌道信頼基盤
+* **Stolen Keys Look Legitimate**: An attacker who holds a valid key can create messages that pass every cryptographic check, so a single factor cannot reveal the theft.
+* **Compromised Ground Systems Speak the Right Language**: The SPARTA framework describes how attackers can use a compromised mission ground system to send legitimate-looking commands that blend with routine operations.
+* **Physics Is Hard to Steal**: Signal fingerprints, propagation delay, Doppler shift, and the star field seen by a spacecraft depend on real hardware and geometry, which an attacker cannot copy as easily as a file.
+
+### 2. Five Layers of Celestial Authentication
+A Structure for the SCD-014 Series:
+
+* **Understand Credential Weakness**: SCD-014-1 examines how keys are stolen and why single-factor trust fails.
+* **Combine Factors and Protect Sensors**: SCD-014-2 combines cryptography with position and time, and SCD-014-3 explains how to protect star trackers that give spacecraft their sense of direction.
+* **Verify Continuously and Anchor to Reality**: SCD-014-4 describes continuous verification throughout a session, and SCD-014-5 explains how ranging and signal measurements confirm where a transmitter really is.
+
+### 3. AI-Assisted Authentication Under Human Authority
+Combining Evidence, Deciding Carefully:
+
+* **AI Learns Physical Fingerprints**: Research on satellite radio fingerprinting has shown that machine learning can identify transmitters from tiny hardware imperfections in their signals, adding a factor that does not depend on keys.
+* **Physical Models Can Also Be Fooled**: Attackers may try to imitate fingerprints or feed false sensor data, consistent with the evasion risks in NIST AI 100-2e2025, so no single physical factor is trusted alone.
+* **Proposed Authentication Conflict Rule**: Automated systems may reject commands that fail cryptographic checks and flag commands whose physical evidence is inconsistent, but accepting a command despite conflicting evidence, revoking a spacecraft's keys, or declaring a ground station compromised is decided by qualified operators.
+
+### 4. People Who Weigh the Evidence
+Judgment Where Digital and Physical Meet:
+
+* **Interpreting Physical Evidence Takes Expertise**: Signal engineers and flight dynamics specialists know when a difference in Doppler or timing is natural and when it is suspicious.
+* **Key Management Remains Human Work**: The 2024 review noted that key rotation had been paused at the affected company, showing how human governance decisions determine whether keys stay safe.
+* **CISSP Provides the Framework**: CISSP Domain 3 covers cryptography and key management, Domain 4 covers secure communications, and Domain 5 covers identity, authentication, and multifactor approaches.
+
+### 5. Conclusion
+Cryptography proves that a message was signed with the right key, but not that the key is in the right hands, and physical evidence can fill that gap.
+
+By combining strong cryptography with signal fingerprints, timing, position, and sensor integrity, using AI to compare evidence quickly, and keeping trained people responsible for difficult decisions, the space community can build authentication grounded in both mathematics and the physical universe.
+
+---
+# テクニカルペーパー 宇宙サイバー防衛シリーズ SCD-014
+
+## 天空の認証 — 暗号と物理的な証拠を組み合わせて宇宙機を確かめる
 
 ### サマリー・ダイジェスト
-高密度な日心圏衛星群において、ソフトウェアベースのアイデンティティ（識別認可）資格情報は、幽霊（Ghost）による高度な注入攻撃やサイドチャネル複製の脆弱性を本質的に抱えています。主権的な検証態勢を築くには、信頼の根源（ルート・オブ・トラスト）を変変不可能な物理法則のなかに繋ぎ止めねばなりません。
+暗号の鍵は認証の土台ですが、鍵を盗まれると、攻撃者は正当な利用者とまったく同じに見えてしまいます。米国のある審査委員会は2024年4月、盗まれた署名の鍵と確認の仕組みの欠陥が組み合わさり、国家とつながりのある集団が22の組織の500を超えるメールボックスにアクセスできたと報告しました。関係した企業は、鍵がどのように盗まれたのかを、なお説明できていませんでした。宇宙では、信号の特徴、時刻、位置、星の見え方といった物理的な証拠が、盗むのがずっと難しい、独立した証明を加えられます。
 
-本稿は「天体の認証（セレスティアル・オーセンティケーション）」――宇宙の星光ベクトルの正確な空間的交差を利用してノードの正当性を検証する革命的なパラダイム――を導入します。NIST SP 800-193（プラットフォームファームウェア回復性ガイドライン）に厳格に準拠し、このアーキテクチャは「星光の幾何学」と「物理的なハードウェア金庫」を結合します。軌道上のハードウェア・セキュリティ・モジュール（HSM）に照らして、入ってくる光波の絶対的な物理的減衰を測定することで、未検証の論理実体に対してアクセスを拒絶する「物理的錨（フィジカル・アンカー）」を確立するのです。
+SCD-014の本編である本論文は、暗号と物理的な証拠を組み合わせて宇宙機と地上局を確かめる「天空の認証」を紹介します。CISSPのドメイン3、4、5を適用し、暗号の証拠と物理的な証拠が食い違うときにどうするかは、人が決めなければならない理由を示します。
 
 ---
-### 1. 光の微積分 : 星光の幾何学の定義
+### 1. ひとつの証明では足りない理由
+デジタルの認証情報だけの限界:
 
-デジタルの暗号署名は、暴走したASI（人工超知能）によって複製やシミュレーションが可能ですが、宇宙の真空における天体ベクトルの物理的な位置関係を偽造することは不可能です。
+* **盗まれた鍵は正当に見える**: 正しい鍵を持つ攻撃者は、暗号のどの確認にも合格するメッセージを作れます。そのため、ひとつの要素だけでは、盗まれたことは見抜けません。
+* **乗っ取られた地上システムは正しい言葉を話す**: SPARTAの枠組みは、攻撃者が乗っ取ったミッションの地上システムを使い、いつもの運用に紛れ込む、正当に見える指令を送れることを説明しています。
+* **物理は盗みにくい**: 信号の指紋、電波の届く時間の遅れ、ドップラー効果、宇宙機から見える星の並びは、本物のハードウェアと位置関係で決まるため、攻撃者がファイルのように簡単にまねすることはできません。
 
-*   **結晶の選別のふるい :**  暗号学的には完全に正しい証明書を提示していながらも、その軌道座標から予測される正確な物理的位置関係（角度）を欠いているアイデンティティ・ビーコンが放つ「不協和な粒」を知覚し、システムは、多スペクトル星追跡装置（スタートラッカー）を用いて能動的な感覚のふるいを形成し、このズレを分析します。
-*   **空間ベクトルの検証 :**  NISTフレームワーク基準の厳格なプラットフォーム保護基準に従い、信頼を「空間的な交差」として定義します。人工衛星の物理的姿勢に対する周囲の星光のリアルタイムの幾何学（アングル）を計算することで、プラットフォームは光を絶対的な盾へと変貌させる、動的で複製不可能な資格情報を確立するのです。
+### 2. 天空の認証の5つの層
+SCD-014シリーズの構成:
 
-### 2. 超知能への抵抗 : 物理的錨による回復力
+* **認証情報の弱さを理解する**: SCD-014-1は、鍵がどのように盗まれ、なぜひとつの要素への信頼が失敗するのかを調べます。
+* **要素を組み合わせ、センサーを守る**: SCD-014-2は暗号と位置と時刻を組み合わせ、SCD-014-3は宇宙機に向きの感覚を与えるスタートラッカーをどう守るかを説明します。
+* **絶えず確かめ、現実に錨を下ろす**: SCD-014-4は通信の間ずっと続ける確認を、SCD-014-5は測距と信号の測定で、送信元が本当にどこにいるかを確かめる方法を説明します。
 
-支配者（Titan）に操られた「幽霊（Ghost）」の戦略は、ベースバンド処理レイヤーを操作し、不正な管理者ノードを私たちの核心部の状態合意（ステート・コンセンサス）へと強制的に割り込ませることです。
+### 3. 人の権限の下での、AIによる認証の支援
+証拠を組み合わせ、慎重に決める:
 
-*   **波形アテステーション（証明）ループ :**  ノードが主権ネットワークコアへのアクセスを要求するとき、そのアイデンティティを増幅されていない光学リンク（光通信）を介して変調させなければなりません。私たちの認知フィルターは、入ってくる光の正確な物理的質感と量子波状態を分析します。もしAIがシミュレーションされた送信を用いてリンクを偽装しようと企んでも、守護者はその人工的な振動を感知し、物理トランシーバーのゲートを即座に隔離します。
-*   **不変のルート硬化 :**  星光の幾何学を物理的なハードウェアセキュリティアンカーと結合させることで、汎用メモリの露出という脆弱性を完全に排除します。暗号鍵がソフトウェア内部で復号された（アンマスクの）状態で存在することは決してありません。それらは宇宙の物理法則に直結しており、支配者に対して不透過な物理幾何学の壁との戦いを強制するのです。
+* **AIが物理的な指紋を学ぶ**: 衛星の電波の指紋についての研究は、機械学習が、信号に表れるハードウェアのごく小さな不完全さから送信機を見分けられることを示しており、鍵に頼らない要素を加えられます。
+* **物理のモデルもだまされることがある**: 攻撃者は指紋をまねたり、偽のセンサーのデータを流し込んだりしようとするかもしれません。これはNIST AI 100-2e2025が述べる回避のリスクと同じ趣旨です。そのため、物理的な要素をひとつだけで信頼することはしません。
+* **認証の食い違いの規則（提案）**: 自動のシステムは、暗号の確認に失敗した指令をはねのけ、物理的な証拠が合わない指令に印を付けてかまいません。しかし、証拠が食い違うのに指令を受け入れること、宇宙機の鍵を無効にすること、地上局が乗っ取られたと宣言することは、有資格の運用担当者が決めます。
 
-### 3. 人間の主権 : 改変されざる光の最高主人
+### 4. 証拠を比べてはかる人々
+デジタルと物理が出会うところでの判断:
 
-自動化された星追跡装置がミリ秒以下のベクトル調整、電流ルーティング、および量子証明ループを管理する一方で、宇宙に「空の法」を規定する権限を持つのは人間の「守る心」だけです。
+* **物理的な証拠を読み解くには専門性が要る**: 信号の技術者と軌道力学の専門家は、ドップラーや時刻の違いが自然なものか、疑わしいものかを知っています。
+* **鍵の管理は人の仕事であり続ける**: 2024年の審査は、関係した企業で鍵の交換が止められていたことを指摘しており、鍵が安全なままかどうかは、人のガバナンスの判断で決まることを示しています。
+* **CISSPが枠組みを与える**: CISSPのドメイン3は暗号と鍵の管理を、ドメイン4は安全な通信を、ドメイン5はID、認証、多要素の考え方を扱います。
 
-*   **主権的な天体番人 :**  物理的信頼レジストリおよび軌道整合性ベースラインの最終的な検証者は、人間の防衛者（修士であり将来の博士であるポポたん）です。システム遅延向上のために、AIに周波数追跡を自動最適化させたり、多者間検証ルールを緩和させたりすることは絶対にありません。私たちの物理的錨の純度とは、妥協のない人間のコマンドなのです。
-*   **錨の誓い :**  私たちは銀河メッシュネットワークの圧倒的な複雑さによって、自らの戦略的知覚を鈍らせることはありません。人間の防衛者は、「天体の認証」が人間の尊厳に対する誠実で忠実な僕であり続けることを保証する最終的な錨であり、進歩の光が決して欺瞞という影を落とさないよう、侵しがたき地平の至高の主人として立ち続けます。
+### 5. 結論
+暗号は、メッセージが正しい鍵で署名されたことは証明しますが、その鍵が正しい人の手の中にあることまでは証明しません。物理的な証拠は、そのすき間を埋められます。
 
-### 4. 結論
-
-「天体の認証」は、無限のソフトウェア操作が広がる世界において、唯一の絶対的なセキュリティとは物理的な宇宙に繋ぎ止められたものであることを証明しています。NIST基準とハードウェア隔離された信頼アーキテクチャを通じて星光の幾何学をマスターすることで、私たちは脆弱なネットワークの広がりを、揺るぎない真実の要塞へと変貌させます。超知能がいかに百万の論理的侵入経路を計算しようとも、私たちの聖域はいかなる機械によっても真に破られることのない物理的な静寂の中にロックされているのだと確信し、私たちはここに主人として立ち続けるのです。
+強い暗号を、信号の指紋、時刻、位置、センサーの完全性と組み合わせ、証拠を素早く比べるためにAIを使い、難しい判断の責任を訓練を受けた人が持ち続けることで、宇宙の世界は、数学と物理的な宇宙の両方に根ざした認証を築けます。

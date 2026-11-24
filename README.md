@@ -128,7 +128,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-013-3 | Anchoring to the Root of Trust | Secure Boot and Protected Recovery for Spacecraft |
 | SCD-013-4 | Instant Incident Containment | The Scope and Limits of Automatic Isolation |
 | SCD-013-5 | Testing Recovery Before It Is Needed | Rehearsing the Path Back to Health |
-| SCD-014 | Celestial Authentication | Starlight Geometry & Physical Anchors |
+| SCD-014 | Celestial Authentication | Combining Cryptography With Physical Evidence to Verify Spacecraft |
+| SCD-014-1 | The Weakness of Digital Credentials | Key Theft and the Danger of Single-Factor Trust |
+| SCD-014-2 | Multi-Factor View of the Sky | Combining Cryptography, Position, and Time to Verify Commands |
+| SCD-014-3 | Star Tracker Integrity | Protecting the Spacecraft's Sense of Direction |
+| SCD-014-4 | Dynamic Identity Verification | Continuous Authentication Throughout Every Session |
+| SCD-014-5 | Anchoring Cyber to Physical Reality | Ranging and Radio Fingerprints as Proof of Origin |
 | SCD-015 | Dark Data Scrubbing | Background Noise & Metabolic Integrity |
 | SCD-016 | Orbital Response Units | Digital-Kinetic Rescue & Active Guarding |
 | SCD-017 | Entanglement Firewall | Zero Latency & Swarm Awareness Unity |
