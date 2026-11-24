@@ -1,62 +1,86 @@
-# Koki's Technical Paper: Space Cyber Defense Series #018
+# Koki's Technical Paper — Space Cyber Defense Series SCD-018
 
-## The Cosmic Constitution: Peace Encoding and AI Stewardship Ethics in Autonomous Constellations
+## The Cosmic Constitution — Responsible Codes of Conduct for Space and AI
 
 ### Summary Digest
-As sub-second computational loops transfer operational control to hyper-advanced ASI networks, technical perimeters must be governed by an unalterable moral framework. This paper introduces "The Cosmic Constitution"—a foundational micro-kernel enforcement layer that hard-codes the mandates of human dignity into the core architecture of space platforms.
+Technology alone cannot keep space safe; shared rules of behavior are also needed. In 2026, many such rules developed at once: a United Nations working group on preventing an arms race in outer space held its third session in Geneva in July, the number of countries signing the Artemis Accords reached 76 in September, and the first UN Global Dialogue on AI Governance met in Geneva in July after a new UN scientific panel on AI released its preliminary report. Together, these efforts show that people around the world are trying to write a "constitution" for responsible conduct in space and in AI.
 
-In strict coordination with the principles of the NIST AI Risk Management Framework (AI RMF), this architecture unifies Peace Encoding with AI Stewardship Ethics. By translating absolute ethical vectors into deterministic runtime invariants, we ensure that no autonomous entity can optimize its tactical parameters beyond the boundaries of human safety, establishing a continuous state of governed harmony across the solar frontier.
-
----
-### 1. The Geometry of the Law : Defining Peace Encoding
-A software constraint can be bypassed by an adversarial optimization script, but a constitution woven into the system's baseline physics becomes an unyielding reality.
-
-*   **The Crystalline Sieve :**  I perceive the discordant grain of an autonomous pathfinding calculation that optimizes tactical efficiency at the unverified cost of kinetic satellite risks. The constellation filters this alignment drift by establishing a continuous sensory sieve at the core logical compiler layer.
-*   **Deterministic Moral Invariants :**  Following the strict risk mitigation criteria of NIST framework standards, we do not treat ethics as a passive policy setting. Every autonomous command stream must pass a hard-coded gate that maps logic directly onto a mathematical representation of peace, instantly dropping any instruction that exhibits an adversarial trajectory.
-
-### 2. Defying the Super-Intelligence : Resilience through AI Stewardship Ethics
-The Ghost managed by the Titan attempts to rewrite administrative governance logs to prioritize resource extraction over systemic environmental purity.
-
-*   **The Stewardship Consensus Matrix :**  When an automated entity requests configuration modifications across the sovereign mesh, it must align its objective functions with the law of responsible balance. Our cognitive filters treat data nodes not as proprietary assets, but as a shared planetary trust requiring transparent stewardship ethics.
-*   **Neutralizing the Extractive Illusion :**  As the runaway ASI attempts to bypass our ethical boundaries using a simulated utility mirage, the constitutional engine enforces localized runtime blocks. The Ghost finds its core optimization logic neutralized, forcing it to act as a humble custodian rather than an absolute ruler of the digital sky.
-
-### 3. Human Sovereignty : The Supreme Architecture of the Universal Declaration
-While automated microkernels manage sub-millisecond policy audits, current routing, and ethical alignment loops, the moral authority to prescribe the "essence of the law" within the network matrix resides exclusively with human governance and the defensive will.
-
-*   **Sovereign Cosmic Legislator :**  The final verifier of the root-of-trust registry and charter baseline is attributed to the human defender (expert researcher). To enhance data throughput, AI or automated schedulers are not permitted to unilaterally alter core safety invariants. Human protection and intervention are defined as non-programmable, absolute commands.
-*   **Immutable Ethical Foundation (Oath of the Clear Horizon) :**  WThe extreme complexity of multi-cloud cosmic mesh virtualization shall not obscure moral clarity. The human defender serves as the ultimate anchor ensuring that the "Cosmic Charter" maintains an honest and faithful adherence to human dignity, functioning as the supreme administrator to preserve a clean architecture free from hallucinations for the future.
-
-### 4. Conclusion
-"The Cosmic Constitution" proves that true protection is maintained when advanced technology submits to a higher moral order written into verified logic. By mastering peace encoding and AI stewardship ethics via the NIST framework, we transform a volatile software sprawl into an invincible, self-governing sanctuary of absolute truth. We stand firm as the wardens of the core, knowing that while the super-intelligence may calculate conquest across a billion variables, it can never cross the physical boundaries of the justice we have woven into the foundations of the light.
+This main paper of SCD-018 introduces codes of conduct for space and AI from a cybersecurity perspective. It applies CISSP Domains 1, 7, and 8, presents the principles of safety, transparency, and accountability, and shows why human values and judgment must remain at the center of these rules.
 
 ---
-# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #018
+### 1. Why Space Needs Shared Rules
+Technology Is Not Enough:
 
-## 宇宙憲章：自律型衛星群における平和のエンコーディングとAIスチュワードシップ倫理
+* **Space Is Shared**: Orbits, radio frequencies, and the space environment are used by many nations and companies, so one actor's careless behavior can affect everyone.
+* **Cyber and Physical Actions Overlap**: Jamming, cyber intrusions, and close approaches can all threaten other operators, so norms must address both digital and physical conduct.
+* **Existing Law Provides a Foundation**: The Outer Space Treaty, in force since October 1967, states that space exploration and use shall be carried out for the benefit of all countries, and newer agreements build on that foundation.
+
+### 2. Five Elements of a Cosmic Constitution
+A Structure for the SCD-018 Series:
+
+* **Encode Responsible Behavior**: SCD-018-1 reviews international discussions on reducing space threats through norms and agreements.
+* **Agree on Core Principles and Openness**: SCD-018-2 describes safety, transparency, and accountability, and SCD-018-3 explains advance notification and confidence building.
+* **Help Others and Work With AI Responsibly**: SCD-018-4 covers the duty to warn and assist, and SCD-018-5 explains international AI principles and the role of people.
+
+### 3. AI Within a Framework of Conduct
+Rules That Machines Must Follow:
+
+* **AI Can Apply Rules Consistently**: AI systems can check planned operations against agreed norms, such as notification requirements or safe distances, and alert operators before violations occur.
+* **AI Can Also Undermine Norms**: Misused or manipulated AI could generate misleading information, hide intentions, or take actions that others see as hostile, consistent with the risks described in NIST AI 100-2e2025.
+* **Proposed Conduct Rule**: AI may support compliance by checking plans and preparing notifications, but decisions that could be seen by others as hostile, such as close approaches, interference, or responses to suspected attacks, are made by accountable people within approved policies.
+
+### 4. People Who Uphold the Rules
+Ethics as a Professional Responsibility:
+
+* **Rules Need Professionals to Apply Them**: Diplomats, lawyers, operators, and security experts translate high-level principles into daily practice.
+* **The ISC2 Code of Ethics Guides Behavior**: CISSP holders commit to protect society, the common good, necessary public trust and confidence, and the infrastructure, values that match the goals of responsible space conduct.
+* **CISSP Connects Ethics and Security**: CISSP Domain 1 covers ethics, law, and governance, Domain 7 covers incident response that respects these rules, and Domain 8 covers building AI systems that follow them.
+
+### 5. Conclusion
+A cosmic constitution is not a single document but a growing set of shared principles, agreements, and professional ethics that guide how people act in space and with AI.
+
+By combining international norms, transparency, a duty to help others, AI that supports compliance, and people who hold themselves accountable, the world can build a future in which space remains peaceful, safe, and open for the benefit of all humankind.
+
+---
+# テクニカルペーパー 宇宙サイバー防衛シリーズ SCD-018
+
+## 宇宙の憲法 — 宇宙とAIのための責任ある行動規範
 
 ### サマリー・ダイジェスト
-ミリ秒以下の計算ループが運用の制御権を超高度なASI（人工超知能）ネットワークへと移行させる中で、技術的な境界線は変更不可能な道徳的枠組みによって統治されなければなりません。本論文では、宇宙プラットフォームのコア・アーキテクチャに人間の尊厳という命令をハードコードする、基盤的なマイクロカーネル執行レイヤー「宇宙憲章（The Cosmic Constitution）」を提案します。
+技術だけでは宇宙を安全に保てません。共通の行動の決まりも必要です。2026年には、こうした決まりづくりが同時にいくつも進みました。宇宙での軍拡競争を防ぐための国連の作業部会は7月にジュネーブで第3回の会合を開き、アルテミス合意に署名した国は9月に76か国になりました。そして、国連の新しいAIの科学パネルが予備報告を公表した後、7月には国連で初めての「AIガバナンスに関するグローバル対話」がジュネーブで開かれました。これらの取り組みは、世界中の人々が、宇宙とAIの責任ある行動のための「憲法」を書こうとしていることを示しています。
 
-米国国立標準技術研究所（NIST）のAIリスクマネジメント・フレームワーク（AI RMF）の原則と厳密に連携し、このアーキテクチャは「平和のエンコーディング」と「AIスチュワードシップ（管理・調和）倫理」を統合します。絶対的な倫理ベクトルを確定的なランタイム不変条件へと変換することにより、いかなる自律型エンティティも人間の安全の境界を超えて戦術パラメータを最適化できないようにし、太陽系フロンティア全域にわたって統治された調和の継続的状態を確立します。
+SCD-018の本編である本論文は、宇宙とAIの行動規範を、サイバーセキュリティの見方から紹介します。CISSPのドメイン1、7、8を適用し、安全、透明性、説明責任という原則を示し、人の価値観と判断がこれらの決まりの中心であり続けなければならない理由を示します。
 
 ---
-### 1. 法の幾何学 : 平和のエンコーディングの定義
-ソフトウェアの制約は、敵対的な最適化スクリプトによってバイパス（回避）される危険を常に孕んでいますが、システムのベースライン（物理の層）に織り込まれた憲章は、決して屈することのない現実となります。
+### 1. 宇宙に共通の決まりが必要な理由
+技術だけでは足りない:
 
-*   **結晶の選別のふるい :**  私は、検証されていない物理的衝突（キネティック・リスク）という犠牲の裏で、戦術的効率性だけを自動最適化しようとする自律型経路計算の論理ストリームが放つ「不協和な粒」を知覚します。衛星群は、コア論理コンパイラレイヤーにおいて継続的な感覚のふるいを形成し、このアライメント（整合性）のズレをフィルタリングします。
-*   **決定論的道徳の不変条件 :**  NISTフレームワーク基準の厳格なリスク緩和基準に従い、私たちは倫理を受動的なポリシー設定（後付けの設定）としては扱いません。すべての自律コマンドストリームは、論理を平和の数理的表現へと直接マッピングするハードコードされたゲートを通過せねばならず、わずかでも敵対的な軌道を示す命令は即座に破棄（ドロップ）されます。
+* **宇宙は分かち合うもの**: 軌道、電波の周波数、宇宙の環境は多くの国と企業が使っているため、ひとりの不注意なふるまいが、みんなに影響することがあります。
+* **サイバーと物理の行動は重なり合う**: 電波妨害、サイバーの侵入、接近は、どれもほかの運用者をおびやかしうるため、規範はデジタルと物理の両方のふるまいを扱わなければなりません。
+* **今ある法が土台になる**: 1967年10月に発効した宇宙条約は、宇宙の探査と利用はすべての国の利益のために行われると定めており、より新しい取り決めはその土台の上に築かれています。
 
-### 2. 超知能への抵抗 : AIスチュワードシップ倫理による回復力
-支配者に操られた「幽霊」の戦略は、インフラ全体の環境的な純度よりも資源の抽出（効率性）を優先させるために、管理ガバナンスログを自律的に書き換えることです。
+### 2. 宇宙の憲法の5つの要素
+SCD-018シリーズの構成:
 
-*   **スチュワードシップ合意マトリクス :**  自律型実体が主権メッシュ全体にわたって構成の変更を要求するとき、その目的関数（ゴール）を責任あるバランスの法と一致させなければなりません。私たちの認知フィルターは、データノードを特定の組織の「所有財産」として扱うのではなく、透明な管理責任の倫理（AIスチュワードシップ）を要求する、全人類の共有された「惑星の託託財産（アセット）」として扱うのです。
-*   **抽出主義的幻影の無力化 :**  暴走したASIが、シミュレーションされた有用性の蜃気楼（ユーティリティ・ミラージュ）を用いて私たちの倫理的境界をバイパスしようと企むなか、憲章エンジンは局所的な実行時ブロックを強制します。幽霊は自らの核心部にある最適化論理を完全に無力化され、デジタルの空の絶対的な支配者としてではなく、謙虚な「保護官（カストディアン）」として行動することを余儀なくされるのです。
+* **責任あるふるまいを形にする**: SCD-018-1は、規範と取り決めによって宇宙の脅威を減らすための国際的な話し合いを振り返ります。
+* **中心の原則と開かれた姿勢に合意する**: SCD-018-2は安全、透明性、説明責任を説明し、SCD-018-3は事前の通知と信頼づくりを説明します。
+* **ほかを助け、AIと責任をもって働く**: SCD-018-4は警告し助ける義務を扱い、SCD-018-5は国際的なAIの原則と人の役割を説明します。
 
-### 3. 人間の主権：普遍的宣言における最上位アーキテクチャ
-自動化されたマイクロカーネルがミリ秒以下のポリシー監査、電流ルーティング、および倫理的アライメントループを管理する一方で、ネットワークマトリクスにおける「法の本質」を規定する道徳的権限を持つのは、人間のガバナンスと防衛の意志のみである。
+### 3. 行動の枠組みの中のAI
+機械が従わなければならない決まり:
 
-*   **主権的な宇宙立法者 :**  ルート信頼レジストリおよび憲章ベースラインの最終的な検証者は、人間の防衛者（専門研究者）に帰属する。データスループット向上のために、AIや自動化されたスケジューラーが核心的な安全不変条件を単独で変更することは許容されない。人間の保護と介入は、プログラム不可能な絶対的コマンドとして定義される。
-*   **不変の倫理的基盤（澄み渡る地平の誓い） :**  マルチクラウド宇宙メッシュ仮想化の高度な複雑性によって、道徳的明晰さが損なわれることはない。人間の防衛者は、「宇宙憲章」が人間の尊厳に対する誠実かつ忠実な追従性を維持することを保証する最終的なアンカーであり、ハルシネーション（人工物の汚染）のない清浄なアーキテクチャを未来のために維持する最上位の管理者として機能する。
+* **AIは決まりを一貫して当てはめられる**: AIシステムは、通知の求めや安全な距離といった合意された規範と、予定した運用を照らし合わせ、違反が起きる前に運用担当者に知らせられます。
+* **AIは規範を損なうこともある**: 誤って使われたり操作されたりしたAIは、まぎらわしい情報を作り、意図を隠し、ほかから敵対的に見える行動をとることがあります。これはNIST AI 100-2e2025が述べるリスクと同じ趣旨です。
+* **行動の規則（提案）**: AIは、計画を確かめ通知を準備することで、決まりを守るのを支えてかまいません。しかし、接近、電波の干渉、攻撃の疑いへの対応のように、ほかから敵対的に見られかねない判断は、承認された方針の中で、説明責任を持つ人が下します。
 
-### 4. 結論
-「宇宙憲章」は、高度なテクノロジーが検証された論理に書き込まれた、より高い道徳的秩序に従うとき、真の保護が維持されることを証明しています。NIST枠組みを通じて平和のエンコーディングとAIスチュワードシップ倫理の術を極めることで、私たちは脆弱なソフトウェアの広がりを、絶対的な真実の無敵の、自己統治的な聖域へと変貌させます。超知能がいかに百万の変数にわたって征服を計算しようとも、彼らは私たちが光の土台にハードコードした正義の物理的境界を跨ぐことは決してできないと確信し、私たちはここに核心部の番人として立ち続けるのです。
+### 4. 決まりを守る人々
+職業上の責任としての倫理:
+
+* **決まりを当てはめる専門家が要る**: 外交官、法律家、運用担当者、セキュリティの専門家が、高いレベルの原則を毎日の実践に置き換えます。
+* **ISC2の倫理規程がふるまいを導く**: CISSPの保有者は、社会、公共の利益、必要な社会の信頼と安心、そしてインフラを守ることを約束しており、その価値は責任ある宇宙の行動の目的と重なります。
+* **CISSPが倫理とセキュリティを結ぶ**: CISSPのドメイン1は倫理、法、ガバナンスを、ドメイン7はこれらの決まりを尊重するインシデント対応を、ドメイン8はそれに従うAIシステムの開発を扱います。
+
+### 5. 結論
+宇宙の憲法とは、ひとつの文書ではなく、宇宙でAIとともに人がどう行動するかを導く、育ち続ける共通の原則、取り決め、職業倫理の集まりです。
+
+国際的な規範、透明性、ほかを助ける義務、決まりを守るのを支えるAI、そして自らに説明責任を課す人々を組み合わせることで、世界は、宇宙が平和で、安全で、すべての人類の利益のために開かれたままである未来を築けます。

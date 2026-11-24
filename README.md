@@ -152,7 +152,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-017-3 | Shared Situational Awareness | Keeping a Trustworthy Picture of a Constantly Changing Mesh |
 | SCD-017-4 | Routing Security in the Mesh | Lessons From Internet Route Hijacking for Networks in Orbit |
 | SCD-017-5 | Segmentation Between Missions | Keeping Neighbors in the Same Mesh Safely Apart |
-| SCD-018 | The Cosmic Constitution | Peace Encoding & AI Stewardship Ethics |
+| SCD-018 | The Cosmic Constitution | Responsible Codes of Conduct for Space and AI |
+| SCD-018-1 | Encoding Responsible Behavior | International Efforts to Reduce Space Threats |
+| SCD-018-2 | The Three Pillars of Orbital Ethics | Safety, Transparency, and Accountability |
+| SCD-018-3 | Transparency of Intention | Advance Notification and Confidence Building in Orbit |
+| SCD-018-4 | The Duty to Help Others | Warning, Assisting, and Sharing in a Common Domain |
+| SCD-018-5 | AI and Humans as Partners | International AI Principles and the Role of People |
 | SCD-019 | The Last Resilience | Dual Storm Survival & Core Seed Preservation |
 | SCD-020 | Astraeus Shield Completion | Seamless Resonance & Global OS Integration |
 | SCD-021 | Geopolitical Neutrality | Immutable Ledgers & Digital Commons |
