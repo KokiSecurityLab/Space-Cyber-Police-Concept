@@ -194,7 +194,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-024-3 | Ground-Truth Cross-Checks | Comparing What Satellites Report With What the Ground Shows |
 | SCD-024-4 | Chain of Custody | Keeping Space Data Trustworthy Enough to Serve as Evidence |
 | SCD-024-5 | Trust Levels for Data Consumers | Telling Users How Much They Can Rely on Space Data |
-| SCD-025 | Structural Harmony | Intent Heatmaps & Semantic Texture Analysis |
+| SCD-025 | The Authentic Image | Detecting Manipulated and Synthetic Satellite Imagery |
+| SCD-025-1 | Why Synthetic Imagery Threatens Decisions | When a Fake Picture Changes What People Do |
+| SCD-025-2 | The Detection Arms Race | Why No Detector Can Be Trusted Alone |
+| SCD-025-3 | Metadata and Source Verification | Checking Where an Image Claims to Come From |
+| SCD-025-4 | Frequency-Domain Analysis | Finding Hidden Patterns That Generators Leave Behind |
+| SCD-025-5 | Generator Artifacts and Human Review | The Final Check Belongs to People |
 | SCD-026 | The AI Sanctuary | Ensuring Data Provenance and Supply Chain Mitigation |
 | SCD-027 | Cognitive Sovereignty | Persona Protection & Inner Firewall Ethics |
 | SCD-028 | Subordination of Power | Rule Hierarchy & Ethical Alignment Logic |
