@@ -188,7 +188,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-023-3 | Explainability and the Right to Appeal | Letting People Challenge Automated Security Decisions |
 | SCD-023-4 | Equal Access to Security Tools | Protection for Small Operators, Universities, and Emerging Nations |
 | SCD-023-5 | Protecting Civil Liberties in Monitoring | Watching Systems Without Overwatching People |
-| SCD-024 | Sovereign Truth Anchoring | Physical Law Protocols & Guardian Pride |
+| SCD-024 | Sovereign Truth Anchoring | Proving Where Space Data Came From and That It Has Not Changed |
+| SCD-024-1 | Provenance From Sensor to User | Recording Every Step a Data Product Takes |
+| SCD-024-2 | Signing Data at the Source | A Digital Signature Born With the Data |
+| SCD-024-3 | Ground-Truth Cross-Checks | Comparing What Satellites Report With What the Ground Shows |
+| SCD-024-4 | Chain of Custody | Keeping Space Data Trustworthy Enough to Serve as Evidence |
+| SCD-024-5 | Trust Levels for Data Consumers | Telling Users How Much They Can Rely on Space Data |
 | SCD-025 | Structural Harmony | Intent Heatmaps & Semantic Texture Analysis |
 | SCD-026 | The AI Sanctuary | Ensuring Data Provenance and Supply Chain Mitigation |
 | SCD-027 | Cognitive Sovereignty | Persona Protection & Inner Firewall Ethics |
