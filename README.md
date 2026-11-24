@@ -92,7 +92,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-007-3 | Physical Integrity Protection | Tamper Evidence, Trusted Manufacturing, and Pre-Launch Verification |
 | SCD-007-4 | Precision Decommissioning | Retiring Ground Equipment, Test Hardware, and Data Securely |
 | SCD-007-5 | The Standard of Sustainable AI | Energy Accountability and Trustworthy Sustainability Claims |
-| SCD-008 | The Neutral Orbit | Fair Access Beyond Corporate Monopoly |
+| SCD-008 | The Neutral Orbit | Fair Access, Concentration Risk, and Open, Secure Space Infrastructure |
+| SCD-008-1 | Space as a Common Heritage | Turning Outer Space Treaty Principles Into Security Practice |
+| SCD-008-2 | Countering Digital Monopolies | Managing Dependence on a Single Space Provider |
+| SCD-008-3 | Transparency via Open Standards | Interoperable Protocols and Avoiding Lock-In |
+| SCD-008-4 | Accessibility vs. Fortification | Balancing Open Space Data With Security Through Tiered Access |
+| SCD-008-5 | The Right to Look Up | Protecting Astronomy and the Night Sky |
 | SCD-009 | The Sovereign Shield | Preventing State-Sponsored Hijacking in Orbit |
 | SCD-010 | The Stellar Choreography | Protecting the Rhythm of the Stars |
 | SCD-011 | The Pulse of Discord | Signal Dissonance & Cognitive Sifting |
