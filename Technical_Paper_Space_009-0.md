@@ -1,62 +1,86 @@
-# Koki's Technical Paper : Space Cyber Defense Series #009
+# Koki's Technical Paper — Space Cyber Defense Series SCD-009
 
-## The Sovereign Shield : Preventing State-Sponsored Hijacking in Orbit
+## The Sovereign Shield — Defending Space Systems Against State-Sponsored Intrusion, Espionage, and Hijacking
 
 ### Summary Digest
-As the battlefield shifts to the stars, state-sponsored military organizations pose the ultimate threat to orbital stability. The hijacking of a single UPS node or a "Colossus" brain by a hostile power could paralyze an entire nation's digital infrastructure. 
+Nation-state actors already target space and communications infrastructure: on May 10, 2022, the United States, the United Kingdom, and the European Union formally attributed the February 2022 cyberattack on Viasat's KA-SAT network to Russia, and in August 2025 the FBI and allied agencies warned that the Salt Typhoon campaign had targeted about 200 companies in 80 countries.
 
-This paper proposes the "Sovereign Shield"—a decentralized security architecture designed to prevent any single entity from seizing absolute control. By implementing cryptographic heartbeats and multi-party verification through neutral observers, we ensure that the sovereignty of space remains distributed, making it impossible for even superpowers to flip the master switch of orbital intelligence.
-
----
-### 1. The New Frontier of State-Led Warfare
-In the near future, orbital infrastructure will become the primary target for national military interests seeking strategic dominance.
-
-*   **The Silent Predator :** A hijacked satellite is not just a lost asset ; it is a weapon capable of triggering collisions or blacking out global communications at will.
-*   **Weaponization of the Brain :** Seizing a central processing node allows a hostile state to weaponize the very intelligence designed to protect the sanctuary.
-
-
-### 2. Architecture of the Sovereign Shield
-To counter state-level resources, defense must move beyond simple firewalls toward a decentralized power structure.
-
-*   **Decentralized Control :** The "Sovereign Shield" ensures that no single administrative key can grant total authority over the network.
-*   **Multi-Party Verification :** By requiring consensus from neutral, distributed observers, the system prevents unauthorized "Master Switch" overrides.
-
-
-### 3. Cryptographic Heartbeats and Neutral Observation
-The integrity of the shield is maintained through continuous, verifiable pulses of trust.
-
-*   **Anti-Hijacking Protocols :** Advanced cryptographic heartbeats ensure that every command is authenticated by multiple independent nodes.
-*   **Preventing the Master Switch Flip :** This distributed logic ensures that even a superpower with immense funding cannot "steal" the sovereignty of the orbital swarm.
-
-### 4. Conclusion
-True defense is not just about blocking entry; it is about the strategic distribution of power. By implementing the Sovereign Shield, we create a system where no single nation can dominate the final frontier. The Space Cyber Police protect the sovereignty of the stars, ensuring that the orbital sanctuary remains a fair and unhackable environment for all humanity.
+This paper applies CISSP Domains 1 and 7 to state-sponsored threats against space systems, describing how well-resourced adversaries operate, how operators can make hijacking and espionage harder, and why decisions in a state-level crisis must rest with accountable people working with governments and partners.
 
 ---
-# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #009
+### 1. What Makes State Actors Different
+Resources, Patience, and Strategic Goals:
 
-## 主権の盾：軌道上における国家主導の乗っ取り防止
+* **Attacks Timed to Geopolitical Events**: The KA-SAT attack occurred about one hour before the invasion of Ukraine began, showing that state actors may use cyber operations to support military or political objectives.
+* **Long, Quiet Access Is the Goal**: Salt Typhoon compromised telecommunications providers in many countries for espionage, and U.S. officials said the campaign had likely been underway for one to two years before it was discovered.
+* **Known Weaknesses Are Often Enough**: Allied agencies reported that Salt Typhoon exploited known vulnerabilities in widely used network devices rather than zero-day flaws, showing that basic patching remains a frontline defense even against nation-states.
+
+### 2. Building the Sovereign Shield
+Hardening Against Patient, Capable Adversaries:
+
+* **Patch and Harden the Edge**: Routers, VPN gateways, and management interfaces at ground stations are kept current and monitored, because these devices are common entry points for state actors.
+* **Separate Management From Service Networks**: The KA-SAT incident began in the network management segment, so management systems that can command terminals or satellites are isolated and protected with strong authentication.
+* **Watch for Proximity and Signals Intelligence**: Russia's Luch (Olymp-K) satellite has repeatedly moved close to commercial satellites in geostationary orbit, coming within about 4 kilometers of Intelsat 37e in October 2022, so operators encrypt links and monitor nearby objects for possible eavesdropping.
+
+### 3. AI Under Human Command in a State-Level Crisis
+Speed, Caution, and Accountability:
+
+* **AI Can Detect Stealthy Campaigns**: Models that analyze network and command data across long periods can reveal the slow, quiet patterns typical of state-sponsored intrusions.
+* **State Actors Also Use AI**: Anthropic reported in November 2025 that a state-sponsored group used AI agents to perform most of an intrusion campaign, and adversaries may try to poison or evade defensive models as NIST AI 100-2e2025 describes.
+* **Proposed Crisis Authority Rule**: AI may detect and contain suspicious activity within preset limits, but attributing an attack to a state, shutting down service to a region during a conflict, or coordinating with government agencies requires decisions by accountable leaders and qualified incident responders.
+
+### 4. Defenders Who Serve the Public Interest
+Skilled People, Trusted Partnerships, and Shared Duty:
+
+* **State-Level Defense Requires Experienced Teams**: Recognizing and evicting a patient adversary takes analysts, threat hunters, and incident responders with deep experience, and organizations should invest in them rather than rely on automation alone.
+* **Partnerships Multiply Strength**: Information sharing among operators, governments, and groups such as Space ISAC helps smaller organizations defend against adversaries far larger than themselves.
+* **CISSP Supports Governance and Response**: CISSP Domain 1 covers legal and regulatory considerations, and Domain 7 covers investigations and incident response, preparing professionals for incidents with national consequences.
+
+### 5. Conclusion
+State-sponsored actors bring patience, resources, and strategic aims to attacks on space systems, but they often succeed through known weaknesses and poorly separated networks.
+
+Patched and hardened edges, isolated management networks, encrypted links, monitoring of nearby objects, AI that reveals quiet campaigns, and accountable leaders who decide in a crisis together form a sovereign shield that protects both operators and the public.
+
+---
+# テクニカルペーパー 宇宙サイバー防衛シリーズ SCD-009
+
+## 主権の盾 — 国家が支援する侵入、諜報、乗っ取りから宇宙システムを守る
 
 ### サマリー・ダイジェスト
-戦場が星々へと移る中、国家主導の軍事組織による攻撃は軌道の安定に対する究極の脅威となるのです。敵対勢力によって単一のUPSノードや「コロッサス」の頭脳が乗っ取られれば、一国のデジタルインフラ全体が麻痺する恐れがあります。本稿では、いかなる組織も絶対的な制御権を握らせない分散型セキュリティ構造「主権の盾（ソブリン・シールド）」を提案します。暗号学的プロトコルと中立的な監視者による多者間検証を導入することで、宇宙の主権を分散させ、たとえ大国であっても軌道知能の「マスタースイッチ」を独占することを不可能にします。
+国家を背景とする攻撃者は、すでに宇宙と通信のインフラを狙っています。2022年5月10日、米国、英国、欧州連合は、2022年2月のViasatのKA-SAT網へのサイバー攻撃をロシアによるものと正式に断定しました。また2025年8月には、FBIと同盟国の機関が、「Salt Typhoon」の攻撃活動が80か国の約200社を標的にしていたと警告しました。
+
+本論文はCISSPのドメイン1と7を、国家が支援する宇宙システムへの脅威に適用します。資源の豊富な攻撃者がどのように動くか、運用者が乗っ取りや諜報をどう難しくできるかを説明し、国家規模の危機での判断は、政府や協力先と連携する説明責任のある人々が担うべき理由を示します。
 
 ---
-### 1. 国家主導型紛争の新たなフロンティア
-近い将来、軌道インフラは戦略的優位を求める国家の軍事的関心の主要な標的となります。
+### 1. 国家を背景とする攻撃者が違う点
+資源、忍耐、そして戦略的な目的:
 
-*   **静かなる捕食者 :** 乗っ取られた人工衛星は単なる紛失資産ではなく、意のままに衝突を引き起こし、地球規模の通信を遮断できる武器と化すのです。
-*   **頭脳の兵器化 :** 中枢ノードの奪取は、本来聖域を守るために設計された知能そのものを敵対国家が兵器として利用することを可能にしてしまいます。
+* **地政学的な出来事に合わせた攻撃**: KA-SATへの攻撃は、ウクライナ侵攻が始まる約1時間前に起きました。国家を背景とする攻撃者が、軍事的・政治的な目的を支えるためにサイバー作戦を使うことがあると示しています。
+* **長く静かな侵入こそが目的**: Salt Typhoonは、諜報のために多くの国の通信事業者を侵害しました。米国の当局者は、この活動が発見されるまでに1〜2年続いていた可能性が高いと述べています。
+* **既知の弱点で足りることが多い**: 同盟国の機関は、Salt Typhoonが未知の脆弱性ではなく、広く使われるネットワーク機器の既知の脆弱性を突いていたと報告しました。国家を相手にしても、基本的なパッチの適用が最前線の防御であり続けることを示しています。
 
-### 2. 主権の盾のアーキテクチャ
-国家規模のリソースに対抗するためには、防衛は単純なファイアウォールを超え、分散型の権力構造へと移行しなければならなりません。
+### 2. 主権の盾を築く
+忍耐強く有能な攻撃者に備えて守りを固める:
 
-*   **分散型制御 :** 「主権の盾」は、いかなる単一の管理者鍵であっても、ネットワークに対する絶対的な権限を与えないことを保証します。
-*   **多者間検証 :** 分散された中立的な監視者による合意を必要とすることで、不正な「マスタースイッチ」の操作を阻止するのです。
+* **境界にパッチを当て、強化する**: 地上局のルーター、VPNのゲートウェイ、管理用の窓口は、国家を背景とする攻撃者のよくある入り口です。そのため、これらの機器は最新に保ち、監視します。
+* **管理のネットワークをサービスのネットワークから分ける**: KA-SATの事案はネットワーク管理の区画から始まりました。そのため、端末や衛星に指令を出せる管理のシステムは、隔離し、強い認証で守ります。
+* **接近と信号の傍受に目を光らせる**: ロシアの衛星「Luch（Olymp-K）」は、静止軌道で商用の衛星に繰り返し近づき、2022年10月にはIntelsat 37eから約4キロメートルまで接近しました。そのため運用者は、回線を暗号化し、近くの物体を傍受の可能性という観点から監視します。
 
-### 3. 暗号学的鼓動と中立的監視
-盾の整合性は、継続的かつ検証可能な「信頼の鼓動」によって維持されます。
+### 3. 国家規模の危機での、人の指揮のもとのAI
+速さ、慎重さ、および説明責任:
 
-*   **乗っ取り防止プロトコル :** 高度な暗号学的鼓動（ハートビート）により、すべての命令が複数の独立したノードによって認証されることを確実にします。
-*   **スイッチ独占の阻止 :** この分散ロジックにより、膨大な資金を持つ大国であっても、軌道の群れの主権を「盗む」ことはできないのです。
+* **AIはひそかな攻撃活動を見つけられる**: 長い期間にわたるネットワークと指令のデータを分析するモデルは、国家が支援する侵入に典型的な、ゆっくりした静かなパターンを明らかにできます。
+* **国家を背景とする攻撃者もAIを使う**: Anthropicは2025年11月、国家が支援する集団がAIエージェントを使って侵入活動の大半を行ったと報告しました。また攻撃者は、NIST AI 100-2e2025が示すように、防御側のモデルを汚染したり回避したりしようとするかもしれません。
+* **危機時の権限の規則（提案）**: AIは、あらかじめ決めた範囲内で、疑わしい活動を検知し封じ込めてかまいません。しかし、攻撃を国家によるものと断定すること、紛争中にある地域へのサービスを止めること、政府機関と連携することは、説明責任を負う責任者と有資格のインシデント対応者が決めます。
 
-### 4. 結論
-真の防衛とは、単に侵入を防ぐことではなく、戦略的な「権力の分散」にあります。「主権の盾」を実装することで、いかなる一国も最後のフロンティアを支配できないシステムを構築します。宇宙サイバー警察は星々の主権を守り、軌道の聖域が全人類にとって公平で、ハッキング不可能な環境であり続けることを保証するのです。
+### 4. 公共の利益に仕える防御者
+熟練した人々、信頼できる協力関係、そして共有の務め:
+
+* **国家規模の防御には経験豊富なチームが要る**: 忍耐強い攻撃者を見抜き、追い出すには、深い経験を持つ分析担当者、脅威ハンター、インシデント対応者が必要です。組織は、自動化だけに頼るのではなく、こうした人々に投資すべきです。
+* **協力が力を何倍にもする**: 運用者、政府、Space ISACのような団体の間での情報共有は、小さな組織が、自らよりはるかに大きな攻撃者から身を守る助けになります。
+* **CISSPがガバナンスと対応を支える**: CISSPのドメイン1は法と規制の考慮を、ドメイン7は調査とインシデント対応を扱い、国家的な影響を持つインシデントに専門家が備える助けになります。
+
+### 5. 結論
+国家を背景とする攻撃者は、忍耐、資源、戦略的な目的を持って宇宙システムを攻撃しますが、多くの場合、既知の弱点と十分に分けられていないネットワークを通じて成功しています。
+
+パッチを当てて強化した境界、隔離された管理のネットワーク、暗号化された回線、近くの物体の監視、静かな攻撃活動を明らかにするAI、そして危機の中で判断する説明責任のある責任者がそろって、運用者と人々の両方を守る主権の盾となります。

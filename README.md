@@ -98,7 +98,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-008-3 | Transparency via Open Standards | Interoperable Protocols and Avoiding Lock-In |
 | SCD-008-4 | Accessibility vs. Fortification | Balancing Open Space Data With Security Through Tiered Access |
 | SCD-008-5 | The Right to Look Up | Protecting Astronomy and the Night Sky |
-| SCD-009 | The Sovereign Shield | Preventing State-Sponsored Hijacking in Orbit |
+| SCD-009 | The Sovereign Shield | Defending Against State-Sponsored Intrusion, Espionage, and Hijacking |
+| SCD-009-1 | Resisting State-Sponsored Threats | Lessons From KA-SAT and Salt Typhoon |
+| SCD-009-2 | Distributed Control Authority | Spreading Command Capability Across Sites and Jurisdictions |
+| SCD-009-3 | Multi-Party Consensus Protocols | Two-Person Integrity and Threshold Cryptography |
+| SCD-009-4 | Preventing Kinetic Hijacking | Protecting Propulsion Authority and Watching Proximity Operations |
+| SCD-009-5 | Protecting Digital Sovereignty | Data Jurisdiction, Supply Chain Vetting, and the EU Space Act |
 | SCD-010 | The Stellar Choreography | Protecting the Rhythm of the Stars |
 | SCD-011 | The Pulse of Discord | Signal Dissonance & Cognitive Sifting |
 | SCD-012 | Logical Intent Filtering | Moral Gatekeeping & Decision Sandboxes |
