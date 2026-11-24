@@ -170,7 +170,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-020-3 | The Role of the Security Steward | Dividing Roles and Responsibilities Across a Space Mission |
 | SCD-020-4 | Measuring Security Maturity | Using NIST CSF 2.0 to Track Progress in Space Missions |
 | SCD-020-5 | Mission Assurance as the Purpose | Why Space Security Exists |
-| SCD-021 | Geopolitical Neutrality | Immutable Ledgers & Digital Commons |
+| SCD-021 | Geopolitical Neutrality | Tamper-Evident Records and Shared Registries for a Trusted Space Commons |
+| SCD-021-1 | Append-Only Transparency Logs | Records That Cannot Be Quietly Rewritten |
+| SCD-021-2 | Host-Based Detection on Ground Nodes | Trustworthy Evidence Starts on Every Machine |
+| SCD-021-3 | Shared Registries of Space Objects | Knowing Who Is Responsible for What in Orbit |
+| SCD-021-4 | A Neutral Data Commons | Governing Shared Space Situational Awareness Data |
+| SCD-021-5 | Evidence for Attribution | Standards for Responsibly Identifying Who Was Behind an Incident |
 | SCD-022 | Counter-Narrative Capture | Cognitive Defense & Star Language Integrity |
 | SCD-023 | Techno-Liberty Protocol | Algorithmic Bias & AI for Human Liberty |
 | SCD-024 | Sovereign Truth Anchoring | Physical Law Protocols & Guardian Pride |

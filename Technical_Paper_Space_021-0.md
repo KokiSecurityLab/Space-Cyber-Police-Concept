@@ -1,62 +1,86 @@
-# Koki's Technical Paper: Space Cyber Defense Series #021
+# Koki's Technical Paper — Space Cyber Defense Series SCD-021
 
-## Geopolitical Neutrality: Immutable Ledgers and Digital Commons in Sovereign Space Enclaves
+## Geopolitical Neutrality — Tamper-Evident Records and Shared Registries for a Trusted Space Commons
 
 ### Summary Digest
-As orbital platforms become the primary computational engine for global telemetry, space infrastructure risks becoming a weaponized extension of terrestrial border conflicts. This paper introduces "Geopolitical Neutrality"—an architectural isolation framework that insulates multi-tenant satellite grids from state-level jurisdictional pressure and state-sponsored APT manipulation.
+When tensions rise between countries, the facts about what happened in space and cyberspace become contested. Records that anyone can verify, and that no single party can secretly change, help people agree on what is true. The internet already relies on such records: Certificate Transparency logs record billions of web certificates every year, and the Sigstore project's transparency log, whose redesigned version became generally available in October 2025, records software signatures so that a signature cannot be produced and then hidden. In space, the United Nations has maintained a Register of Objects Launched into Outer Space since 1962, and approximately 88% of satellites and other spacecraft launched into Earth orbit or beyond have been registered.
 
-In strict accordance with the NIST IR 8202 Distributed Ledger Technology Security guidelines, this architecture enforces the establishment of an immutable logical sanctuary. By deploying decentralized, cryptographic consensus protocols across independent nodes, we transform the orbital spectrum into a shared Digital Commons protected by Immutable Ledgers, ensuring that our core state consensus remains secure from national extraction and digital blockades.
-
----
-### 1. Non-Aligned Calculus: The Definition of Immutable Ledgers
-In a highly fragmented geopolitical landscape, centralized databases managed by a single nation-state or a specific aerospace corporation represent a structural single point of failure (SPOF).
-
-*   **System State Verification Process (The Sieve of Crystalline Sorting) :**  Misalignments (entropy) in administrative transactions, injected by state-sponsored actors to manipulate satellite ownership logs or data routing priorities, are detected within the ledger state modifications. The platform filters this entropy at the baseband layer by passing all ledger state modifications through an active verification system.
-*   **Establishment of Sovereign Consensus :**  In strict accordance with the rigorous multi-domain protection standards of the NIST framework, verification is defined as a cryptographic consensus that transcends all jurisdictional boundaries. By implementing Module-Lattice-Based Digital Signature Algorithms (ML-DSA) within the immutable distributed ledger matrix, the platform bars malicious administrative overwrites by any single superpower, thereby maintaining the structural equivalence of the grid.
-
-### 2. Resistance to Superpower Syndicates: Resilience Through Digital Commons
-The strategy of autonomous execution scripts manipulated by adversarial operators is to implement a unilateral digital monopoly, depleting orbital bandwidth from adjacent sovereign enclaves through the use of proprietary data silos.
-
-*   **Decentralized Commons Ledger :**  When an external administrative entity requests resource allocation or bandwidth slicing across the shared grid, that entity must prove its non-aligned intent. The cognitive filters within the system do not treat the orbital spectrum as an exclusive domain for state-level extraction; instead, they define it as a protected "Digital Commons" governed by an immutable fair-access template.
-*   **Neutralization of Boundary Constraints (Neutralization of Border Mirages) :**  When an advanced ASI attempts to project false regulatory boundaries or state authority matrices onto the virtualization hypervisors, the core ledger architecture executes a complete logical rollback. Because the logical geometry of the digital commons eliminates state-level firewalls that obstruct open infrastructure, adversarial monopoly scripts are completely neutralized.
-
-### 3. Human Sovereignty: The Supreme Protection System of the Non-Aligned Law
-While automated ledgers manage sub-millisecond block generation, consensus validation, and cryptographic audits, the moral authority to prescribe the "Shared Law" within the digital commons resides exclusively with human governance and the defensive will.
-
-*   **Sovereign Celestial Diplomat :**  The final verification authority for the global admission keys and non-alignment parameters is attributed exclusively to the human defender (expert researcher). To enhance local data throughput or facilitate regional alliance convenience, AI or automated orchestrators are technically barred from unilaterally altering neutrality metrics. Geopolitical equivalence is defined as an uncompromising human command.
-*   **Immutable Foundation for International Neutrality (Oath of the Neutral Sky) :**  The extreme complexity of state-level electronic warfare and the centralization of civil aerospace shall not obscure strategic perception. The human defender serves as the ultimate anchor ensuring that "Geopolitical Neutrality" maintains an honest and faithful adherence to human progress, functioning as the supreme administrator within the system architecture to protect the right of all nations and individuals to access an open infrastructure for the future.
-
-### 4. Conclusion
-"Geopolitical Neutrality" demonstrates that true security is achieved when technology stands upon an upper logical structure that transcends the arbitrary divisions of terrestrial borders. By optimizing the design of immutable ledgers and the digital commons through the NIST framework, the system transforms vulnerable corporate monopolies into an invincible, self-correcting sanctuary of verified truth. Regardless of how superintelligences or state operators calculate dominance across a million states, their execution vectors are confined within the boundaries of the physical geometry of justice hard-coded into the foundational layer. This architecture continues to function as the immutable paradigm of the decentralized grid.
+This main paper of SCD-021 introduces tamper-evident records and shared registries as foundations for trust across borders. It applies CISSP Domains 1, 3, and 7, explains how transparency logs, host-based detection, registries, shared data, and evidence standards work together, and shows why people must govern these records fairly.
 
 ---
-# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #021
+### 1. Why Neutral Records Matter
+Shared Facts Reduce Conflict:
 
-## 地政学的中立性：主権的宇宙エンクレーブにおける不変の台帳とデジタル・コモンズ
+* **Disputed Facts Fuel Tension**: When an incident occurs, parties may tell different stories, and without verifiable records it becomes difficult to separate accidents from deliberate acts.
+* **Tamper-Evident Records Build Trust**: Append-only logs that anyone can check make it very hard to rewrite history quietly, giving all parties the same evidence.
+* **Claims Need Verification**: A 2026 analysis of cyber activity during an armed conflict noted that some claimed attacks on satellite networks could not be confirmed, showing why independent evidence matters.
+
+### 2. Five Foundations of a Trusted Space Commons
+A Structure for the SCD-021 Series:
+
+* **Record and Detect**: SCD-021-1 describes append-only transparency logs, and SCD-021-2 describes host-based detection on ground nodes that produces trustworthy evidence.
+* **Register and Share**: SCD-021-3 explains registries of space objects, and SCD-021-4 describes a neutral commons for space situational awareness data.
+* **Judge Fairly**: SCD-021-5 explains evidence standards for attributing cyber incidents responsibly.
+
+### 3. AI and Neutral Records Under Human Governance
+Automation That Serves Everyone Equally:
+
+* **AI Helps Monitor Logs and Registries**: AI can watch transparency logs for unexpected entries, compare registries with tracking data, and highlight inconsistencies for review.
+* **AI Can Be Biased or Manipulated**: Models trained on incomplete or one-sided data may favor some actors, and adversaries may try to poison shared datasets, consistent with NIST AI 100-2e2025.
+* **Proposed Neutral Record Rule**: AI may detect anomalies and prepare evidence summaries, but decisions to publish findings about other organizations or states, to correct registry entries, or to exclude participants from shared data are made by qualified people under transparent rules.
+
+### 4. Professionals Who Serve the Commons
+Fairness as a Professional Value:
+
+* **Neutral Stewards Earn Trust**: People who maintain shared records must act consistently for all participants, regardless of nationality or commercial interest.
+* **International Cooperation Needs Experts**: Building and governing shared registries requires engineers, lawyers, diplomats, and security professionals from many countries working together.
+* **CISSP Supports Trustworthy Records**: CISSP Domain 1 covers ethics and international legal considerations, Domain 3 covers cryptographic integrity, and Domain 7 covers evidence handling and logging.
+
+### 5. Conclusion
+In a world of competing narratives, tamper-evident records and shared registries give everyone a common basis for understanding what happened in space and cyberspace.
+
+By combining transparency logs, trustworthy detection on ground systems, international registries, neutral shared data, careful evidence standards, AI that helps monitor without taking sides, and fair-minded professionals, the space community can build a commons where trust is based on facts that anyone can verify.
+
+---
+# テクニカルペーパー 宇宙サイバー防衛シリーズ SCD-021
+
+## 地政学的な中立 — 信頼できる宇宙の共有地のための、改ざんが見える記録と共有の登録簿
 
 ### サマリー・ダイジェスト
-軌道上のプラットフォームが地球規模のテレメトリ（遠隔測定）における主要な計算エンジンとなる中で、宇宙インフラが地上における国境紛争の「武器化された延長線」となってしまうリスクが生じています。本論文では、国家レベルの管轄権の圧力や、国家主導のAPT（持続的標的型攻撃）による改ざんから、マルチテナント型（複数組織共有）の衛星グリッドを隔離するアーキテクチャ保護フレームワーク「地政学的中立（Geopolitical Neutrality）」を提案します。
+国と国の間の緊張が高まると、宇宙とサイバー空間で何が起きたかという事実そのものが争われるようになります。誰でも確かめられ、どの当事者もひそかに変えることができない記録は、人々が何が本当かについて合意する助けになります。インターネットはすでにこうした記録に頼っています。証明書の透明性（CT）のログは毎年何十億ものウェブの証明書を記録し、Sigstoreという取り組みの透明性ログ（作り直した版は2025年10月に一般公開）は、ソフトウェアの署名を記録して、署名を作ってから隠すことができないようにしています。宇宙では、国連が1962年から「宇宙空間に打ち上げられた物体の登録簿」を保っており、地球の軌道やその先に打ち上げられた衛星などの約88%が登録されています。
 
-米国国立標準技術研究所（NIST）のIR 8202「分散型台帳技術（DLT）のセキュリティガイドライン」に厳密に準拠し、このアーキテクチャは改変不可能な論理的聖域の確立を強制します。独立したノード間で分散型の暗号化コンセンサス（合意形成）プロトコルを展開することにより、軌道上のスペクトルを「不変の台帳（Immutable Ledgers）」によって保護された共有の「デジタル・コモンズ（共有財産）」へと変貌させ、私たちの核心的な状態コンセンサスが国家によるデータの差し押さえ（抽出）やデジタル封鎖から安全に保たれることを保証します。
+SCD-021の本編である本論文は、国境を越えた信頼の土台としての、改ざんが見える記録と共有の登録簿を紹介します。CISSPのドメイン1、3、7を適用し、透明性ログ、ホスト型の検知、登録簿、共有のデータ、証拠の基準がどう組み合わさるかを説明し、これらの記録を人が公平に治めなければならない理由を示します。
 
 ---
-### 1. 非同盟の微積分：不変の台帳の定義
-高度に断片化された地政学的景観において、単一の国家や特定の航空宇宙企業によって管理される中央集権的なデータベースは、構造的な失敗点（単一障害点）となります。
+### 1. 中立な記録が大切な理由
+共有の事実が争いを減らす:
 
-*   **システム状態の検証プロセス（結晶の選別のふるい） :**  国家支援型アクターが衛星の所有権ログやデータルーティングの優先順位を操作するために注入した、台帳の状態変更の中に潜む管理トランザクションの不整合（エントロピー）が検知されます。プラットフォームは、ベースバンドレイヤーにおいて能動的な検証システムを介し、すべての台帳の状態変更を通過させることで、この不整合をフィルタリングするのです。
-*   **主権的合意の確立 :**  NISTフレームワーク基準の厳格なマルチドメイン保護基準に従い、検証は「すべての管轄区域の境界線を越える暗号学的合意」として定義されます。不変の分散型台帳マトリクスの内部にモジュール格子デジタル署名（ML-DSA）を実装することで、プラットフォームは単一の超大国による悪意ある管理書き換えを遮断し、グリッドの構造的等価性を維持するのです。
+* **争われる事実は緊張をあおる**: インシデントが起きると、当事者どうしが違う話をすることがあり、確かめられる記録がなければ、事故と意図的な行為を分けるのは難しくなります。
+* **改ざんが見える記録が信頼を築く**: 誰でも確かめられる追記専用のログは、歴史をひそかに書き換えることをとても難しくし、すべての当事者に同じ証拠を与えます。
+* **主張には確認が要る**: 武力紛争の間のサイバー活動についての2026年の分析は、衛星のネットワークへの攻撃だと主張されたものの一部が確認できなかったと指摘しており、独立した証拠が大切な理由を示しています。
 
-### 2. 超大国シンジケートへの抵抗：デジタル・コモンズによる回復力
-敵対的オペレーターに操られた自律実行スクリプトの戦略は、一方的なデジタル独占を実装し、独自のデータサイロ（閉鎖的保管庫）を用いて隣接する主権エンクレーブ（他国のデータ領域）から軌道上の帯域幅を枯渇させることです。
+### 2. 信頼できる宇宙の共有地の5つの土台
+SCD-021シリーズの構成:
 
-*   **分散型コモンズ台帳 :**  外部の管理実体が共有グリッド全体にわたってリソース割り当てや帯域幅スライスを要求するとき、その実体は自らの「非同盟の意図」を証明しなければならないのです。システム内の認知フィルターは、軌道上のスペクトルを特定国家の排他的領域として扱うのではなく、不変の公平アクセス・テンプレートによって統治された、保護された「デジタル・コモンズ」として定義します。
-*   **境界制約の無力化（国境という蜃気楼の無力化） :**  高度なASIが仮想化ハイパーバイザーに対して虚偽の規制境界や国家の権限マトリクスを投影しようと試みる際、核心の台帳アーキテクチャは完全な論理的ロールバック（巻き戻し）を実行する。デジタル・コモンズの論理的幾何学は、開かれたインフラを阻害する「国家レベルのファイアウォール」を排除するため、敵対的な独占スクリプトは完全に無力化されるのです。
+* **記録し、見つける**: SCD-021-1は追記専用の透明性ログを、SCD-021-2は信頼できる証拠を生む地上のノードでのホスト型の検知を説明します。
+* **登録し、分け合う**: SCD-021-3は宇宙物体の登録簿を、SCD-021-4は宇宙の状況把握のデータのための中立な共有地を説明します。
+* **公平に判断する**: SCD-021-5は、サイバーのインシデントの帰属を責任をもって判断するための証拠の基準を説明します。
 
-### 3. 人間の主権：非同盟の法の最上位保護システム
-自動化された台帳がミリ秒以下のブロック生成、合意チェック、および暗号学的監査を自律管理する一方で、コモンズにおける「共有の法」を規定する道徳的権限は、人間のガバナンスと防衛の意志にのみ帰属します。
+### 3. 人のガバナンスの下での、AIと中立な記録
+みんなに等しく役立つ自動化:
 
-*   **主権的天体外交官 :**  グローバルな入場鍵（アドミッション・キー）および非同盟パラメータの最終的な検証権限は、人間の防衛者（専門研究者）に一任されます。局所的なデータスループットの向上や地域的な同盟の利便性を目的として、AIや自動化されたオーケストレーターが中立性（ニュートラリティ）指標を単独で改変することは技術的に遮断されます。地政学的な等価性は、妥協のない人間のコマンドとして定義されるのです。
-*   **国際的中立の不変的基盤（中立の空の誓い） :**  国家レベルの電子戦や民間航空宇宙の中央集権化がもたらす高度な複雑性によって、戦略的知覚が損なわれることはありません。人間の防衛者は、「地政学的中立性（Geopolitical Neutrality）」が人間の進歩に対する誠実かつ忠実な追従性を維持することを保証する最終的なアンカー（錨）であり、地球上のすべての国と個人が未来へと続く開かれたアーキテクチャを享受する権利を保護する最上位の管理者として、侵しがたき聖域に毅然として機能するのです。
+* **AIがログと登録簿の見張りを助ける**: AIは、透明性ログに予想外の記録がないか見張り、登録簿を追跡のデータと比べ、確認のために食い違いを浮かび上がらせられます。
+* **AIは偏ったり操作されたりすることがある**: 不完全な、あるいは一方に偏ったデータで学習したモデルは、一部の当事者をひいきするかもしれず、相手が共有のデータを汚そうとするかもしれません。これはNIST AI 100-2e2025と同じ趣旨です。
+* **中立な記録の規則（提案）**: AIは異常を見つけ、証拠のまとめを準備してかまいません。しかし、ほかの組織や国についての結果を公表すること、登録簿の記載を直すこと、参加者を共有のデータから外すことは、透明な規則の下で、有資格の人が決めます。
 
-### 4. 結論
-「地政学的中立性」は、テクノロジーが地上の国境という恣意的な分断を超越した上位の論理構造に立脚するとき、真のセキュリティが達成されることを証明しています。NISTフレームワークを通じて不変の台帳とデジタル・コモンズの設計を最適化することで、システムは脆弱な企業独占のインフラを、検証された真実の無敵で、自己修正的な聖域へと変貌させます。超知能や国家のオペレーターがいかに百万の状態にわたって優位性を計算しようとも、それらの実行ベクトルは、基盤層にハードコードされた正義の物理的幾何学の境界内に限定されます。本アーキテクチャは、分散型グリッドの不変の規範として機能し続けるのです。
+### 4. 共有地に仕える専門家
+職業の価値としての公平さ:
+
+* **中立な管理者が信頼を得る**: 共有の記録を保つ人は、国籍や商業上の利益にかかわらず、すべての参加者に対して一貫してふるまわなければなりません。
+* **国際協力には専門家が要る**: 共有の登録簿を築いて治めるには、多くの国の技術者、法律家、外交官、セキュリティの専門家の協力が必要です。
+* **CISSPが信頼できる記録を支える**: CISSPのドメイン1は倫理と国際的な法の配慮を、ドメイン3は暗号による完全性を、ドメイン7は証拠の取り扱いとログを扱います。
+
+### 5. 結論
+語りがぶつかり合う世界で、改ざんが見える記録と共有の登録簿は、宇宙とサイバー空間で何が起きたかを理解するための共通の土台を、みんなに与えます。
+
+透明性ログ、地上のシステムでの信頼できる検知、国際的な登録簿、中立な共有のデータ、注意深い証拠の基準、どちらの側にもつかずに見張りを助けるAI、そして公平な考えを持つ専門家を組み合わせることで、宇宙の世界は、誰でも確かめられる事実にもとづいて信頼が成り立つ共有地を築けます。
