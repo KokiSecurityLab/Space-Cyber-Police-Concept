@@ -212,6 +212,11 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-027-3 | Training Operators Against AI Deception | Practicing the Skill of Catching AI Mistakes |
 | SCD-027-4 | Designing Decision Support | Screens and Workflows That Keep People Thinking |
 | SCD-027-5 | Accountability Records for Human Decisions | Showing How People Decided, Not Only What the AI Said |
-| SCD-028 | Subordination of Power | Rule Hierarchy & Ethical Alignment Logic |
+| SCD-028 | Subordination of Power | Keeping Autonomous AI Agents Under Clear Rules and Human Authority |
+| SCD-028-1 | Policy Precedence | Deciding Which Rules Win When Instructions Conflict |
+| SCD-028-2 | Least Privilege for Agents | Giving AI Only the Access It Truly Needs |
+| SCD-028-3 | Kill Switches and Safe Stop | Halting an Agent Without Harming the Mission |
+| SCD-028-4 | Agent Identity and Credentials | Knowing Which Agent Did What, With Whose Authority |
+| SCD-028-5 | Auditing Agent Actions | A Complete Record of What Every Agent Did and Why |
 | SCD-029 | Signal Volume Control | Disinfo Flooding & Selective Listening |
 | SCD-030 | Mission Integrity | Final Sovereignty: Liberty Under the Stars |
