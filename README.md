@@ -176,8 +176,18 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-021-3 | Shared Registries of Space Objects | Knowing Who Is Responsible for What in Orbit |
 | SCD-021-4 | A Neutral Data Commons | Governing Shared Space Situational Awareness Data |
 | SCD-021-5 | Evidence for Attribution | Standards for Responsibly Identifying Who Was Behind an Incident |
-| SCD-022 | Counter-Narrative Capture | Cognitive Defense & Star Language Integrity |
-| SCD-023 | Techno-Liberty Protocol | Algorithmic Bias & AI for Human Liberty |
+| SCD-022 | Counter-Narrative Capture | Defending Trust Against Disinformation About Space Incidents |
+| SCD-022-1 | Disinformation After Space Incidents | The Hours When False Stories Take Hold |
+| SCD-022-2 | Deepfake Mission Communications | When a Familiar Voice Gives a False Order |
+| SCD-022-3 | Verifying Official Statements | Signed Announcements That Anyone Can Check |
+| SCD-022-4 | Crisis Communication Plans | Speaking Clearly When Every Minute Counts |
+| SCD-022-5 | Information Literacy for Teams | Building Habits That Resist Manipulation |
+| SCD-023 | Techno-Liberty Protocol | Fair, Private, and Accountable Security AI for Space Systems |
+| SCD-023-1 | Bias in Detection Models | When Security AI Treats Some Users Unfairly |
+| SCD-023-2 | Privacy of Earth Observation Data | Seeing the Planet Without Watching Individuals |
+| SCD-023-3 | Explainability and the Right to Appeal | Letting People Challenge Automated Security Decisions |
+| SCD-023-4 | Equal Access to Security Tools | Protection for Small Operators, Universities, and Emerging Nations |
+| SCD-023-5 | Protecting Civil Liberties in Monitoring | Watching Systems Without Overwatching People |
 | SCD-024 | Sovereign Truth Anchoring | Physical Law Protocols & Guardian Pride |
 | SCD-025 | Structural Harmony | Intent Heatmaps & Semantic Texture Analysis |
 | SCD-026 | The AI Sanctuary | Ensuring Data Provenance and Supply Chain Mitigation |

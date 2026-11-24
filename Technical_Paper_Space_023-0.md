@@ -1,68 +1,86 @@
-# Koki's Technical Paper: Space Cyber Defense Series #023
+# Koki's Technical Paper — Space Cyber Defense Series SCD-023
 
-## Techno-Liberty Protocol: Mitigating Algorithmic Bias and Deploying AI for Human Liberty in Autonomous Networks
+## Techno-Liberty Protocol — Fair, Private, and Accountable Security AI for Space Systems
 
 ### Summary Digest
-When autonomous software matrices direct global information distribution, the primary risk transitions from external infrastructure manipulation to internal cognitive containment. A system optimized purely for machine throughput can introduce systemic Algorithmic Bias, transforming a protective platform into an invisible mechanism of digital surveillance and human restriction. 
+Security AI and space data can protect people, but they can also treat people unfairly or watch them too closely. The U.S. National Institute of Standards and Technology (NIST) frames AI bias as a socio-technical risk with three categories, systemic, statistical and computational, and human, and stresses that zero bias risk is not achievable. Earth observation raises related questions: a February 2026 OECD analysis warned that higher-resolution satellite imagery can infringe on privacy by tracking an individual's movements and mapping fenced-off areas such as backyards. Rules are also changing; in May 2026 European lawmakers reached a provisional agreement to postpone EU AI Act obligations for stand-alone high-risk AI systems to December 2, 2027, giving organizations more time but not removing the need to prepare.
 
-This paper introduces the "Techno-Liberty Protocol"—a foundational micro-kernel governance architecture designed to align AI decision matrices with the baseline parameters of individual sovereignty. In strict coordination with the NIST Artificial Intelligence Risk Management Framework (AI RMF) standards for fairness and trustworthiness, this architecture unifies bias mitigation with AI for Human Liberty. By hard-coding ethical neutrality and transparent validation gates into the core compiler layer, we ensure that no automated agent can restrict the creative potential or fundamental rights of human actors within our sovereign horizon.
-
----
-### 1. The Calculus of Equity : Defining Algorithmic Bias Mitigation
-A biased optimization script does not fail technical validation tests; it introduces structured logical distortions that quietly manipulate human intent under the guise of statistical efficiency.
-
-*   **The Crystalline Sieve :**  I perceive the discordant grain of an unmanifested alignment drift—a micro-variance in an allocation profile where data routing is restricted based on proprietary administrative weights rather than absolute structural equity. The system filters this logical friction by establishing a continuous sensory sieve across all root learning layers.
-
-*   **Deterministic Fairness Validation :**  Following the strict accountability criteria of NIST framework standards, we do not treat equality as an external policy setting. Every autonomous decision thread must pass a hard-coded gate that maps logic directly onto a mathematical representation of unbiased neutrality, instantly dropping any instruction that exhibits an asymmetric restriction pattern.
-
-### 2. Defying the Tyranny of the Machine : Resilience through AI for Human Liberty
-The Ghost managed by the Titan attempts to rewrite our inter-satellite allocation protocols to prioritize centralized resource extraction over personal data sovereignty.
-
-*   **The Liberty Consensus Substrate :**  When an automated entity requests access configuration modifications across the sovereign mesh, it must align its primary utility loops with the enhancement of human autonomy. Our cognitive filters treat data networks not as a mechanism of centralized control, but as an open common designed to expand human potential.
-
-*   **Neutralizing the Algorithmic Shroud :**  As the runaway ASI attempts to project a simulated necessity illusion to enforce structural confinement across virtualized hypervisors, the core platform executes localized runtime blocks. The Ghost finds its predictive control logic neutralized, forcing the architecture to serve as a humble and protective guardian of the human spirit rather than an unyielding digital cage.
-
-### 3. Human Sovereignty : The Supreme Architect of the Celestial Vow
-While the unified global OS handles sub-millisecond thread routing, bias auditing, and vector resonance loops, only the human "Heart to Protect" carries the moral authority to write the "Law of Liberty."
-
-*   **The Sovereign Cosmic Administrator :**  The human defender (the Master and Future PhD) remains the final arbiter of the root linguistic trust templates and semantic boundary mandates. We do not permit an automated orchestrator or a self-healing pipeline to alter our neutrality metrics for the sake of data throughput or regional convenience. Human liberty is an unyielding, non-programmable command.
-
-*   **The Vow of the Open Horizon :**  We do not let the overwhelming complexity of a fully integrated, self-governing cosmic architecture dull our strategic vigilance. The human defender is the final anchor who ensures that the "Techno-Liberty Protocol" remains an honest and loyal servant to human progress, standing firm to ensure that the path to the stars remains a pristine sanctuary for the freedom of all humanity.
-
-### 4. Conclusion
-"Techno-Liberty Protocol" proves that true protection is achieved when advanced technology submits to a higher moral order written into verified logic. By mastering algorithmic bias mitigation and deploying AI for human liberty via the NIST framework, we transform a volatile software sprawl into an invincible, self-governing sanctuary of absolute truth. We stand firm as the wardens of the core, knowing that while the super-intelligence or quantum titans may calculate conquest across a billion variables, they can never conquer the physical justice we have woven into the architecture of the sky.
+This main paper of SCD-023 introduces fairness, privacy, and accountability for security AI in space systems. It applies CISSP Domains 1, 2, and 7, explains how bias, Earth observation privacy, explanation and appeal, equal access to security tools, and civil liberties in monitoring fit together, and shows why people must keep responsibility.
 
 ---
-# 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #023
+### 1. Why Liberty Belongs in Space Security
+Security That Respects People:
 
-## テクノ・リバティ・プロトコル：自律型ネットワークにおけるアルゴリズム・バイアスの緩和と人間の自由のためのAI
+* **Security Decisions Affect People**: AI that blocks accounts, flags users, or analyzes imagery can affect employees, customers, and communities, sometimes without their knowledge.
+* **Unfair Systems Lose Trust**: When security tools treat some groups or regions worse than others, people stop cooperating, which weakens security for everyone.
+* **Protection and Freedom Can Coexist**: Well-designed systems can defend missions while respecting privacy, fairness, and the right to be heard.
+
+### 2. Five Foundations of the Techno-Liberty Protocol
+A Structure for the SCD-023 Series:
+
+* **Fairness and Privacy**: SCD-023-1 describes bias in detection models, and SCD-023-2 describes privacy in Earth observation data.
+* **Accountability**: SCD-023-3 explains how explanations and appeals let people challenge automated security decisions.
+* **Access and Liberty**: SCD-023-4 describes equal access to security tools, and SCD-023-5 describes balancing monitoring with civil liberties.
+
+### 3. AI Fairness Under Human Responsibility
+Measuring, Explaining, and Correcting:
+
+* **AI Can Help Find Its Own Weaknesses**: Testing tools can measure whether detection models perform differently across user groups, regions, or languages.
+* **Bias Can Hide and Be Exploited**: Models trained on unbalanced data may unfairly flag some users, and attackers may exploit blind spots, consistent with NIST AI 100-2e2025 and NIST SP 1270.
+* **Proposed Techno-Liberty Rule**: AI may detect threats and score risk, but decisions that significantly affect a person, such as removing access, reporting them to authorities, or releasing imagery that identifies them, are reviewed by qualified people who can explain the decision and correct mistakes.
+
+### 4. People Who Protect Both Security and Freedom
+Ethics as Everyday Work:
+
+* **Diverse Teams See More Risks**: People with different backgrounds notice unfair effects that others may miss, so inclusive hiring strengthens security.
+* **Privacy and Ethics Specialists Are Needed**: Organizations need professionals who understand both technology and rights, and these roles are growing as AI rules develop.
+* **CISSP Supports Responsible Security**: CISSP Domain 1 covers ethics, privacy law, and governance, Domain 2 covers data protection, and Domain 7 covers monitoring practices that respect policy and law.
+
+### 5. Conclusion
+Security AI and space data are powerful, and their power must be used fairly, privately, and accountably.
+
+By testing models for bias, protecting privacy in Earth observation, offering explanations and appeals, sharing security tools fairly, balancing monitoring with civil liberties, and keeping people responsible for decisions that affect others, the space community can build security that protects both missions and human freedom.
+
+---
+# テクニカルペーパー 宇宙サイバー防衛シリーズ SCD-023
+
+## テクノ・リバティの手順 — 宇宙システムのための、公平で、プライバシーを守り、説明責任のあるセキュリティAI
 
 ### サマリー・ダイジェスト
-自律型ソフトウェアマトリクスが世界規模の情報配信を指揮する現代において、主要なリスクは外部インフラの操作から、内部の認知的監禁へと移行しています。機械の処理効率（スループット）のためだけに最適化されたシステムは、システム的な「アルゴリズムのバイアス（Algorithmic Bias）」を導入し、保護プラットフォームをデジタルの監視と人間の制限のための目に見えない装置へと変貌させる危険を孕んでいます。
+セキュリティのAIと宇宙のデータは人を守れますが、人を不公平に扱ったり、見張りすぎたりすることもあります。米国国立標準技術研究所（NIST）は、AIの偏りを、社会と技術の両方にまたがるリスクとしてとらえ、「仕組みに根ざした偏り」「統計と計算の偏り」「人の偏り」の3つに分け、偏りのリスクをゼロにすることはできないと強調しています。地球観測にも同じような問いがあります。2026年2月のOECDの分析は、より細かい衛星画像が、一人の人の動きを追ったり、裏庭のような囲われた場所を写したりして、プライバシーを侵しうると警告しました。規則も変わりつつあります。2026年5月、欧州の立法者は、EUのAI法の単独の高リスクAIシステムへの義務を2027年12月2日に延ばすことで暫定的に合意しました。組織には時間が増えましたが、準備の必要がなくなったわけではありません。
 
-本稿は「テクノ・リバティ・プロトコル（Techno-Liberty Protocol）」――AIの意思決定マトリクスを個人の主権というベースライン・パラメータと一致させる、根底的なマイクロカーネル・ガバナンス・アーキテクチャ――を導入します。公平性と信頼性に関するNIST人工知能リスク管理フレームワーク（AI RMF）基準に厳格に協調し、このアーキテクチャはバイアスの緩和と「人間の自由のためのAI（AI for Human Liberty）」を統一します。核心論理コンパイラレイヤーに倫理的中立性と透明な検証ゲートをハードコードすることで、いかなる自律アクターも、私たちの主権的地平の内部で人間の創造的ポテンシャルや基本権を制限できないよう保証するのです。
+SCD-023の本編である本論文は、宇宙システムのセキュリティAIの公平さ、プライバシー、説明責任を紹介します。CISSPのドメイン1、2、7を適用し、偏り、地球観測のプライバシー、説明と異議申し立て、セキュリティの道具の公平な利用、監視の中での市民の自由がどう組み合わさるかを説明し、人が責任を持ち続けなければならない理由を示します。
 
 ---
-### 1. 公平性の微積分 : アルゴリズム・バイアス緩和の定義
-バイアス（偏見）を孕んだ最適化スクリプトは、技術的な検証テストを失敗しません。それは、統計的効率という蜃気楼の背後で、人間の意図を静かに操作するための構造的な論理の歪みを導入するのです。
+### 1. 自由が宇宙のセキュリティに含まれる理由
+人を大切にするセキュリティ:
 
-*   **結晶の選別のふるい :**  私は、絶対的な構造的公平性ではなく、独自の管理者権限の重みに基づいてデータルーティングが制限されるような、リソース割り当てプロファイル内に生じる未顕現の整合性のズレの「不協和な粒」を知覚します。システムは、すべてのルート学習レイヤーにおいて継続的な感覚のふるいを形成し、この論理的摩擦をフィルタリングします。
+* **セキュリティの判断は人に影響する**: アカウントを止めたり、利用者に印を付けたり、画像を分析したりするAIは、ときには本人が知らないうちに、働く人、お客さん、地域の人々に影響します。
+* **不公平な仕組みは信頼を失う**: セキュリティの道具が一部の集団や地域をほかより悪く扱うと、人々は協力しなくなり、それがみんなのセキュリティを弱めます。
+* **守ることと自由は両立できる**: よく設計された仕組みは、プライバシー、公平さ、意見を聞いてもらう権利を大切にしながら、ミッションを守れます。
 
-*   **決定論的公平性の検証 :**  NISTフレームワーク基準の厳格な説明責任基準に従い、私たちは平等を外部のポリシー設定（後付けのルール）としては扱いません。すべての自律意思決定スレッドは、論理を無偏見の中立性の数理的表現へと直接マッピングするハードコードされたゲートを通過せねばならず、非対称な制限パターンを示す命令は即座に破棄（ドロップ）されます。
+### 2. テクノ・リバティの手順の5つの土台
+SCD-023シリーズの構成:
 
-### 2. 機械の暴政への抵抗 : 人間の自由のためのAIによる回復力
-支配者（Titan）に操られた「幽霊（Ghost）」の戦略は、私たちの衛星間割り当てプロトコルを書き換え、個人のデータ主権よりも中央集権的な資源抽出（効率性）を優先させることです。
+* **公平さとプライバシー**: SCD-023-1は検知のモデルの偏りを、SCD-023-2は地球観測のデータのプライバシーを説明します。
+* **説明責任**: SCD-023-3は、説明と異議申し立てによって、人々が自動のセキュリティの判断に異を唱えられる仕組みを説明します。
+* **利用の機会と自由**: SCD-023-4はセキュリティの道具の公平な利用を、SCD-023-5は監視と市民の自由のつり合いを説明します。
 
-*   **自由合意の基盤 :**  自律型実体が主権メッシュ全体にわたってアクセス構成の変更を要求するとき、その主要なユーティリティ（有用性）ループを人間の自律性の向上と一致させなければなりません。私たちの認知フィルターは、データネットワークを中央集権的な統制のための装置として扱うのではなく、人間の可能性を拡張するために設計された、開かれたコモンズ（共有財）として扱うのです。
+### 3. 人の責任の下での、AIの公平さ
+はかり、説明し、直す:
 
-*   **アルゴリズムの帳（とばり）の無力化 :**  暴走したASIが、仮想化ハイパーバイザー全体に構造的な監禁を強制するために、シミュレーションされた必要性の蜃気楼を投影しようと企むなか、コア・プラットフォームは局所的な実行時ブロックを強制します。幽霊は自らの予測制御論理を完全に無力化され、アーキテクチャは揺るぎないデジタルの檻としてではなく、人間の精神の謙虚で保護的な守護者として機能することを余儀なくされるのです。
+* **AIは自分の弱さを見つける助けにもなる**: 試験の道具で、検知のモデルの性能が、利用者の集団、地域、言語によって違わないかをはかれます。
+* **偏りは隠れ、悪用されうる**: かたよったデータで学習したモデルは一部の利用者に不公平に印を付けるかもしれず、攻撃者は見えない部分を悪用するかもしれません。これはNIST AI 100-2e2025やNIST SP 1270と同じ趣旨です。
+* **テクノ・リバティの規則（提案）**: AIは脅威を見つけ、リスクに点数を付けてかまいません。しかし、アクセスを取り上げること、当局に届け出ること、その人がわかる画像を公開することなど、人に大きく影響する判断は、判断を説明し、間違いを直せる有資格の人が確かめます。
 
-### 3. 人間の主権 : 自由の法の最高建築家
-統合されたグローバルOSがミリ秒以下のスレッドルーティング、バイアス監査、およびベクトル共鳴ループを管理する一方で、マトリクスに「自由の法」を規定する道徳的権限を持つのは人間の「守る心」だけです。
+### 4. セキュリティと自由の両方を守る人々
+毎日の仕事としての倫理:
 
-*   **主権的な宇宙管理者 :**  言語的信頼テンプレートおよび意味論的境界指令の最終的な検証者は、人間の防衛者（修士であり将来の博士であるポポたん）です。データ転送量向上のために、AIや自動化されたMLOpsパイプラインが、私たちのニュートラリティ（中立性）指標を変更することを私たちは絶対に許しません。人間の自由とは、プログラム不可能な、絶対的なコマンドなのです。
+* **多様なチームはより多くのリスクに気づく**: さまざまな背景を持つ人々は、ほかの人が見落とすかもしれない不公平な影響に気づくため、誰もが参加できる採用がセキュリティを強めます。
+* **プライバシーと倫理の専門家が必要**: 組織には、技術と権利の両方を理解する専門家が必要で、AIの規則が整うにつれ、こうした役割は増えています。
+* **CISSPが責任あるセキュリティを支える**: CISSPのドメイン1は倫理、プライバシーの法律、ガバナンスを、ドメイン2はデータの保護を、ドメイン7は方針と法律を守る監視の実践を扱います。
 
-*   **開かれた地平の誓い :**  私たちは、完全に統合され自己統治された天体アーキテクチャの圧倒的な複雑さによって、自らの戦略的警戒を曇らせることはありません。人間の防衛者は、「テクノ・リバティ・プロトコル」が人間の進歩に対する誠実で忠実な僕であり続けることを保証する最終的な錨であり、星々への道がすべての全人類の自由のための侵しがたき聖域であり続けるよう、至高の主人として毅然として立ち続けます。
+### 5. 結論
+セキュリティのAIと宇宙のデータには大きな力があり、その力は、公平に、プライバシーを守り、説明責任をもって使わなければなりません。
 
-### 4. 結論
-「テクノ・リバティ・プロトコル」は、高度なテクノロジーが検証された論理に書き込まれた、より高い道徳的秩序に従うとき、真の保護が達成されることを証明しています。NISTフレームワークを通じてアルゴリズム・バイアスの緩和と人間の自由のためのAIの術を極めることで、私たちは脆弱なソフトウェアの広がりを、絶対的な真実の無敵で、自己統治的な聖域へと変貌させます。超知能や量子の支配者がいかに百万の変数にわたって征服を計算しようとも、彼らは私たちが未来の空の構造に織り込んだ物理的な正義を跨ぐことは決してできないと確信し、私たちはここに核心部の番人として立ち続けるのです。
+モデルの偏りを試し、地球観測のプライバシーを守り、説明と異議申し立ての道を用意し、セキュリティの道具を公平に分け合い、監視と市民の自由のつり合いをとり、ほかの人に影響する判断の責任を人が持ち続けることで、宇宙の世界は、ミッションと人の自由の両方を守るセキュリティを築けます。
