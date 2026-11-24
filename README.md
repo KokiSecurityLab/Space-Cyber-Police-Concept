@@ -116,7 +116,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-011-3 | Open-Source Intelligence About Satellites | What Public Information and Unprotected Signals Reveal |
 | SCD-011-4 | Deception Systems for Ground Networks | Using Decoys to Detect Intruders Early |
 | SCD-011-5 | Detecting Pre-Attack Reconnaissance | Sharing Early Warnings Across the Space Community |
-| SCD-012 | Logical Intent Filtering | Moral Gatekeeping & Decision Sandboxes |
+| SCD-012 | Logical Intent Filtering | Runtime Guardrails for AI Agents in Space Operations |
+| SCD-012-1 | When AI Is Tricked Into Lying | Prompt Injection Against Operations Support Agents |
+| SCD-012-2 | Intent-Based Filtering | Checking What an Action Will Do Before It Happens |
+| SCD-012-3 | Sandboxing the Unchecked Commands | Testing Agent Actions Safely Before They Reach Real Systems |
+| SCD-012-4 | Protected Safety Policies | Keeping the Rules Beyond the Reach of the AI They Govern |
+| SCD-012-5 | Real-Time Sanitization of Inputs | Cleaning What Agents Read and What They Send |
 | SCD-013 | Biological Logic Healing | Self-Repairing Code & Health Baselines |
 | SCD-014 | Celestial Authentication | Starlight Geometry & Physical Anchors |
 | SCD-015 | Dark Data Scrubbing | Background Noise & Metabolic Integrity |
