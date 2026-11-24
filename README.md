@@ -218,5 +218,15 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-028-3 | Kill Switches and Safe Stop | Halting an Agent Without Harming the Mission |
 | SCD-028-4 | Agent Identity and Credentials | Knowing Which Agent Did What, With Whose Authority |
 | SCD-028-5 | Auditing Agent Actions | A Complete Record of What Every Agent Did and Why |
-| SCD-029 | Signal Volume Control | Disinfo Flooding & Selective Listening |
-| SCD-030 | Mission Integrity | Final Sovereignty: Liberty Under the Stars |
+| SCD-029 | Signal Volume Control | Defending Against Floods of Data, Alerts, Requests, and False Information |
+| SCD-029-1 | Alert Flooding Against Security Teams | When Too Many Warnings Hide the One That Matters |
+| SCD-029-2 | Resource Exhaustion Against AI Models | When Attackers Make AI Too Busy or Too Expensive to Use |
+| SCD-029-3 | Rate Limiting and Prioritization | Making Sure the Most Important Traffic Always Gets Through |
+| SCD-029-4 | Selective Listening to Trusted Sources | Giving Verified Information Priority During a Flood |
+| SCD-029-5 | Poisoned Threat-Intelligence Feeds | When Shared Warnings Are Turned Against Defenders |
+| SCD-030 | Mission Integrity | Human-Led Space Defense at the Midpoint of the Series |
+| SCD-030-1 | Measuring Mission Integrity | Knowing Whether a Mission Is Still Doing What People Intend |
+| SCD-030-2 | Risks of AI Self-Healing | Why Automatic Repairs Need Limits |
+| SCD-030-3 | Patch Poisoning by Advanced AI | When a Fix Becomes the Attack |
+| SCD-030-4 | Human Authority Over Change | Keeping People in Charge of How Missions Evolve |
+| SCD-030-5 | The Road to Phase Two | From Principles to Practice in SCD-031 to SCD-050 |
