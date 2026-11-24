@@ -104,7 +104,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-009-3 | Multi-Party Consensus Protocols | Two-Person Integrity and Threshold Cryptography |
 | SCD-009-4 | Preventing Kinetic Hijacking | Protecting Propulsion Authority and Watching Proximity Operations |
 | SCD-009-5 | Protecting Digital Sovereignty | Data Jurisdiction, Supply Chain Vetting, and the EU Space Act |
-| SCD-010 | The Stellar Choreography | Protecting the Rhythm of the Stars |
+| SCD-010 | The Stellar Choreography | Protecting the Integrity of Time, Position, and Formation Flight |
+| SCD-010-1 | Synchronization with Cosmic Rhythm | Securing Time Across Satellites, Ground Stations, and Data Centers |
+| SCD-010-2 | Formation Flying Integrity | Securing Dense Satellite Clusters for Orbital Computing |
+| SCD-010-3 | Countering Navigation Spoofing | Lessons From Aviation and Maritime Interference for Space Systems |
+| SCD-010-4 | Ephemeris Data Integrity | Signing and Verifying the Orbital Data Behind Every Position |
+| SCD-010-5 | Security Based on Physical Laws | Using Orbital Mechanics and Independent Sensors to Detect False Data |
 | SCD-011 | The Pulse of Discord | Signal Dissonance & Cognitive Sifting |
 | SCD-012 | Logical Intent Filtering | Moral Gatekeeping & Decision Sandboxes |
 | SCD-013 | Biological Logic Healing | Self-Repairing Code & Health Baselines |
