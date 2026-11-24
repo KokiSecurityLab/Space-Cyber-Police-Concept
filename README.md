@@ -146,7 +146,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-016-3 | On-Orbit Inspection and Auditing | Seeing a Troubled Satellite Up Close |
 | SCD-016-4 | Playbooks and Exercises | Practicing Space Incident Response Before It Is Real |
 | SCD-016-5 | Coordinated Defense, Not Hack-Back | Working With Partners and Authorities Within the Law |
-| SCD-017 | Entanglement Firewall | Zero Latency & Swarm Awareness Unity |
+| SCD-017 | The Mesh Firewall | Separation and Routing Security for Inter-Satellite Networks |
+| SCD-017-1 | Overcoming the Speed of Light Delay | Delay-Tolerant Networking and Bundle Protocol Security |
+| SCD-017-2 | What Quantum Entanglement Cannot Do | Correcting the Myth of Instant Communication |
+| SCD-017-3 | Shared Situational Awareness | Keeping a Trustworthy Picture of a Constantly Changing Mesh |
+| SCD-017-4 | Routing Security in the Mesh | Lessons From Internet Route Hijacking for Networks in Orbit |
+| SCD-017-5 | Segmentation Between Missions | Keeping Neighbors in the Same Mesh Safely Apart |
 | SCD-018 | The Cosmic Constitution | Peace Encoding & AI Stewardship Ethics |
 | SCD-019 | The Last Resilience | Dual Storm Survival & Core Seed Preservation |
 | SCD-020 | Astraeus Shield Completion | Seamless Resonance & Global OS Integration |
