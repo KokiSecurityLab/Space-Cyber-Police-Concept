@@ -86,7 +86,12 @@ AIの計算基盤は地上を離れつつあります。2026年10月、Googleは
 | SCD-006-3 | Autonomous Self-Maintenance | Firmware Resiliency Through Protection, Detection, and Trusted Recovery |
 | SCD-006-4 | Graceful Degradation | Keeping Essential Services Running When Parts Fail |
 | SCD-006-5 | Symbiosis of Mind and Shell | Thermal, Power, and Compute Coordination Without Side Channels |
-| SCD-007 | The Celestial Archive | Material Lifecycle and Hardware Supply Chain Integrity |
+| SCD-007 | The Celestial Archive | Hardware Supply Chain Integrity and Lifecycle Stewardship |
+| SCD-007-1 | Strategic Resource Management | Asset Inventories and Hardware Bills of Materials |
+| SCD-007-2 | The Library of Fallen Parts | Failure Records, Counterfeit Detection, and Industry Sharing |
+| SCD-007-3 | Physical Integrity Protection | Tamper Evidence, Trusted Manufacturing, and Pre-Launch Verification |
+| SCD-007-4 | Precision Decommissioning | Retiring Ground Equipment, Test Hardware, and Data Securely |
+| SCD-007-5 | The Standard of Sustainable AI | Energy Accountability and Trustworthy Sustainability Claims |
 | SCD-008 | The Neutral Orbit | Fair Access Beyond Corporate Monopoly |
 | SCD-009 | The Sovereign Shield | Preventing State-Sponsored Hijacking in Orbit |
 | SCD-010 | The Stellar Choreography | Protecting the Rhythm of the Stars |

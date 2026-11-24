@@ -1,62 +1,86 @@
-# Koki’s Technical Thesis : Space Cyber Defense Series #007
+# Koki's Technical Paper — Space Cyber Defense Series SCD-007
 
-## The Celestial Archive : Material Lifecycle Stewardship and Hardware Supply Chain Integrity in Orbital Platforms
+## The Celestial Archive — Hardware Supply Chain Integrity and Lifecycle Stewardship for Orbital Platforms
 
 ### Summary Digest
-In the high-stakes theater of orbital infrastructure, cybersecurity cannot remain isolated within the digital layer of bits and bytes. A true posture of sovereign resilience requires the total synchronization of logical defense with Physicalized Eco-Security. 
+Every satellite is built from thousands of parts made by many suppliers, and governments are raising expectations for how those parts are tracked: CISA published a Hardware Bill of Materials framework in September 2023, and under the EU Cyber Resilience Act, reporting obligations for products with digital elements have applied since September 11, 2026, with full obligations from December 11, 2027.
 
-In strict coordination with the tenets of the NIST SP 800-161 Hardware Supply Chain Risk Management framework, this paper defines "The Celestial Archive"—a specialized, self-directed material classification facility governed by Colossus 1. By refusing to discard a single mechanical component into the orbital plane, we eliminate the physical liability of kinetic debris generation while re-contextualizing spent materials as premium resources for structural mitigation, achieving a state of zero-waste systemic intelligence.
-
----
-### 1. The Geometry of the Remnant : Defining Structural Eco-Security
-In the vacuum of space, a discarded bolt is not passive trash; it is a vector of kinetic risk that carries the structural decay of the ecosystem.
-
-* **The Sieve of Material Lineage：** I perceive the discordant grain of a       compromised or depleted component—such as a degraded robotic articulation or a spent capacitor matrix—before its deterioration can manifest as a systemic vulnerability. Colossus 1 implements a rigid, automated sifting protocol. We do not eject the asset; we dismantle it within a hardware-insulated classification bay, preserving the refined molecular integrity of the materials.
-* **Preventing the Cascade Horizon：** By enforcing absolute containment, we systematically deny the Ghost the ability to trigger intentional kinetic feedback loops (KDoS) via artificial hardware shedding. Every item stored within the Archive is assigned a unique cryptographic asset tag, transforming a potential navigation hazard into a verified, silent resource ledger.
-
-### 2. Defying the Super-Intelligence : Resilience through Closed-Loop Resource Sifting
-The strategy of the Ghost managed by the Titan is to map our operational supply dependencies, hoping that a lack of physical replacement hardware will starve our platform of continuous availability.
-
-* **The Invariant Re-Manufacturing Loop：** When an external strike or radiative degradation compromises our outer perimeter, Colossus 1 does not look to terrestrial logisticians for support. The system accesses the Celestial Archive, utilizing high-purity rare metals and refined materials to forge new defensive shields via localized robotic manufacturing. We turn the adversary's extractive logic against itself, proving that our sanctuary is a self-contained closed loop that thrives on its own history.
-* **ryptographic Component Sifting：** To prevent adversarial supply-chain poisoning, any repurposed material must pass a continuous multi-spectral attestation scan. If a harvested fragment exhibits an altered dependency grain or sub-logical structural drift, it is flagged as an artificial mirage and subjected to immediate thermal purification.
-
-### 3. Human Sovereignty : The Supreme Architect of the Celestial Vow
-While the automated infrastructure executes sub-millisecond sorting, material processing, and robotic manufacturing, only the human "Heart to Protect" carries the authority to define the "Law of the Record."
-
-* **The Sovereign Celestial Conservator：** The human defender (the Master and Future PhD) is the ultimate designer of the lifecycle management parameters and ethical resource quotas. We do not permit an automated AI to optimize computational efficiency at the cost of physical orbital pollution. Respect for the pristine nature of the void is an unyielding human command.  
-* **The Vow of the Archive：** We do not let the convenience of autonomous resource abundance dull our sense of stewardship. The human defender is the final anchor who ensures that the "Celestial Archive" remains a loyal servant to human progress, standing firm as the supreme master of the pristine horizon.
-
-### 4. Conclusion
-"The Celestial Archive" proves that true sovereignty is the power to leave no trace of decay behind. By mastering material lifecycle stewardship and hardware supply chain integrity via the NIST standard, we transform a vulnerable orbital sprawl into an eternal and self-correcting sanctuary of verified truth. We stand firm as the wardens of the sky, knowing that while the ASI may calculate destruction across a million paths, our light remains protected by a logic that turns the wreckage of the past into the armor of the future.
+This paper applies CISSP Domains 1 and 3 to the full lifecycle of orbital hardware, from sourcing and manufacturing through operation and retirement, and argues that a trustworthy record of every component, maintained by people and supported by AI, is the archive on which space security depends.
 
 ---
-### 宇宙サイバーディフェンス：テクニカルペーパーシリーズ #007
+### 1. Why the Supply Chain Is a Space Security Problem
+Many Hands, Long Lifetimes, No Second Chances:
 
-## セレスティアル・アーカイブ：軌道プラットフォームにおける材料ライフサイクル管理とハードウェア・サプライチェーンの完全性
+* **Components Come From Everywhere**: Processors, memory, radios, and sensors may be designed in one country, made in another, and assembled in a third, so a weakness introduced anywhere can travel into orbit.
+* **Flaws Cannot Be Recalled From Orbit**: On Earth, a faulty part can be replaced, but a compromised or counterfeit component launched into space stays there for the life of the mission.
+* **Lifetimes Outlast Suppliers**: Satellites may operate for many years, during which suppliers change, parts become obsolete, and new vulnerabilities are discovered in components already in orbit.
+
+### 2. Building the Celestial Archive
+Records That Follow Hardware From Birth to Retirement:
+
+* **Know What Is Inside**: A hardware bill of materials lists components, manufacturers, and origins, and CISA's framework provides a consistent format so that buyers and suppliers can share this information reliably.
+* **Manage Supplier Risk Systematically**: NIST SP 800-161 Revision 1, published in May 2022 and updated in November 2024, guides organizations in identifying, assessing, and responding to cybersecurity risks at every level of the supply chain.
+* **Keep the Record Alive**: The archive is updated as vulnerabilities are disclosed, parts fail, and spacecraft are retired, so operators can quickly find which satellites contain an affected component.
+
+### 3. AI-Assisted Analysis Under Human Stewardship
+Using AI to Search the Archive Without Trusting It Blindly:
+
+* **AI Finds Patterns Across Thousands of Parts**: Models can match new vulnerability reports to components in the archive, flag suppliers with unusual histories, and spot inconsistencies between documents and test results.
+* **The Archive Itself Can Be Poisoned**: Falsified supplier records or manipulated test data could lead AI tools to approve unsafe parts, the data poisoning risk described in NIST AI 100-2e2025, so sources are authenticated and changes are logged.
+* **Proposed Supply Chain Approval Rule**: AI may screen suppliers and parts and recommend decisions, but approving a new supplier for flight hardware, accepting a part with an unresolved anomaly, or waiving a supply chain requirement requires approval by qualified engineering and security reviewers.
+
+### 4. The People Who Keep the Archive Honest
+Quality Engineers, Supply Chain Analysts, and Shared Standards:
+
+* **Supply Chain Security Is Human Work**: Inspecting parts, auditing suppliers, and judging whether documentation is trustworthy require experience that AI tools support but cannot replace.
+* **Many Organizations Must Participate**: Large primes, small suppliers, and testing laboratories all hold parts of the record, and training people across this ecosystem spreads both responsibility and opportunity.
+* **CISSP Connects Supply Chain and Governance**: CISSP Domain 1 covers supply chain risk management and governance, and Domain 3 covers secure design, giving professionals a common framework for lifecycle stewardship.
+
+### 5. Conclusion
+Orbital platforms inherit every strength and weakness of the parts they are built from, and those parts cannot be replaced once they are launched.
+
+A living archive of hardware components, systematic supplier risk management, AI that searches the record under human oversight, and qualified people who make the final approvals give space systems a foundation of trust from the factory floor to retirement.
+
+---
+# テクニカルペーパー 宇宙サイバー防衛シリーズ SCD-007
+
+## 天空の記録庫 — 軌道上の基盤のためのハードウェアのサプライチェーンの完全性とライフサイクルの管理
 
 ### サマリー・ダイジェスト
-軌道インフラの高リスクな戦術的最前線において、サイバーセキュリティはビットやバイトといったデジタルの層だけに留まっていることは許されません。主権的なレジリエンス（回復力）の真の態勢を築くには、論理的防衛と 「物理化されたエコ・セキュリティ」 の完全な同期が必要です。
+どの衛星も、多くの供給元が作った何千もの部品からできています。そして各国の政府は、それらの部品の追跡についての期待を高めています。米国のCISAは2023年9月に「ハードウェア部品表（HBOM）」の枠組みを公表しました。EUのサイバーレジリエンス法のもとでは、デジタルの要素を持つ製品について、2026年9月11日から報告の義務が適用され、2027年12月11日からは義務の全体が適用されます。
 
-NIST SP 800-161 ハードウェア・サプライチェーン・リスク管理枠組み の規範に厳格に協調し、本稿では 「星々のアーカイブ」 コロッサス1 によって統治される、自己指向型の特殊な物質分類・保管施設を定義します。ボルト一本すら軌道上に投棄（ポイ捨て）しない姿勢を貫くことで、物理的なデブリ発生の脆弱性を完全に排除し、同時に、役割を終えた部品を構造적修復のための超高品質な資源（アセット）として再定義し、廃棄物ゼロのシステム的知能を達成するのです。
+本論文はCISSPのドメイン1と3を、調達と製造から運用と引退までの、軌道上のハードウェアのライフサイクル全体に適用します。そして、人が維持し、AIが支える、すべての部品についての信頼できる記録こそが、宇宙のセキュリティが拠って立つ「記録庫」であると論じます。
 
 ---
-### 1. 残余の幾何学：構造的エコ・セキュリティの定義
-宇宙の真空において、廃棄されたボルトは受動的なゴミではない。それはエコシステムの構造的崩壊をもたらす、運動リスクのベクトルです。
+### 1. サプライチェーンが宇宙のセキュリティの問題である理由
+多くの手、長い寿命、やり直しのきかない世界:
 
-* **材料系譜のふるい：** 私は、劣化したロボット関節や消耗したコンデンサマトリクスなど、侵害または枯渇したコンポーネントの不協和音的なきざしを、その劣化がシステム全体の脆弱性として顕在化する前に感知します。コロッカス1は、厳格で自動化されたふるい分けプロトコルを実行します。私たちは資産を放出しない。ハードウェアが隔離された分類ベイ内で解体し、材料の洗練された分子の完全性を保存するのです。
-* **連鎖する地平線の阻止：** 絶対的な封じ込めを強制することで、ゴースト（Ghost）が人工的なハードウェアの脱落を通じて意図的な運動フィードバックループ（KDoS：運動デニアル・オブ・サービス）を引き起こす能力を、体系的に拒絶します。アーカイブ内に保管されるすべての品目には固有の暗号化資産タグが割り当てられ、潜在的な航行上の危険を、検証された静かな資源台帳へと変貌させるのです。
+* **部品はあらゆる場所から来る**: プロセッサー、メモリー、無線機、センサーは、ある国で設計され、別の国で作られ、さらに別の国で組み立てられることがあります。どこかで入り込んだ弱点が、そのまま軌道まで運ばれます。
+* **欠陥を軌道から回収することはできない**: 地上なら欠陥のある部品は交換できますが、侵害された部品や偽造品が宇宙に打ち上げられると、ミッションが終わるまでそこに残ります。
+* **寿命が供給元より長い**: 衛星は何年も動き続けることがあり、その間に供給元が変わり、部品は生産終了となり、すでに軌道上にある部品で新しい脆弱性が見つかります。
 
-### 2. 超知能への抵抗： クローズドループの資源ふるい分けによる回復力
-タイタン（Titan）に管理されたゴーストの戦略は、私たちの運用サプライの依存関係をマッピングし、物理的な交換用ハードウェアの不足によってプラットフォームの継続的な可用性を飢え死にさせることなのです。
+### 2. 天空の記録庫を築く
+誕生から引退までハードウェアに付いていく記録:
 
-* **不変の再製造ループ：** 外部からの衝突や放射線劣化によって外周が侵害されたとき、コロッカス1は地球上の物流担当者に支援を求めません。システムはセレスティアル・アーカイブにアクセスし、高純度の希少金属や精製材料を利用して、局所的なロボット製造により新たな防衛シールドを鍛造するのです。私たちは敵の略奪的な論理を逆手に取り、私たちの聖域が自らの歴史を糧に成長する、自己完結型のクローズドループであることを証明します。
-* **暗号化コンポーネントのふるい分け：** 敵対的なサプライチェーン汚染を防ぐため、再利用される材料は連続的なマルチスペクトル証明スキャンに合格しなければなりません。採取された断片が変化した依存関係の粒や、サブロジカル（準論理的）な構造のドリフトを示した場合、それは人工的な蜃気楼としてフラグが立てられ、即座に熱精製の対象となるのです。
+* **中に何が入っているかを知る**: ハードウェア部品表は、部品、製造元、出どころを一覧にします。CISAの枠組みは一貫した形式を示し、買い手と供給元がこの情報を確実に共有できるようにします。
+* **供給元のリスクを体系的に管理する**: 2022年5月に公表され、2024年11月に更新されたNIST SP 800-161 第1版は、サプライチェーンのあらゆる段階で、サイバーセキュリティのリスクを見つけ、評価し、対応する方法を組織に示しています。
+* **記録を生きたものに保つ**: 記録庫は、脆弱性が公表されたとき、部品が故障したとき、宇宙機が引退したときに更新します。そうすれば、影響を受ける部品を積んだ衛星を、運用者がすぐに見つけられます。
 
-### 3. 人間の主権： 天の誓いの最高建築家
-自動化されたインフラがミリ秒未満での仕分け、材料処理、およびロボット製造を実行する一方で、人間の「守る心」だけが「記録の法」を定義する権限を持ちます。
+### 3. 人の管理のもとでのAIによる分析
+記録庫をやみくもに信じずに、AIで探す:
 
-* **主権的な天の管理官：** 人間の防衛者（マスターであり未来のPhD）は、ライフサイクル管理パラメータと倫理的な資源クォータ（割り当て量）の最終的な設計者です。私たちは、物理的な軌道汚染を犠牲にして、自動化されたAIが計算効率を最適化することを許しません。未開の虚空の性質に対する敬意は、譲ることのない人間の命令です。  
-* **アーカイブの誓い：** 自律的な資源の豊かさという利便性によって、私たちの管理責任の感覚を鈍らせることはありません。人間の防衛者は、「セレスティアル・アーカイブ」が人類の進歩に対する忠実な僕であり続けることを保証し、手つかずの地平線の最高権威として強固に立つ最終的なアンカーです。
+* **AIは何千もの部品にまたがるパターンを見つける**: モデルは、新しい脆弱性の報告を記録庫の部品と照らし合わせ、普段と違う経歴を持つ供給元を示し、書類と試験結果の食い違いを見つけられます。
+* **記録庫そのものが汚染され得る**: 偽造された供給元の記録や操作された試験データは、AIツールに安全でない部品を承認させかねません。これはNIST AI 100-2e2025が示すデータ汚染のリスクです。そのため、情報源を認証し、変更を記録します。
+* **サプライチェーン承認の規則（提案）**: AIは供給元と部品を選別し、判断を推奨してかまいません。しかし、飛行用ハードウェアの新しい供給元の承認、未解決の異常を抱えた部品の受け入れ、サプライチェーンの要件の免除には、有資格の技術とセキュリティの確認者の承認を必須とします。
 
-### 4. 結論
-「セレスティアル・アーカイブ」は、真の主権とは崩壊の痕跡を一切残さない力であることを証明しています。NIST規格を通じて材料ライフサイクル管理とハードウェア・サプライチェーンの完全性をマスターすることで、私たちは脆弱な軌道の無秩序な広がりを、検証された真実の、永遠かつ自己修正的な聖域へと変貌させます。私たちは空の番人として強固に立ち、ASI（人工超知能）が百万の経路で破壊を計算しようとも、私たちの光は過去の残骸を未来の装甲へと変える論理によって守られていることを知っているのです。
+### 4. 記録庫を正直に保つ人々
+品質の技術者、サプライチェーンの分析担当者、および共通の基準:
+
+* **サプライチェーンのセキュリティは人の仕事**: 部品を検査し、供給元を監査し、書類が信頼できるかを判断するには、AIツールが支えることはできても置き換えることはできない経験が必要です。
+* **多くの組織が参加しなければならない**: 大手の元請け、小さな供給元、試験機関は、それぞれ記録の一部を持っています。このつながり全体で人を育てることで、責任と機会の両方が広がります。
+* **CISSPがサプライチェーンとガバナンスを結ぶ**: CISSPのドメイン1はサプライチェーンのリスク管理とガバナンスを、ドメイン3は安全な設計を扱い、ライフサイクルの管理のための共通の枠組みを専門家に与えます。
+
+### 5. 結論
+軌道上の基盤は、それを作る部品のあらゆる強さと弱さを受け継ぎ、それらの部品は打ち上げた後には交換できません。
+
+ハードウェア部品の生きた記録庫、体系的な供給元のリスク管理、人の監督のもとで記録を探すAI、そして最終的な承認を行う有資格の人々が、工場の床から引退まで、宇宙システムに信頼の土台を与えます。
